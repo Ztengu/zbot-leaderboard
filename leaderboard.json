@@ -1,0 +1,406 @@
+{
+ "updatedAt": "2026-10-14T04:30:33.140Z",
+ "total": 77,
+ "players": [
+  {
+   "rank": 1,
+   "username": "ztengu",
+   "level": 45,
+   "xp": 82339,
+   "ryo": 12739142,
+   "clan": "The Tank Crew"
+  },
+  {
+   "rank": 2,
+   "username": "ruchelevis",
+   "level": 21,
+   "xp": 651,
+   "ryo": 82863,
+   "clan": "Exiled Heavy Knight"
+  },
+  {
+   "rank": 3,
+   "username": "sharkonxyz_",
+   "level": 20,
+   "xp": 1452,
+   "ryo": 488788,
+   "clan": "Shark Enforcers Alpha"
+  },
+  {
+   "rank": 4,
+   "username": "trfx__",
+   "level": 19,
+   "xp": 449,
+   "ryo": 7944,
+   "clan": "Heaven Kingdom Domination"
+  },
+  {
+   "rank": 5,
+   "username": "kirrxyn",
+   "level": 16,
+   "xp": 1017,
+   "ryo": 45864,
+   "clan": null
+  },
+  {
+   "rank": 6,
+   "username": "yamada9",
+   "level": 5,
+   "xp": 201,
+   "ryo": 22241,
+   "clan": null
+  },
+  {
+   "rank": 7,
+   "username": "yamatonin",
+   "level": 4,
+   "xp": 83,
+   "ryo": 2119,
+   "clan": null
+  },
+  {
+   "rank": 8,
+   "username": "catio7",
+   "level": 3,
+   "xp": 55,
+   "ryo": 1677,
+   "clan": null
+  },
+  {
+   "rank": 9,
+   "username": "skorchy__",
+   "level": 3,
+   "xp": 19,
+   "ryo": 7257,
+   "clan": null
+  },
+  {
+   "rank": 10,
+   "username": "goku002981",
+   "level": 1,
+   "xp": 117,
+   "ryo": 6215,
+   "clan": null
+  },
+  {
+   "rank": 11,
+   "username": "picu0277",
+   "level": 1,
+   "xp": 86,
+   "ryo": 331,
+   "clan": null
+  },
+  {
+   "rank": 12,
+   "username": "xmoochp88x",
+   "level": 1,
+   "xp": 83,
+   "ryo": 868,
+   "clan": null
+  },
+  {
+   "rank": 13,
+   "username": "coyi0085",
+   "level": 1,
+   "xp": 77,
+   "ryo": 320,
+   "clan": null
+  },
+  {
+   "rank": 14,
+   "username": "adidyaf",
+   "level": 1,
+   "xp": 72,
+   "ryo": 16123,
+   "clan": null
+  },
+  {
+   "rank": 15,
+   "username": "prime_sweet__",
+   "level": 1,
+   "xp": 70,
+   "ryo": 37119,
+   "clan": null
+  },
+  {
+   "rank": 16,
+   "username": "__ezio__",
+   "level": 1,
+   "xp": 65,
+   "ryo": 185,
+   "clan": null
+  },
+  {
+   "rank": 17,
+   "username": "_aarav.9_",
+   "level": 1,
+   "xp": 62,
+   "ryo": 159,
+   "clan": null
+  },
+  {
+   "rank": 18,
+   "username": "delia_xx",
+   "level": 1,
+   "xp": 60,
+   "ryo": 454,
+   "clan": null
+  },
+  {
+   "rank": 19,
+   "username": "samzokah",
+   "level": 1,
+   "xp": 60,
+   "ryo": 153,
+   "clan": null
+  },
+  {
+   "rank": 20,
+   "username": "rengoku083246",
+   "level": 1,
+   "xp": 59,
+   "ryo": 288,
+   "clan": null
+  },
+  {
+   "rank": 21,
+   "username": "angel050105",
+   "level": 1,
+   "xp": 59,
+   "ryo": 182,
+   "clan": null
+  },
+  {
+   "rank": 22,
+   "username": "geekatie",
+   "level": 1,
+   "xp": 52,
+   "ryo": 3011,
+   "clan": null
+  },
+  {
+   "rank": 23,
+   "username": "smolboi6539",
+   "level": 1,
+   "xp": 52,
+   "ryo": 224,
+   "clan": null
+  },
+  {
+   "rank": 24,
+   "username": "tlu2",
+   "level": 1,
+   "xp": 52,
+   "ryo": 391,
+   "clan": null
+  },
+  {
+   "rank": 25,
+   "username": "unknown_devil0993",
+   "level": 1,
+   "xp": 52,
+   "ryo": 1033,
+   "clan": null
+  },
+  {
+   "rank": 26,
+   "username": "jaja04015",
+   "level": 1,
+   "xp": 52,
+   "ryo": 142,
+   "clan": null
+  },
+  {
+   "rank": 27,
+   "username": "jaredpr724",
+   "level": 1,
+   "xp": 51,
+   "ryo": 188,
+   "clan": null
+  },
+  {
+   "rank": 28,
+   "username": "0bito7878",
+   "level": 1,
+   "xp": 51,
+   "ryo": 133,
+   "clan": null
+  },
+  {
+   "rank": 29,
+   "username": "azik_zvx",
+   "level": 1,
+   "xp": 47,
+   "ryo": 415,
+   "clan": null
+  },
+  {
+   "rank": 30,
+   "username": "yc_84",
+   "level": 1,
+   "xp": 45,
+   "ryo": 360,
+   "clan": null
+  },
+  {
+   "rank": 31,
+   "username": "lukadoncic8651",
+   "level": 1,
+   "xp": 39,
+   "ryo": 2552,
+   "clan": null
+  },
+  {
+   "rank": 32,
+   "username": "tobi_1324",
+   "level": 1,
+   "xp": 34,
+   "ryo": 88,
+   "clan": null
+  },
+  {
+   "rank": 33,
+   "username": "nothing0434",
+   "level": 1,
+   "xp": 34,
+   "ryo": 432,
+   "clan": null
+  },
+  {
+   "rank": 34,
+   "username": "aki_113945",
+   "level": 1,
+   "xp": 34,
+   "ryo": 617,
+   "clan": null
+  },
+  {
+   "rank": 35,
+   "username": "raddison",
+   "level": 1,
+   "xp": 34,
+   "ryo": 87,
+   "clan": null
+  },
+  {
+   "rank": 36,
+   "username": "kirat_2587",
+   "level": 1,
+   "xp": 32,
+   "ryo": 83,
+   "clan": null
+  },
+  {
+   "rank": 37,
+   "username": "alicel2",
+   "level": 1,
+   "xp": 32,
+   "ryo": 92,
+   "clan": null
+  },
+  {
+   "rank": 38,
+   "username": "lchinoses",
+   "level": 1,
+   "xp": 30,
+   "ryo": 806,
+   "clan": null
+  },
+  {
+   "rank": 39,
+   "username": "anastasiawembert",
+   "level": 1,
+   "xp": 30,
+   "ryo": 15,
+   "clan": null
+  },
+  {
+   "rank": 40,
+   "username": "timmy064497",
+   "level": 1,
+   "xp": 27,
+   "ryo": 89,
+   "clan": null
+  },
+  {
+   "rank": 41,
+   "username": "tsukasaryo",
+   "level": 1,
+   "xp": 27,
+   "ryo": 1076,
+   "clan": null
+  },
+  {
+   "rank": 42,
+   "username": "vvslucki",
+   "level": 1,
+   "xp": 26,
+   "ryo": 11906,
+   "clan": null
+  },
+  {
+   "rank": 43,
+   "username": "lilfish_7",
+   "level": 1,
+   "xp": 26,
+   "ryo": 77,
+   "clan": null
+  },
+  {
+   "rank": 44,
+   "username": "madforshikiryougui3469",
+   "level": 1,
+   "xp": 25,
+   "ryo": 66,
+   "clan": null
+  },
+  {
+   "rank": 45,
+   "username": "cynthialfa_17640",
+   "level": 1,
+   "xp": 25,
+   "ryo": 84,
+   "clan": null
+  },
+  {
+   "rank": 46,
+   "username": "l1.ldn",
+   "level": 1,
+   "xp": 25,
+   "ryo": 214,
+   "clan": null
+  },
+  {
+   "rank": 47,
+   "username": "rasta01258",
+   "level": 1,
+   "xp": 25,
+   "ryo": 75,
+   "clan": null
+  },
+  {
+   "rank": 48,
+   "username": "alam0de_",
+   "level": 1,
+   "xp": 25,
+   "ryo": 65,
+   "clan": null
+  },
+  {
+   "rank": 49,
+   "username": "shaw09752",
+   "level": 1,
+   "xp": 23,
+   "ryo": 6000,
+   "clan": null
+  },
+  {
+   "rank": 50,
+   "username": ".hehe_01.",
+   "level": 1,
+   "xp": 20,
+   "ryo": 52,
+   "clan": null
+  }
+ ]
+}
