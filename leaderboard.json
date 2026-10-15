@@ -1,30 +1,39 @@
 {
- "updatedAt": "2026-10-14T04:33:59.732Z",
+ "updatedAt": "2026-10-15T05:27:11.784Z",
  "total": 77,
  "players": [
   {
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 82339,
-   "ryo": 12739142,
-   "clan": "The Tank Crew"
+   "xp": 84339,
+   "ryo": 12749422,
+   "clan": "The Tank Crew",
+   "wins": 164,
+   "losses": 0,
+   "rating": 1442
   },
   {
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 651,
-   "ryo": 82863,
-   "clan": "Exiled Heavy Knight"
+   "xp": 1157,
+   "ryo": 87343,
+   "clan": "Exiled Heavy Knight",
+   "wins": 100,
+   "losses": 4,
+   "rating": 1403
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
    "xp": 1452,
-   "ryo": 488788,
-   "clan": "Shark Enforcers Alpha"
+   "ryo": 488798,
+   "clan": "Shark Enforcers Alpha",
+   "wins": 49,
+   "losses": 9,
+   "rating": 1264
   },
   {
    "rank": 4,
@@ -32,7 +41,10 @@
    "level": 19,
    "xp": 449,
    "ryo": 7944,
-   "clan": "Heaven Kingdom Domination"
+   "clan": "Heaven Kingdom Domination",
+   "wins": 28,
+   "losses": 7,
+   "rating": 1203
   },
   {
    "rank": 5,
@@ -40,7 +52,10 @@
    "level": 16,
    "xp": 1017,
    "ryo": 45864,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 992
   },
   {
    "rank": 6,
@@ -48,7 +63,10 @@
    "level": 5,
    "xp": 201,
    "ryo": 22241,
-   "clan": null
+   "clan": null,
+   "wins": 4,
+   "losses": 3,
+   "rating": 1055
   },
   {
    "rank": 7,
@@ -56,15 +74,21 @@
    "level": 4,
    "xp": 83,
    "ryo": 2119,
-   "clan": null
+   "clan": null,
+   "wins": 1,
+   "losses": 11,
+   "rating": 944
   },
   {
    "rank": 8,
    "username": "catio7",
    "level": 3,
    "xp": 55,
-   "ryo": 1677,
-   "clan": null
+   "ryo": 1697,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 969
   },
   {
    "rank": 9,
@@ -72,7 +96,10 @@
    "level": 3,
    "xp": 19,
    "ryo": 7257,
-   "clan": null
+   "clan": null,
+   "wins": 1,
+   "losses": 4,
+   "rating": 991
   },
   {
    "rank": 10,
@@ -80,23 +107,32 @@
    "level": 1,
    "xp": 117,
    "ryo": 6215,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 7,
+   "rating": 937
   },
   {
    "rank": 11,
+   "username": "xmoochp88x",
+   "level": 1,
+   "xp": 89,
+   "ryo": 884,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 907
+  },
+  {
+   "rank": 12,
    "username": "picu0277",
    "level": 1,
    "xp": 86,
    "ryo": 331,
-   "clan": null
-  },
-  {
-   "rank": 12,
-   "username": "xmoochp88x",
-   "level": 1,
-   "xp": 83,
-   "ryo": 868,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 13,
+   "rating": 923
   },
   {
    "rank": 13,
@@ -104,7 +140,10 @@
    "level": 1,
    "xp": 77,
    "ryo": 320,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 12,
+   "rating": 910
   },
   {
    "rank": 14,
@@ -112,7 +151,10 @@
    "level": 1,
    "xp": 72,
    "ryo": 16123,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 923
   },
   {
    "rank": 15,
@@ -120,7 +162,10 @@
    "level": 1,
    "xp": 70,
    "ryo": 37119,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 914
   },
   {
    "rank": 16,
@@ -128,7 +173,10 @@
    "level": 1,
    "xp": 65,
    "ryo": 185,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 10,
+   "rating": 921
   },
   {
    "rank": 17,
@@ -136,7 +184,10 @@
    "level": 1,
    "xp": 62,
    "ryo": 159,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 10,
+   "rating": 936
   },
   {
    "rank": 18,
@@ -144,7 +195,10 @@
    "level": 1,
    "xp": 60,
    "ryo": 454,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 958
   },
   {
    "rank": 19,
@@ -152,7 +206,10 @@
    "level": 1,
    "xp": 60,
    "ryo": 153,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 947
   },
   {
    "rank": 20,
@@ -160,7 +217,10 @@
    "level": 1,
    "xp": 59,
    "ryo": 288,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 951
   },
   {
    "rank": 21,
@@ -168,15 +228,21 @@
    "level": 1,
    "xp": 59,
    "ryo": 182,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 951
   },
   {
    "rank": 22,
-   "username": "geekatie",
+   "username": "unknown_devil0993",
    "level": 1,
    "xp": 52,
-   "ryo": 3011,
-   "clan": null
+   "ryo": 1033,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 928
   },
   {
    "rank": 23,
@@ -184,7 +250,10 @@
    "level": 1,
    "xp": 52,
    "ryo": 224,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 944
   },
   {
    "rank": 24,
@@ -192,15 +261,21 @@
    "level": 1,
    "xp": 52,
    "ryo": 391,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 949
   },
   {
    "rank": 25,
-   "username": "unknown_devil0993",
+   "username": "geekatie",
    "level": 1,
    "xp": 52,
-   "ryo": 1033,
-   "clan": null
+   "ryo": 3011,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 939
   },
   {
    "rank": 26,
@@ -208,7 +283,10 @@
    "level": 1,
    "xp": 52,
    "ryo": 142,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 921
   },
   {
    "rank": 27,
@@ -216,7 +294,10 @@
    "level": 1,
    "xp": 51,
    "ryo": 188,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 973
   },
   {
    "rank": 28,
@@ -224,7 +305,10 @@
    "level": 1,
    "xp": 51,
    "ryo": 133,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 923
   },
   {
    "rank": 29,
@@ -232,7 +316,10 @@
    "level": 1,
    "xp": 47,
    "ryo": 415,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 7,
+   "rating": 970
   },
   {
    "rank": 30,
@@ -240,7 +327,10 @@
    "level": 1,
    "xp": 45,
    "ryo": 360,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 7,
+   "rating": 949
   },
   {
    "rank": 31,
@@ -248,7 +338,10 @@
    "level": 1,
    "xp": 39,
    "ryo": 2552,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 6,
+   "rating": 965
   },
   {
    "rank": 32,
@@ -256,7 +349,10 @@
    "level": 1,
    "xp": 34,
    "ryo": 88,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 977
   },
   {
    "rank": 33,
@@ -264,7 +360,10 @@
    "level": 1,
    "xp": 34,
    "ryo": 432,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 968
   },
   {
    "rank": 34,
@@ -272,7 +371,10 @@
    "level": 1,
    "xp": 34,
    "ryo": 617,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 964
   },
   {
    "rank": 35,
@@ -280,7 +382,10 @@
    "level": 1,
    "xp": 34,
    "ryo": 87,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 962
   },
   {
    "rank": 36,
@@ -288,7 +393,10 @@
    "level": 1,
    "xp": 32,
    "ryo": 83,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 957
   },
   {
    "rank": 37,
@@ -296,7 +404,10 @@
    "level": 1,
    "xp": 32,
    "ryo": 92,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 957
   },
   {
    "rank": 38,
@@ -304,7 +415,10 @@
    "level": 1,
    "xp": 30,
    "ryo": 806,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 960
   },
   {
    "rank": 39,
@@ -312,7 +426,10 @@
    "level": 1,
    "xp": 30,
    "ryo": 15,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 986
   },
   {
    "rank": 40,
@@ -320,7 +437,10 @@
    "level": 1,
    "xp": 27,
    "ryo": 89,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 969
   },
   {
    "rank": 41,
@@ -328,7 +448,10 @@
    "level": 1,
    "xp": 27,
    "ryo": 1076,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 996
   },
   {
    "rank": 42,
@@ -336,7 +459,10 @@
    "level": 1,
    "xp": 26,
    "ryo": 11906,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 978
   },
   {
    "rank": 43,
@@ -344,7 +470,10 @@
    "level": 1,
    "xp": 26,
    "ryo": 77,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 976
   },
   {
    "rank": 44,
@@ -352,7 +481,10 @@
    "level": 1,
    "xp": 25,
    "ryo": 66,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 977
   },
   {
    "rank": 45,
@@ -360,7 +492,10 @@
    "level": 1,
    "xp": 25,
    "ryo": 84,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 952
   },
   {
    "rank": 46,
@@ -368,7 +503,10 @@
    "level": 1,
    "xp": 25,
    "ryo": 214,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 954
   },
   {
    "rank": 47,
@@ -376,7 +514,10 @@
    "level": 1,
    "xp": 25,
    "ryo": 75,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 966
   },
   {
    "rank": 48,
@@ -384,7 +525,10 @@
    "level": 1,
    "xp": 25,
    "ryo": 65,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 963
   },
   {
    "rank": 49,
@@ -392,7 +536,10 @@
    "level": 1,
    "xp": 23,
    "ryo": 6000,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
   },
   {
    "rank": 50,
@@ -400,7 +547,641 @@
    "level": 1,
    "xp": 20,
    "ryo": 52,
-   "clan": null
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 989
+  }
+ ],
+ "richest": [
+  {
+   "rank": 1,
+   "username": "ztengu",
+   "level": 45,
+   "xp": 84339,
+   "ryo": 12749422,
+   "clan": "The Tank Crew",
+   "wins": 164,
+   "losses": 0,
+   "rating": 1442
+  },
+  {
+   "rank": 2,
+   "username": "sharkonxyz_",
+   "level": 20,
+   "xp": 1452,
+   "ryo": 488798,
+   "clan": "Shark Enforcers Alpha",
+   "wins": 49,
+   "losses": 9,
+   "rating": 1264
+  },
+  {
+   "rank": 3,
+   "username": "ruchelevis",
+   "level": 21,
+   "xp": 1157,
+   "ryo": 87343,
+   "clan": "Exiled Heavy Knight",
+   "wins": 100,
+   "losses": 4,
+   "rating": 1403
+  },
+  {
+   "rank": 4,
+   "username": "kirrxyn",
+   "level": 16,
+   "xp": 1017,
+   "ryo": 45864,
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 992
+  },
+  {
+   "rank": 5,
+   "username": "prime_sweet__",
+   "level": 1,
+   "xp": 70,
+   "ryo": 37119,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 914
+  },
+  {
+   "rank": 6,
+   "username": "yamada9",
+   "level": 5,
+   "xp": 201,
+   "ryo": 22241,
+   "clan": null,
+   "wins": 4,
+   "losses": 3,
+   "rating": 1055
+  },
+  {
+   "rank": 7,
+   "username": "adidyaf",
+   "level": 1,
+   "xp": 72,
+   "ryo": 16123,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 923
+  },
+  {
+   "rank": 8,
+   "username": "vvslucki",
+   "level": 1,
+   "xp": 26,
+   "ryo": 11906,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 978
+  },
+  {
+   "rank": 9,
+   "username": "trfx__",
+   "level": 19,
+   "xp": 449,
+   "ryo": 7944,
+   "clan": "Heaven Kingdom Domination",
+   "wins": 28,
+   "losses": 7,
+   "rating": 1203
+  },
+  {
+   "rank": 10,
+   "username": "skorchy__",
+   "level": 3,
+   "xp": 19,
+   "ryo": 7257,
+   "clan": null,
+   "wins": 1,
+   "losses": 4,
+   "rating": 991
+  },
+  {
+   "rank": 11,
+   "username": "yamada019116",
+   "level": 1,
+   "xp": 10,
+   "ryo": 7050,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 12,
+   "username": "goku002981",
+   "level": 1,
+   "xp": 117,
+   "ryo": 6215,
+   "clan": null,
+   "wins": 0,
+   "losses": 7,
+   "rating": 937
+  },
+  {
+   "rank": 13,
+   "username": "sharkonxyz_",
+   "level": 1,
+   "xp": 0,
+   "ryo": 6120,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 14,
+   "username": "sharkonxyz_",
+   "level": 1,
+   "xp": 7,
+   "ryo": 6088,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 997
+  },
+  {
+   "rank": 15,
+   "username": "shaw09752",
+   "level": 1,
+   "xp": 23,
+   "ryo": 6000,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 16,
+   "username": "geekatie",
+   "level": 1,
+   "xp": 52,
+   "ryo": 3011,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 939
+  },
+  {
+   "rank": 17,
+   "username": "lukadoncic8651",
+   "level": 1,
+   "xp": 39,
+   "ryo": 2552,
+   "clan": null,
+   "wins": 0,
+   "losses": 6,
+   "rating": 965
+  },
+  {
+   "rank": 18,
+   "username": "yamatonin",
+   "level": 4,
+   "xp": 83,
+   "ryo": 2119,
+   "clan": null,
+   "wins": 1,
+   "losses": 11,
+   "rating": 944
+  },
+  {
+   "rank": 19,
+   "username": "iblamesin.",
+   "level": 1,
+   "xp": 0,
+   "ryo": 1960,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 20,
+   "username": "fallen.deity",
+   "level": 1,
+   "xp": 19,
+   "ryo": 1729,
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 982
+  },
+  {
+   "rank": 21,
+   "username": "catio7",
+   "level": 3,
+   "xp": 55,
+   "ryo": 1697,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 969
+  },
+  {
+   "rank": 22,
+   "username": "baseddr.",
+   "level": 1,
+   "xp": 19,
+   "ryo": 1110,
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 988
+  },
+  {
+   "rank": 23,
+   "username": "tsukasaryo",
+   "level": 1,
+   "xp": 27,
+   "ryo": 1076,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 996
+  },
+  {
+   "rank": 24,
+   "username": "unknown_devil0993",
+   "level": 1,
+   "xp": 52,
+   "ryo": 1033,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 928
+  },
+  {
+   "rank": 25,
+   "username": "xmoochp88x",
+   "level": 1,
+   "xp": 89,
+   "ryo": 884,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 907
+  },
+  {
+   "rank": 26,
+   "username": "lchinoses",
+   "level": 1,
+   "xp": 30,
+   "ryo": 806,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 960
+  },
+  {
+   "rank": 27,
+   "username": "aki_113945",
+   "level": 1,
+   "xp": 34,
+   "ryo": 617,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 964
+  },
+  {
+   "rank": 28,
+   "username": "delia_xx",
+   "level": 1,
+   "xp": 60,
+   "ryo": 454,
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 958
+  },
+  {
+   "rank": 29,
+   "username": "nothing0434",
+   "level": 1,
+   "xp": 34,
+   "ryo": 432,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 968
+  },
+  {
+   "rank": 30,
+   "username": "azik_zvx",
+   "level": 1,
+   "xp": 47,
+   "ryo": 415,
+   "clan": null,
+   "wins": 0,
+   "losses": 7,
+   "rating": 970
+  },
+  {
+   "rank": 31,
+   "username": "tlu2",
+   "level": 1,
+   "xp": 52,
+   "ryo": 391,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 949
+  },
+  {
+   "rank": 32,
+   "username": "yc_84",
+   "level": 1,
+   "xp": 45,
+   "ryo": 360,
+   "clan": null,
+   "wins": 0,
+   "losses": 7,
+   "rating": 949
+  },
+  {
+   "rank": 33,
+   "username": "picu0277",
+   "level": 1,
+   "xp": 86,
+   "ryo": 331,
+   "clan": null,
+   "wins": 0,
+   "losses": 13,
+   "rating": 923
+  },
+  {
+   "rank": 34,
+   "username": "coyi0085",
+   "level": 1,
+   "xp": 77,
+   "ryo": 320,
+   "clan": null,
+   "wins": 0,
+   "losses": 12,
+   "rating": 910
+  },
+  {
+   "rank": 35,
+   "username": "rengoku083246",
+   "level": 1,
+   "xp": 59,
+   "ryo": 288,
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 951
+  },
+  {
+   "rank": 36,
+   "username": ".nextar",
+   "level": 1,
+   "xp": 12,
+   "ryo": 272,
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 985
+  },
+  {
+   "rank": 37,
+   "username": "jmsterr",
+   "level": 1,
+   "xp": 0,
+   "ryo": 250,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 38,
+   "username": "smolboi6539",
+   "level": 1,
+   "xp": 52,
+   "ryo": 224,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 944
+  },
+  {
+   "rank": 39,
+   "username": "l1.ldn",
+   "level": 1,
+   "xp": 25,
+   "ryo": 214,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 954
+  },
+  {
+   "rank": 40,
+   "username": "jaredpr724",
+   "level": 1,
+   "xp": 51,
+   "ryo": 188,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 973
+  },
+  {
+   "rank": 41,
+   "username": "__ezio__",
+   "level": 1,
+   "xp": 65,
+   "ryo": 185,
+   "clan": null,
+   "wins": 0,
+   "losses": 10,
+   "rating": 921
+  },
+  {
+   "rank": 42,
+   "username": "angel050105",
+   "level": 1,
+   "xp": 59,
+   "ryo": 182,
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 951
+  },
+  {
+   "rank": 43,
+   "username": "_aarav.9_",
+   "level": 1,
+   "xp": 62,
+   "ryo": 159,
+   "clan": null,
+   "wins": 0,
+   "losses": 10,
+   "rating": 936
+  },
+  {
+   "rank": 44,
+   "username": "samzokah",
+   "level": 1,
+   "xp": 60,
+   "ryo": 153,
+   "clan": null,
+   "wins": 0,
+   "losses": 9,
+   "rating": 947
+  },
+  {
+   "rank": 45,
+   "username": "jaja04015",
+   "level": 1,
+   "xp": 52,
+   "ryo": 142,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 921
+  },
+  {
+   "rank": 46,
+   "username": "0bito7878",
+   "level": 1,
+   "xp": 51,
+   "ryo": 133,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 923
+  },
+  {
+   "rank": 47,
+   "username": "kaminari099",
+   "level": 1,
+   "xp": 19,
+   "ryo": 119,
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 980
+  },
+  {
+   "rank": 48,
+   "username": "chickendacoopest",
+   "level": 1,
+   "xp": 0,
+   "ryo": 110,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 49,
+   "username": "alicel2",
+   "level": 1,
+   "xp": 32,
+   "ryo": 92,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 957
+  },
+  {
+   "rank": 50,
+   "username": "timmy064497",
+   "level": 1,
+   "xp": 27,
+   "ryo": 89,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 969
+  }
+ ],
+ "pvp": [
+  {
+   "rank": 1,
+   "username": "ztengu",
+   "level": 45,
+   "xp": 84339,
+   "ryo": 12749422,
+   "clan": "The Tank Crew",
+   "wins": 164,
+   "losses": 0,
+   "rating": 1442
+  },
+  {
+   "rank": 2,
+   "username": "ruchelevis",
+   "level": 21,
+   "xp": 1157,
+   "ryo": 87343,
+   "clan": "Exiled Heavy Knight",
+   "wins": 100,
+   "losses": 4,
+   "rating": 1403
+  },
+  {
+   "rank": 3,
+   "username": "sharkonxyz_",
+   "level": 20,
+   "xp": 1452,
+   "ryo": 488798,
+   "clan": "Shark Enforcers Alpha",
+   "wins": 49,
+   "losses": 9,
+   "rating": 1264
+  },
+  {
+   "rank": 4,
+   "username": "trfx__",
+   "level": 19,
+   "xp": 449,
+   "ryo": 7944,
+   "clan": "Heaven Kingdom Domination",
+   "wins": 28,
+   "losses": 7,
+   "rating": 1203
+  },
+  {
+   "rank": 5,
+   "username": "yamada9",
+   "level": 5,
+   "xp": 201,
+   "ryo": 22241,
+   "clan": null,
+   "wins": 4,
+   "losses": 3,
+   "rating": 1055
+  },
+  {
+   "rank": 6,
+   "username": "skorchy__",
+   "level": 3,
+   "xp": 19,
+   "ryo": 7257,
+   "clan": null,
+   "wins": 1,
+   "losses": 4,
+   "rating": 991
+  },
+  {
+   "rank": 7,
+   "username": "yamatonin",
+   "level": 4,
+   "xp": 83,
+   "ryo": 2119,
+   "clan": null,
+   "wins": 1,
+   "losses": 11,
+   "rating": 944
   }
  ]
 }
