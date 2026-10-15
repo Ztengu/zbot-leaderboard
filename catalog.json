@@ -1,0 +1,34 @@
+{
+ "updatedAt": "2026-10-15T05:27:14.225Z",
+ "cards": [
+  {
+   "id": "suika",
+   "name": "Suika Dr. Stone",
+   "description": "Fan-made OC, a descendant of modern humans and an inhabitant of Ishigami Village.",
+   "rarity": "legendary",
+   "category": "custom",
+   "image": "https://i.imgur.com/mZaDP4W.png",
+   "emoji": null,
+   "stats": {
+    "attack": 45,
+    "defense": 30,
+    "hp": 90,
+    "speed": 12,
+    "critical": 10,
+    "chakra": 18
+   },
+   "special": null,
+   "jutsu": null,
+   "form": null,
+   "obtainable": true,
+   "eventName": null,
+   "eventStartAt": null,
+   "eventEndAt": null,
+   "requirements": null,
+   "material": null
+  }
+ ],
+ "items": [],
+ "pets": [],
+ "events": []
+}
