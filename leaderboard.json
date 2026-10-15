@@ -1,17 +1,17 @@
 {
- "updatedAt": "2026-10-15T05:27:11.784Z",
+ "updatedAt": "2026-10-15T05:27:46.189Z",
  "total": 77,
  "players": [
   {
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 84339,
-   "ryo": 12749422,
+   "xp": 84375,
+   "ryo": 12749483,
    "clan": "The Tank Crew",
-   "wins": 164,
+   "wins": 165,
    "losses": 0,
-   "rating": 1442
+   "rating": 1443
   },
   {
    "rank": 2,
@@ -558,12 +558,12 @@
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 84339,
-   "ryo": 12749422,
+   "xp": 84375,
+   "ryo": 12749483,
    "clan": "The Tank Crew",
-   "wins": 164,
+   "wins": 165,
    "losses": 0,
-   "rating": 1442
+   "rating": 1443
   },
   {
    "rank": 2,
@@ -1110,12 +1110,12 @@
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 84339,
-   "ryo": 12749422,
+   "xp": 84375,
+   "ryo": 12749483,
    "clan": "The Tank Crew",
-   "wins": 164,
+   "wins": 165,
    "losses": 0,
-   "rating": 1442
+   "rating": 1443
   },
   {
    "rank": 2,
