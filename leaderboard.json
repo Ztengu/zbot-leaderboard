@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T03:13:49.772Z",
+ "updatedAt": "2026-10-16T03:43:49.513Z",
  "total": 78,
  "players": [
   {
@@ -62,7 +62,7 @@
    "username": "yamada9",
    "level": 5,
    "xp": 201,
-   "ryo": 22241,
+   "ryo": 22251,
    "clan": null,
    "wins": 4,
    "losses": 3,
@@ -614,7 +614,7 @@
    "username": "yamada9",
    "level": 5,
    "xp": 201,
-   "ryo": 22241,
+   "ryo": 22251,
    "clan": null,
    "wins": 4,
    "losses": 3,
@@ -1155,7 +1155,7 @@
    "username": "yamada9",
    "level": 5,
    "xp": 201,
-   "ryo": 22241,
+   "ryo": 22251,
    "clan": null,
    "wins": 4,
    "losses": 3,
