@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T07:23:36.697Z",
+ "updatedAt": "2026-10-17T09:00:41.285Z",
  "cards": [
   {
    "id": "suika",
@@ -5157,8 +5157,8 @@
    "type": "accessory",
    "rarity": "legendary",
    "price": 0,
-   "image": null,
-   "emoji": "👑",
+   "image": "https://cdn.discordapp.com/emojis/1560937234562027620.gif?size=128",
+   "emoji": null,
    "obtainable": true,
    "maxTier": 1,
    "stats": {
