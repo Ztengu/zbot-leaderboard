@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T07:03:22.098Z",
+ "updatedAt": "2026-10-17T07:18:22.654Z",
  "total": 78,
  "players": [
   {
@@ -28,12 +28,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 1797,
-   "ryo": 496216,
+   "xp": 1830,
+   "ryo": 506271,
    "clan": "Shark Enforcers Alpha",
-   "wins": 49,
+   "wins": 50,
    "losses": 9,
-   "rating": 1264
+   "rating": 1268
   },
   {
    "rank": 4,
@@ -569,12 +569,12 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 1797,
-   "ryo": 496216,
+   "xp": 1830,
+   "ryo": 506271,
    "clan": "Shark Enforcers Alpha",
-   "wins": 49,
+   "wins": 50,
    "losses": 9,
-   "rating": 1264
+   "rating": 1268
   },
   {
    "rank": 3,
@@ -1132,12 +1132,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 1797,
-   "ryo": 496216,
+   "xp": 1830,
+   "ryo": 506271,
    "clan": "Shark Enforcers Alpha",
-   "wins": 49,
+   "wins": 50,
    "losses": 9,
-   "rating": 1264
+   "rating": 1268
   },
   {
    "rank": 4,
