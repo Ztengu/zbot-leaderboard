@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T07:23:32.921Z",
+ "updatedAt": "2026-10-17T07:37:34.294Z",
  "total": 78,
  "players": [
   {
@@ -28,12 +28,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 1896,
-   "ryo": 506771,
+   "xp": 2679,
+   "ryo": 510213,
    "clan": "Shark Enforcers Alpha",
-   "wins": 50,
+   "wins": 51,
    "losses": 9,
-   "rating": 1268
+   "rating": 1271
   },
   {
    "rank": 4,
@@ -356,17 +356,6 @@
   },
   {
    "rank": 33,
-   "username": "nothing0434",
-   "level": 1,
-   "xp": 34,
-   "ryo": 432,
-   "clan": null,
-   "wins": 0,
-   "losses": 5,
-   "rating": 968
-  },
-  {
-   "rank": 34,
    "username": "aki_113945",
    "level": 1,
    "xp": 34,
@@ -375,6 +364,17 @@
    "wins": 0,
    "losses": 5,
    "rating": 964
+  },
+  {
+   "rank": 34,
+   "username": "nothing0434",
+   "level": 1,
+   "xp": 34,
+   "ryo": 432,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 968
   },
   {
    "rank": 35,
@@ -389,14 +389,14 @@
   },
   {
    "rank": 36,
-   "username": "kirat_2587",
+   "username": "vvslucki",
    "level": 1,
    "xp": 32,
-   "ryo": 83,
+   "ryo": 11922,
    "clan": null,
    "wins": 0,
    "losses": 5,
-   "rating": 957
+   "rating": 972
   },
   {
    "rank": 37,
@@ -411,6 +411,17 @@
   },
   {
    "rank": 38,
+   "username": "kirat_2587",
+   "level": 1,
+   "xp": 32,
+   "ryo": 83,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 957
+  },
+  {
+   "rank": 39,
    "username": "lchinoses",
    "level": 1,
    "xp": 30,
@@ -421,7 +432,7 @@
    "rating": 960
   },
   {
-   "rank": 39,
+   "rank": 40,
    "username": "anastasiawembert",
    "level": 1,
    "xp": 30,
@@ -432,7 +443,7 @@
    "rating": 986
   },
   {
-   "rank": 40,
+   "rank": 41,
    "username": "timmy064497",
    "level": 1,
    "xp": 27,
@@ -443,7 +454,7 @@
    "rating": 969
   },
   {
-   "rank": 41,
+   "rank": 42,
    "username": "tsukasaryo",
    "level": 1,
    "xp": 27,
@@ -452,17 +463,6 @@
    "wins": 0,
    "losses": 1,
    "rating": 996
-  },
-  {
-   "rank": 42,
-   "username": "vvslucki",
-   "level": 1,
-   "xp": 26,
-   "ryo": 11906,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 978
   },
   {
    "rank": 43,
@@ -569,12 +569,12 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 1896,
-   "ryo": 506771,
+   "xp": 2679,
+   "ryo": 510213,
    "clan": "Shark Enforcers Alpha",
-   "wins": 50,
+   "wins": 51,
    "losses": 9,
-   "rating": 1268
+   "rating": 1271
   },
   {
    "rank": 3,
@@ -635,12 +635,12 @@
    "rank": 8,
    "username": "vvslucki",
    "level": 1,
-   "xp": 26,
-   "ryo": 11906,
+   "xp": 32,
+   "ryo": 11922,
    "clan": null,
    "wins": 0,
-   "losses": 4,
-   "rating": 978
+   "losses": 5,
+   "rating": 972
   },
   {
    "rank": 9,
@@ -1132,12 +1132,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 1896,
-   "ryo": 506771,
+   "xp": 2679,
+   "ryo": 510213,
    "clan": "Shark Enforcers Alpha",
-   "wins": 50,
+   "wins": 51,
    "losses": 9,
-   "rating": 1268
+   "rating": 1271
   },
   {
    "rank": 4,
