@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-19T04:27:25.153Z",
+ "updatedAt": "2026-10-19T06:19:58.949Z",
  "total": 78,
  "players": [
   {
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 88375,
-   "ryo": 12776403,
+   "xp": 88435,
+   "ryo": 12777573,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -17,19 +17,19 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 1545,
-   "ryo": 96273,
+   "xp": 1729,
+   "ryo": 96963,
    "clan": "Exiled Heavy Knight",
-   "wins": 101,
+   "wins": 102,
    "losses": 4,
-   "rating": 1404
+   "rating": 1406
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2679,
-   "ryo": 510273,
+   "xp": 2779,
+   "ryo": 511833,
    "clan": "Shark Enforcers Alpha",
    "wins": 51,
    "losses": 9,
@@ -235,17 +235,6 @@
   },
   {
    "rank": 22,
-   "username": "unknown_devil0993",
-   "level": 1,
-   "xp": 52,
-   "ryo": 1033,
-   "clan": null,
-   "wins": 0,
-   "losses": 8,
-   "rating": 928
-  },
-  {
-   "rank": 23,
    "username": "smolboi6539",
    "level": 1,
    "xp": 52,
@@ -254,6 +243,17 @@
    "wins": 0,
    "losses": 8,
    "rating": 944
+  },
+  {
+   "rank": 23,
+   "username": "unknown_devil0993",
+   "level": 1,
+   "xp": 52,
+   "ryo": 1033,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 928
   },
   {
    "rank": 24,
@@ -444,6 +444,17 @@
   },
   {
    "rank": 41,
+   "username": "shaw09752",
+   "level": 1,
+   "xp": 29,
+   "ryo": 6016,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 996
+  },
+  {
+   "rank": 42,
    "username": "timmy064497",
    "level": 1,
    "xp": 27,
@@ -454,7 +465,7 @@
    "rating": 969
   },
   {
-   "rank": 42,
+   "rank": 43,
    "username": "tsukasaryo",
    "level": 1,
    "xp": 27,
@@ -465,7 +476,7 @@
    "rating": 996
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "lilfish_7",
    "level": 1,
    "xp": 26,
@@ -476,7 +487,7 @@
    "rating": 976
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "madforshikiryougui3469",
    "level": 1,
    "xp": 25,
@@ -487,7 +498,7 @@
    "rating": 977
   },
   {
-   "rank": 45,
+   "rank": 46,
    "username": "cynthialfa_17640",
    "level": 1,
    "xp": 25,
@@ -498,7 +509,7 @@
    "rating": 952
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "l1.ldn",
    "level": 1,
    "xp": 25,
@@ -509,7 +520,7 @@
    "rating": 954
   },
   {
-   "rank": 47,
+   "rank": 48,
    "username": "rasta01258",
    "level": 1,
    "xp": 25,
@@ -520,7 +531,7 @@
    "rating": 966
   },
   {
-   "rank": 48,
+   "rank": 49,
    "username": "alam0de_",
    "level": 1,
    "xp": 25,
@@ -529,17 +540,6 @@
    "wins": 0,
    "losses": 4,
    "rating": 963
-  },
-  {
-   "rank": 49,
-   "username": "shaw09752",
-   "level": 1,
-   "xp": 23,
-   "ryo": 6000,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 50,
@@ -558,8 +558,8 @@
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 88375,
-   "ryo": 12776403,
+   "xp": 88435,
+   "ryo": 12777573,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -569,8 +569,8 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2679,
-   "ryo": 510273,
+   "xp": 2779,
+   "ryo": 511833,
    "clan": "Shark Enforcers Alpha",
    "wins": 51,
    "losses": 9,
@@ -580,12 +580,12 @@
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 1545,
-   "ryo": 96273,
+   "xp": 1729,
+   "ryo": 96963,
    "clan": "Exiled Heavy Knight",
-   "wins": 101,
+   "wins": 102,
    "losses": 4,
-   "rating": 1404
+   "rating": 1406
   },
   {
    "rank": 4,
@@ -712,12 +712,12 @@
    "rank": 15,
    "username": "shaw09752",
    "level": 1,
-   "xp": 23,
-   "ryo": 6000,
+   "xp": 29,
+   "ryo": 6016,
    "clan": null,
    "wins": 0,
-   "losses": 0,
-   "rating": 1000
+   "losses": 1,
+   "rating": 996
   },
   {
    "rank": 16,
@@ -1110,8 +1110,8 @@
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 88375,
-   "ryo": 12776403,
+   "xp": 88435,
+   "ryo": 12777573,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -1121,19 +1121,19 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 1545,
-   "ryo": 96273,
+   "xp": 1729,
+   "ryo": 96963,
    "clan": "Exiled Heavy Knight",
-   "wins": 101,
+   "wins": 102,
    "losses": 4,
-   "rating": 1404
+   "rating": 1406
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2679,
-   "ryo": 510273,
+   "xp": 2779,
+   "ryo": 511833,
    "clan": "Shark Enforcers Alpha",
    "wins": 51,
    "losses": 9,
