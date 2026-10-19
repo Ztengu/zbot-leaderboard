@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T01:39:05.912Z",
+ "updatedAt": "2026-10-19T01:54:05.874Z",
  "total": 78,
  "players": [
   {
@@ -73,7 +73,7 @@
    "username": "yamatonin",
    "level": 4,
    "xp": 83,
-   "ryo": 2189,
+   "ryo": 2239,
    "clan": null,
    "wins": 1,
    "losses": 11,
@@ -746,7 +746,7 @@
    "username": "yamatonin",
    "level": 4,
    "xp": 83,
-   "ryo": 2189,
+   "ryo": 2239,
    "clan": null,
    "wins": 1,
    "losses": 11,
@@ -1177,7 +1177,7 @@
    "username": "yamatonin",
    "level": 4,
    "xp": 83,
-   "ryo": 2189,
+   "ryo": 2239,
    "clan": null,
    "wins": 1,
    "losses": 11,
