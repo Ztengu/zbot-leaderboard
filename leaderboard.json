@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T13:53:25.285Z",
+ "updatedAt": "2026-10-20T18:53:25.347Z",
  "total": 78,
  "players": [
   {
@@ -17,23 +17,23 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2128,
-   "ryo": 100193,
+   "xp": 2355,
+   "ryo": 101773,
    "clan": "Exiled Heavy Knight",
-   "wins": 104,
+   "wins": 105,
    "losses": 4,
-   "rating": 1409
+   "rating": 1411
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2779,
-   "ryo": 512943,
+   "xp": 2970,
+   "ryo": 514038,
    "clan": "Shark Enforcers Alpha",
-   "wins": 51,
+   "wins": 52,
    "losses": 9,
-   "rating": 1271
+   "rating": 1274
   },
   {
    "rank": 4,
@@ -84,7 +84,7 @@
    "username": "catio7",
    "level": 3,
    "xp": 55,
-   "ryo": 1697,
+   "ryo": 1777,
    "clan": null,
    "wins": 0,
    "losses": 4,
@@ -235,17 +235,6 @@
   },
   {
    "rank": 22,
-   "username": "smolboi6539",
-   "level": 1,
-   "xp": 52,
-   "ryo": 224,
-   "clan": null,
-   "wins": 0,
-   "losses": 8,
-   "rating": 944
-  },
-  {
-   "rank": 23,
    "username": "unknown_devil0993",
    "level": 1,
    "xp": 52,
@@ -254,6 +243,17 @@
    "wins": 0,
    "losses": 8,
    "rating": 928
+  },
+  {
+   "rank": 23,
+   "username": "smolboi6539",
+   "level": 1,
+   "xp": 52,
+   "ryo": 224,
+   "clan": null,
+   "wins": 0,
+   "losses": 8,
+   "rating": 944
   },
   {
    "rank": 24,
@@ -268,17 +268,6 @@
   },
   {
    "rank": 25,
-   "username": "geekatie",
-   "level": 1,
-   "xp": 52,
-   "ryo": 3011,
-   "clan": null,
-   "wins": 0,
-   "losses": 5,
-   "rating": 939
-  },
-  {
-   "rank": 26,
    "username": "jaja04015",
    "level": 1,
    "xp": 52,
@@ -287,6 +276,17 @@
    "wins": 0,
    "losses": 8,
    "rating": 921
+  },
+  {
+   "rank": 26,
+   "username": "geekatie",
+   "level": 1,
+   "xp": 52,
+   "ryo": 3011,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 939
   },
   {
    "rank": 27,
@@ -345,6 +345,17 @@
   },
   {
    "rank": 32,
+   "username": "alicel2",
+   "level": 1,
+   "xp": 38,
+   "ryo": 108,
+   "clan": null,
+   "wins": 0,
+   "losses": 6,
+   "rating": 951
+  },
+  {
+   "rank": 33,
    "username": "tobi_1324",
    "level": 1,
    "xp": 34,
@@ -355,7 +366,7 @@
    "rating": 977
   },
   {
-   "rank": 33,
+   "rank": 34,
    "username": "aki_113945",
    "level": 1,
    "xp": 34,
@@ -366,7 +377,7 @@
    "rating": 964
   },
   {
-   "rank": 34,
+   "rank": 35,
    "username": "nothing0434",
    "level": 1,
    "xp": 34,
@@ -377,7 +388,7 @@
    "rating": 968
   },
   {
-   "rank": 35,
+   "rank": 36,
    "username": "raddison",
    "level": 1,
    "xp": 34,
@@ -388,7 +399,7 @@
    "rating": 962
   },
   {
-   "rank": 36,
+   "rank": 37,
    "username": "vvslucki",
    "level": 1,
    "xp": 32,
@@ -397,17 +408,6 @@
    "wins": 0,
    "losses": 5,
    "rating": 972
-  },
-  {
-   "rank": 37,
-   "username": "alicel2",
-   "level": 1,
-   "xp": 32,
-   "ryo": 92,
-   "clan": null,
-   "wins": 0,
-   "losses": 5,
-   "rating": 957
   },
   {
    "rank": 38,
@@ -521,6 +521,17 @@
   },
   {
    "rank": 48,
+   "username": "kaminari099",
+   "level": 1,
+   "xp": 25,
+   "ryo": 135,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 977
+  },
+  {
+   "rank": 49,
    "username": "rasta01258",
    "level": 1,
    "xp": 25,
@@ -531,7 +542,7 @@
    "rating": 966
   },
   {
-   "rank": 49,
+   "rank": 50,
    "username": "alam0de_",
    "level": 1,
    "xp": 25,
@@ -540,17 +551,6 @@
    "wins": 0,
    "losses": 4,
    "rating": 963
-  },
-  {
-   "rank": 50,
-   "username": ".hehe_01.",
-   "level": 1,
-   "xp": 20,
-   "ryo": 52,
-   "clan": null,
-   "wins": 0,
-   "losses": 3,
-   "rating": 989
   }
  ],
  "richest": [
@@ -569,23 +569,23 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2779,
-   "ryo": 512943,
+   "xp": 2970,
+   "ryo": 514038,
    "clan": "Shark Enforcers Alpha",
-   "wins": 51,
+   "wins": 52,
    "losses": 9,
-   "rating": 1271
+   "rating": 1274
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2128,
-   "ryo": 100193,
+   "xp": 2355,
+   "ryo": 101773,
    "clan": "Exiled Heavy Knight",
-   "wins": 104,
+   "wins": 105,
    "losses": 4,
-   "rating": 1409
+   "rating": 1411
   },
   {
    "rank": 4,
@@ -765,6 +765,17 @@
   },
   {
    "rank": 20,
+   "username": "catio7",
+   "level": 3,
+   "xp": 55,
+   "ryo": 1777,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 969
+  },
+  {
+   "rank": 21,
    "username": "fallen.deity",
    "level": 1,
    "xp": 19,
@@ -773,17 +784,6 @@
    "wins": 0,
    "losses": 3,
    "rating": 982
-  },
-  {
-   "rank": 21,
-   "username": "catio7",
-   "level": 3,
-   "xp": 55,
-   "ryo": 1697,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 969
   },
   {
    "rank": 22,
@@ -1051,6 +1051,17 @@
   },
   {
    "rank": 46,
+   "username": "kaminari099",
+   "level": 1,
+   "xp": 25,
+   "ryo": 135,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 977
+  },
+  {
+   "rank": 47,
    "username": "0bito7878",
    "level": 1,
    "xp": 51,
@@ -1059,17 +1070,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 923
-  },
-  {
-   "rank": 47,
-   "username": "kaminari099",
-   "level": 1,
-   "xp": 19,
-   "ryo": 119,
-   "clan": null,
-   "wins": 0,
-   "losses": 3,
-   "rating": 980
   },
   {
    "rank": 48,
@@ -1086,12 +1086,12 @@
    "rank": 49,
    "username": "alicel2",
    "level": 1,
-   "xp": 32,
-   "ryo": 92,
+   "xp": 38,
+   "ryo": 108,
    "clan": null,
    "wins": 0,
-   "losses": 5,
-   "rating": 957
+   "losses": 6,
+   "rating": 951
   },
   {
    "rank": 50,
@@ -1121,23 +1121,23 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2128,
-   "ryo": 100193,
+   "xp": 2355,
+   "ryo": 101773,
    "clan": "Exiled Heavy Knight",
-   "wins": 104,
+   "wins": 105,
    "losses": 4,
-   "rating": 1409
+   "rating": 1411
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2779,
-   "ryo": 512943,
+   "xp": 2970,
+   "ryo": 514038,
    "clan": "Shark Enforcers Alpha",
-   "wins": 51,
+   "wins": 52,
    "losses": 9,
-   "rating": 1271
+   "rating": 1274
   },
   {
    "rank": 4,
