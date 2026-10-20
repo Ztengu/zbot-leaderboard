@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T07:57:20.635Z",
+ "updatedAt": "2026-10-20T08:00:03.652Z",
  "total": 78,
  "players": [
   {
@@ -17,12 +17,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 1940,
-   "ryo": 99113,
+   "xp": 2053,
+   "ryo": 99693,
    "clan": "Exiled Heavy Knight",
-   "wins": 103,
+   "wins": 104,
    "losses": 4,
-   "rating": 1407
+   "rating": 1409
   },
   {
    "rank": 3,
@@ -580,12 +580,12 @@
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 1940,
-   "ryo": 99113,
+   "xp": 2053,
+   "ryo": 99693,
    "clan": "Exiled Heavy Knight",
-   "wins": 103,
+   "wins": 104,
    "losses": 4,
-   "rating": 1407
+   "rating": 1409
   },
   {
    "rank": 4,
@@ -1121,12 +1121,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 1940,
-   "ryo": 99113,
+   "xp": 2053,
+   "ryo": 99693,
    "clan": "Exiled Heavy Knight",
-   "wins": 103,
+   "wins": 104,
    "losses": 4,
-   "rating": 1407
+   "rating": 1409
   },
   {
    "rank": 3,
