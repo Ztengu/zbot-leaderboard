@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-10-21T08:04:44.512Z",
+ "updatedAt": "2026-10-21T09:03:45.903Z",
  "total": 78,
  "players": [
   {
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 93647,
-   "ryo": 12805648,
+   "xp": 95647,
+   "ryo": 12815888,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -28,12 +28,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 21,
-   "xp": 47,
-   "ryo": 514750,
+   "xp": 204,
+   "ryo": 516505,
    "clan": "Shark Enforcers Alpha",
-   "wins": 54,
+   "wins": 55,
    "losses": 9,
-   "rating": 1279
+   "rating": 1281
   },
   {
    "rank": 4,
@@ -73,7 +73,7 @@
    "username": "yamatonin",
    "level": 4,
    "xp": 83,
-   "ryo": 2319,
+   "ryo": 2329,
    "clan": null,
    "wins": 1,
    "losses": 11,
@@ -169,6 +169,17 @@
   },
   {
    "rank": 16,
+   "username": "_aarav.9_",
+   "level": 1,
+   "xp": 68,
+   "ryo": 175,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 933
+  },
+  {
+   "rank": 17,
    "username": "rengoku083246",
    "level": 1,
    "xp": 65,
@@ -179,7 +190,7 @@
    "rating": 949
   },
   {
-   "rank": 17,
+   "rank": 18,
    "username": "__ezio__",
    "level": 1,
    "xp": 65,
@@ -188,17 +199,6 @@
    "wins": 0,
    "losses": 10,
    "rating": 921
-  },
-  {
-   "rank": 18,
-   "username": "_aarav.9_",
-   "level": 1,
-   "xp": 62,
-   "ryo": 159,
-   "clan": null,
-   "wins": 0,
-   "losses": 10,
-   "rating": 936
   },
   {
    "rank": 19,
@@ -558,8 +558,8 @@
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 93647,
-   "ryo": 12805648,
+   "xp": 95647,
+   "ryo": 12815888,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -569,12 +569,12 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 21,
-   "xp": 47,
-   "ryo": 514750,
+   "xp": 204,
+   "ryo": 516505,
    "clan": "Shark Enforcers Alpha",
-   "wins": 54,
+   "wins": 55,
    "losses": 9,
-   "rating": 1279
+   "rating": 1281
   },
   {
    "rank": 3,
@@ -746,7 +746,7 @@
    "username": "yamatonin",
    "level": 4,
    "xp": 83,
-   "ryo": 2319,
+   "ryo": 2329,
    "clan": null,
    "wins": 1,
    "losses": 11,
@@ -1020,12 +1020,12 @@
    "rank": 43,
    "username": "_aarav.9_",
    "level": 1,
-   "xp": 62,
-   "ryo": 159,
+   "xp": 68,
+   "ryo": 175,
    "clan": null,
    "wins": 0,
-   "losses": 10,
-   "rating": 936
+   "losses": 11,
+   "rating": 933
   },
   {
    "rank": 44,
@@ -1110,8 +1110,8 @@
    "rank": 1,
    "username": "ztengu",
    "level": 45,
-   "xp": 93647,
-   "ryo": 12805648,
+   "xp": 95647,
+   "ryo": 12815888,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -1132,12 +1132,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 21,
-   "xp": 47,
-   "ryo": 514750,
+   "xp": 204,
+   "ryo": 516505,
    "clan": "Shark Enforcers Alpha",
-   "wins": 54,
+   "wins": 55,
    "losses": 9,
-   "rating": 1279
+   "rating": 1281
   },
   {
    "rank": 4,
@@ -1177,7 +1177,7 @@
    "username": "yamatonin",
    "level": 4,
    "xp": 83,
-   "ryo": 2319,
+   "ryo": 2329,
    "clan": null,
    "wins": 1,
    "losses": 11,
