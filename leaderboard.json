@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T18:53:25.347Z",
+ "updatedAt": "2026-10-21T01:53:25.339Z",
  "total": 78,
  "players": [
   {
@@ -28,12 +28,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2970,
-   "ryo": 514038,
+   "xp": 3131,
+   "ryo": 514633,
    "clan": "Shark Enforcers Alpha",
-   "wins": 52,
+   "wins": 53,
    "losses": 9,
-   "rating": 1274
+   "rating": 1277
   },
   {
    "rank": 4,
@@ -94,12 +94,12 @@
    "rank": 9,
    "username": "skorchy__",
    "level": 3,
-   "xp": 19,
-   "ryo": 7257,
+   "xp": 25,
+   "ryo": 7273,
    "clan": null,
    "wins": 1,
-   "losses": 4,
-   "rating": 991
+   "losses": 5,
+   "rating": 984
   },
   {
    "rank": 10,
@@ -569,12 +569,12 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2970,
-   "ryo": 514038,
+   "xp": 3131,
+   "ryo": 514633,
    "clan": "Shark Enforcers Alpha",
-   "wins": 52,
+   "wins": 53,
    "losses": 9,
-   "rating": 1274
+   "rating": 1277
   },
   {
    "rank": 3,
@@ -657,12 +657,12 @@
    "rank": 10,
    "username": "skorchy__",
    "level": 3,
-   "xp": 19,
-   "ryo": 7257,
+   "xp": 25,
+   "ryo": 7273,
    "clan": null,
    "wins": 1,
-   "losses": 4,
-   "rating": 991
+   "losses": 5,
+   "rating": 984
   },
   {
    "rank": 11,
@@ -1132,12 +1132,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 20,
-   "xp": 2970,
-   "ryo": 514038,
+   "xp": 3131,
+   "ryo": 514633,
    "clan": "Shark Enforcers Alpha",
-   "wins": 52,
+   "wins": 53,
    "losses": 9,
-   "rating": 1274
+   "rating": 1277
   },
   {
    "rank": 4,
@@ -1165,12 +1165,12 @@
    "rank": 6,
    "username": "skorchy__",
    "level": 3,
-   "xp": 19,
-   "ryo": 7257,
+   "xp": 25,
+   "ryo": 7273,
    "clan": null,
    "wins": 1,
-   "losses": 4,
-   "rating": 991
+   "losses": 5,
+   "rating": 984
   },
   {
    "rank": 7,
