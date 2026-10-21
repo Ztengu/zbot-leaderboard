@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T03:59:38.141Z",
+ "updatedAt": "2026-10-21T04:58:39.076Z",
  "total": 78,
  "players": [
   {
@@ -7,7 +7,7 @@
    "username": "ztengu",
    "level": 45,
    "xp": 90485,
-   "ryo": 12789423,
+   "ryo": 12789433,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -17,12 +17,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2355,
-   "ryo": 101773,
+   "xp": 2495,
+   "ryo": 102353,
    "clan": "Exiled Heavy Knight",
-   "wins": 105,
+   "wins": 106,
    "losses": 4,
-   "rating": 1411
+   "rating": 1412
   },
   {
    "rank": 3,
@@ -169,6 +169,17 @@
   },
   {
    "rank": 16,
+   "username": "rengoku083246",
+   "level": 1,
+   "xp": 65,
+   "ryo": 304,
+   "clan": null,
+   "wins": 0,
+   "losses": 10,
+   "rating": 949
+  },
+  {
+   "rank": 17,
    "username": "__ezio__",
    "level": 1,
    "xp": 65,
@@ -179,7 +190,7 @@
    "rating": 921
   },
   {
-   "rank": 17,
+   "rank": 18,
    "username": "_aarav.9_",
    "level": 1,
    "xp": 62,
@@ -190,7 +201,7 @@
    "rating": 936
   },
   {
-   "rank": 18,
+   "rank": 19,
    "username": "delia_xx",
    "level": 1,
    "xp": 60,
@@ -201,7 +212,7 @@
    "rating": 958
   },
   {
-   "rank": 19,
+   "rank": 20,
    "username": "samzokah",
    "level": 1,
    "xp": 60,
@@ -210,17 +221,6 @@
    "wins": 0,
    "losses": 9,
    "rating": 947
-  },
-  {
-   "rank": 20,
-   "username": "rengoku083246",
-   "level": 1,
-   "xp": 59,
-   "ryo": 288,
-   "clan": null,
-   "wins": 0,
-   "losses": 9,
-   "rating": 951
   },
   {
    "rank": 21,
@@ -559,7 +559,7 @@
    "username": "ztengu",
    "level": 45,
    "xp": 90485,
-   "ryo": 12789423,
+   "ryo": 12789433,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -580,12 +580,12 @@
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2355,
-   "ryo": 101773,
+   "xp": 2495,
+   "ryo": 102353,
    "clan": "Exiled Heavy Knight",
-   "wins": 105,
+   "wins": 106,
    "losses": 4,
-   "rating": 1411
+   "rating": 1412
   },
   {
    "rank": 4,
@@ -932,12 +932,12 @@
    "rank": 35,
    "username": "rengoku083246",
    "level": 1,
-   "xp": 59,
-   "ryo": 288,
+   "xp": 65,
+   "ryo": 304,
    "clan": null,
    "wins": 0,
-   "losses": 9,
-   "rating": 951
+   "losses": 10,
+   "rating": 949
   },
   {
    "rank": 36,
@@ -1111,7 +1111,7 @@
    "username": "ztengu",
    "level": 45,
    "xp": 90485,
-   "ryo": 12789423,
+   "ryo": 12789433,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -1121,12 +1121,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2355,
-   "ryo": 101773,
+   "xp": 2495,
+   "ryo": 102353,
    "clan": "Exiled Heavy Knight",
-   "wins": 105,
+   "wins": 106,
    "losses": 4,
-   "rating": 1411
+   "rating": 1412
   },
   {
    "rank": 3,
