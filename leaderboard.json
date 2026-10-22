@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T02:57:56.973Z",
+ "updatedAt": "2026-10-22T03:56:58.370Z",
  "total": 78,
  "players": [
   {
@@ -17,12 +17,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2495,
-   "ryo": 102353,
+   "xp": 2673,
+   "ryo": 104093,
    "clan": "Exiled Heavy Knight",
-   "wins": 106,
+   "wins": 107,
    "losses": 4,
-   "rating": 1412
+   "rating": 1413
   },
   {
    "rank": 3,
@@ -180,17 +180,6 @@
   },
   {
    "rank": 17,
-   "username": "rengoku083246",
-   "level": 1,
-   "xp": 65,
-   "ryo": 304,
-   "clan": null,
-   "wins": 0,
-   "losses": 10,
-   "rating": 949
-  },
-  {
-   "rank": 18,
    "username": "__ezio__",
    "level": 1,
    "xp": 65,
@@ -199,6 +188,17 @@
    "wins": 0,
    "losses": 10,
    "rating": 921
+  },
+  {
+   "rank": 18,
+   "username": "rengoku083246",
+   "level": 1,
+   "xp": 65,
+   "ryo": 304,
+   "clan": null,
+   "wins": 0,
+   "losses": 10,
+   "rating": 949
   },
   {
    "rank": 19,
@@ -235,17 +235,6 @@
   },
   {
    "rank": 22,
-   "username": "unknown_devil0993",
-   "level": 1,
-   "xp": 52,
-   "ryo": 1033,
-   "clan": null,
-   "wins": 0,
-   "losses": 8,
-   "rating": 928
-  },
-  {
-   "rank": 23,
    "username": "smolboi6539",
    "level": 1,
    "xp": 52,
@@ -254,6 +243,17 @@
    "wins": 0,
    "losses": 8,
    "rating": 944
+  },
+  {
+   "rank": 23,
+   "username": "geekatie",
+   "level": 1,
+   "xp": 52,
+   "ryo": 3011,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 939
   },
   {
    "rank": 24,
@@ -279,14 +279,14 @@
   },
   {
    "rank": 26,
-   "username": "geekatie",
+   "username": "unknown_devil0993",
    "level": 1,
    "xp": 52,
-   "ryo": 3011,
+   "ryo": 1033,
    "clan": null,
    "wins": 0,
-   "losses": 5,
-   "rating": 939
+   "losses": 8,
+   "rating": 928
   },
   {
    "rank": 27,
@@ -422,6 +422,17 @@
   },
   {
    "rank": 39,
+   "username": "rasta01258",
+   "level": 1,
+   "xp": 31,
+   "ryo": 91,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 963
+  },
+  {
+   "rank": 40,
    "username": "lchinoses",
    "level": 1,
    "xp": 30,
@@ -432,7 +443,7 @@
    "rating": 960
   },
   {
-   "rank": 40,
+   "rank": 41,
    "username": "anastasiawembert",
    "level": 1,
    "xp": 30,
@@ -443,7 +454,7 @@
    "rating": 986
   },
   {
-   "rank": 41,
+   "rank": 42,
    "username": "shaw09752",
    "level": 1,
    "xp": 29,
@@ -454,7 +465,7 @@
    "rating": 996
   },
   {
-   "rank": 42,
+   "rank": 43,
    "username": "timmy064497",
    "level": 1,
    "xp": 27,
@@ -465,7 +476,7 @@
    "rating": 969
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "tsukasaryo",
    "level": 1,
    "xp": 27,
@@ -476,7 +487,7 @@
    "rating": 996
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "lilfish_7",
    "level": 1,
    "xp": 26,
@@ -487,7 +498,7 @@
    "rating": 976
   },
   {
-   "rank": 45,
+   "rank": 46,
    "username": "madforshikiryougui3469",
    "level": 1,
    "xp": 25,
@@ -498,7 +509,7 @@
    "rating": 977
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "cynthialfa_17640",
    "level": 1,
    "xp": 25,
@@ -509,7 +520,7 @@
    "rating": 952
   },
   {
-   "rank": 47,
+   "rank": 48,
    "username": "l1.ldn",
    "level": 1,
    "xp": 25,
@@ -520,7 +531,7 @@
    "rating": 954
   },
   {
-   "rank": 48,
+   "rank": 49,
    "username": "kaminari099",
    "level": 1,
    "xp": 25,
@@ -529,17 +540,6 @@
    "wins": 0,
    "losses": 4,
    "rating": 977
-  },
-  {
-   "rank": 49,
-   "username": "rasta01258",
-   "level": 1,
-   "xp": 25,
-   "ryo": 75,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 966
   },
   {
    "rank": 50,
@@ -580,12 +580,12 @@
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2495,
-   "ryo": 102353,
+   "xp": 2673,
+   "ryo": 104093,
    "clan": "Exiled Heavy Knight",
-   "wins": 106,
+   "wins": 107,
    "losses": 4,
-   "rating": 1412
+   "rating": 1413
   },
   {
    "rank": 4,
@@ -1095,14 +1095,14 @@
   },
   {
    "rank": 50,
-   "username": "timmy064497",
+   "username": "rasta01258",
    "level": 1,
-   "xp": 27,
-   "ryo": 89,
+   "xp": 31,
+   "ryo": 91,
    "clan": null,
    "wins": 0,
-   "losses": 4,
-   "rating": 969
+   "losses": 5,
+   "rating": 963
   }
  ],
  "pvp": [
@@ -1121,12 +1121,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 2495,
-   "ryo": 102353,
+   "xp": 2673,
+   "ryo": 104093,
    "clan": "Exiled Heavy Knight",
-   "wins": 106,
+   "wins": 107,
    "losses": 4,
-   "rating": 1412
+   "rating": 1413
   },
   {
    "rank": 3,
