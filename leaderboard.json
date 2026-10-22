@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T06:11:10.154Z",
+ "updatedAt": "2026-10-22T06:44:08.070Z",
  "total": 78,
  "players": [
   {
@@ -74,7 +74,7 @@
    "level": 4,
    "xp": 83,
    "ryo": 2329,
-   "clan": null,
+   "clan": "The Tank Crew",
    "wins": 1,
    "losses": 11,
    "rating": 944
@@ -747,7 +747,7 @@
    "level": 4,
    "xp": 83,
    "ryo": 2329,
-   "clan": null,
+   "clan": "The Tank Crew",
    "wins": 1,
    "losses": 11,
    "rating": 944
@@ -1178,7 +1178,7 @@
    "level": 4,
    "xp": 83,
    "ryo": 2329,
-   "clan": null,
+   "clan": "The Tank Crew",
    "wins": 1,
    "losses": 11,
    "rating": 944
