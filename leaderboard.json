@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T20:41:52.935Z",
+ "updatedAt": "2026-10-24T00:41:52.820Z",
  "total": 81,
  "players": [
   {
@@ -18,7 +18,7 @@
    "username": "ruchelevis",
    "level": 21,
    "xp": 2950,
-   "ryo": 106393,
+   "ryo": 106423,
    "clan": "Exiled Heavy Knight",
    "wins": 109,
    "losses": 4,
@@ -28,12 +28,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 21,
-   "xp": 704,
-   "ryo": 519485,
+   "xp": 842,
+   "ryo": 520085,
    "clan": "Shark Enforcers Alpha",
-   "wins": 55,
+   "wins": 56,
    "losses": 9,
-   "rating": 1281
+   "rating": 1283
   },
   {
    "rank": 4,
@@ -158,6 +158,17 @@
   },
   {
    "rank": 15,
+   "username": "__ezio__",
+   "level": 1,
+   "xp": 71,
+   "ryo": 201,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 918
+  },
+  {
+   "rank": 16,
    "username": "prime_sweet__",
    "level": 1,
    "xp": 70,
@@ -168,7 +179,7 @@
    "rating": 914
   },
   {
-   "rank": 16,
+   "rank": 17,
    "username": "_aarav.9_",
    "level": 1,
    "xp": 68,
@@ -179,7 +190,7 @@
    "rating": 933
   },
   {
-   "rank": 17,
+   "rank": 18,
    "username": "rengoku083246",
    "level": 1,
    "xp": 65,
@@ -188,17 +199,6 @@
    "wins": 0,
    "losses": 10,
    "rating": 949
-  },
-  {
-   "rank": 18,
-   "username": "__ezio__",
-   "level": 1,
-   "xp": 65,
-   "ryo": 185,
-   "clan": null,
-   "wins": 0,
-   "losses": 10,
-   "rating": 921
   },
   {
    "rank": 19,
@@ -569,19 +569,19 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "level": 21,
-   "xp": 704,
-   "ryo": 519485,
+   "xp": 842,
+   "ryo": 520085,
    "clan": "Shark Enforcers Alpha",
-   "wins": 55,
+   "wins": 56,
    "losses": 9,
-   "rating": 1281
+   "rating": 1283
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
    "xp": 2950,
-   "ryo": 106393,
+   "ryo": 106423,
    "clan": "Exiled Heavy Knight",
    "wins": 109,
    "losses": 4,
@@ -985,6 +985,17 @@
   },
   {
    "rank": 40,
+   "username": "__ezio__",
+   "level": 1,
+   "xp": 71,
+   "ryo": 201,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 918
+  },
+  {
+   "rank": 41,
    "username": "jaredpr724",
    "level": 1,
    "xp": 51,
@@ -993,17 +1004,6 @@
    "wins": 0,
    "losses": 4,
    "rating": 973
-  },
-  {
-   "rank": 41,
-   "username": "__ezio__",
-   "level": 1,
-   "xp": 65,
-   "ryo": 185,
-   "clan": null,
-   "wins": 0,
-   "losses": 10,
-   "rating": 921
   },
   {
    "rank": 42,
@@ -1122,7 +1122,7 @@
    "username": "ruchelevis",
    "level": 21,
    "xp": 2950,
-   "ryo": 106393,
+   "ryo": 106423,
    "clan": "Exiled Heavy Knight",
    "wins": 109,
    "losses": 4,
@@ -1132,12 +1132,12 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "level": 21,
-   "xp": 704,
-   "ryo": 519485,
+   "xp": 842,
+   "ryo": 520085,
    "clan": "Shark Enforcers Alpha",
-   "wins": 55,
+   "wins": 56,
    "losses": 9,
-   "rating": 1281
+   "rating": 1283
   },
   {
    "rank": 4,
