@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-24T08:41:52.820Z",
- "total": 81,
+ "updatedAt": "2026-10-24T09:41:52.909Z",
+ "total": 84,
  "players": [
   {
    "rank": 1,
@@ -84,7 +84,7 @@
    "username": "catio7",
    "level": 3,
    "xp": 55,
-   "ryo": 1777,
+   "ryo": 1897,
    "clan": null,
    "wins": 0,
    "losses": 4,
@@ -768,7 +768,7 @@
    "username": "catio7",
    "level": 3,
    "xp": 55,
-   "ryo": 1777,
+   "ryo": 1897,
    "clan": null,
    "wins": 0,
    "losses": 4,
@@ -1073,6 +1073,17 @@
   },
   {
    "rank": 48,
+   "username": "lamoustache_22",
+   "level": 1,
+   "xp": 0,
+   "ryo": 120,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 49,
    "username": "chickendacoopest",
    "level": 1,
    "xp": 0,
@@ -1083,7 +1094,7 @@
    "rating": 1000
   },
   {
-   "rank": 49,
+   "rank": 50,
    "username": "alicel2",
    "level": 1,
    "xp": 38,
@@ -1092,17 +1103,6 @@
    "wins": 0,
    "losses": 6,
    "rating": 951
-  },
-  {
-   "rank": 50,
-   "username": "raddison",
-   "level": 1,
-   "xp": 40,
-   "ryo": 103,
-   "clan": null,
-   "wins": 0,
-   "losses": 6,
-   "rating": 959
   }
  ],
  "pvp": [
