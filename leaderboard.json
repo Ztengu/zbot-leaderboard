@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T01:22:30.543Z",
+ "updatedAt": "2026-10-25T02:21:31.868Z",
  "total": 85,
  "players": [
   {
@@ -7,7 +7,7 @@
    "username": "ztengu",
    "level": 45,
    "xp": 98647,
-   "ryo": 12826318,
+   "ryo": 12826338,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -17,12 +17,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 3076,
-   "ryo": 108183,
+   "xp": 3201,
+   "ryo": 108783,
    "clan": "Exiled Heavy Knight",
-   "wins": 110,
+   "wins": 111,
    "losses": 4,
-   "rating": 1418
+   "rating": 1420
   },
   {
    "rank": 3,
@@ -559,7 +559,7 @@
    "username": "ztengu",
    "level": 45,
    "xp": 98647,
-   "ryo": 12826318,
+   "ryo": 12826338,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -580,12 +580,12 @@
    "rank": 3,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 3076,
-   "ryo": 108183,
+   "xp": 3201,
+   "ryo": 108783,
    "clan": "Exiled Heavy Knight",
-   "wins": 110,
+   "wins": 111,
    "losses": 4,
-   "rating": 1418
+   "rating": 1420
   },
   {
    "rank": 4,
@@ -1111,7 +1111,7 @@
    "username": "ztengu",
    "level": 45,
    "xp": 98647,
-   "ryo": 12826318,
+   "ryo": 12826338,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -1121,12 +1121,12 @@
    "rank": 2,
    "username": "ruchelevis",
    "level": 21,
-   "xp": 3076,
-   "ryo": 108183,
+   "xp": 3201,
+   "ryo": 108783,
    "clan": "Exiled Heavy Knight",
-   "wins": 110,
+   "wins": 111,
    "losses": 4,
-   "rating": 1418
+   "rating": 1420
   },
   {
    "rank": 3,
