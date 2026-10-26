@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-26T11:19:48.721Z",
- "total": 90,
+ "updatedAt": "2026-10-26T12:19:48.654Z",
+ "total": 91,
  "players": [
   {
    "rank": 1,
@@ -985,6 +985,17 @@
   },
   {
    "rank": 40,
+   "username": "lamoustache_22",
+   "level": 1,
+   "xp": 0,
+   "ryo": 210,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 41,
    "username": "__ezio__",
    "level": 1,
    "xp": 71,
@@ -993,17 +1004,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 918
-  },
-  {
-   "rank": 41,
-   "username": "lamoustache_22",
-   "level": 1,
-   "xp": 0,
-   "ryo": 200,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 42,
