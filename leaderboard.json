@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-26T08:20:47.288Z",
- "total": 89,
+ "updatedAt": "2026-10-26T10:19:47.270Z",
+ "total": 90,
  "players": [
   {
    "rank": 1,
@@ -996,6 +996,17 @@
   },
   {
    "rank": 41,
+   "username": "lamoustache_22",
+   "level": 1,
+   "xp": 0,
+   "ryo": 190,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 42,
    "username": "jaredpr724",
    "level": 1,
    "xp": 51,
@@ -1006,7 +1017,7 @@
    "rating": 973
   },
   {
-   "rank": 42,
+   "rank": 43,
    "username": "angel050105",
    "level": 1,
    "xp": 59,
@@ -1017,7 +1028,7 @@
    "rating": 951
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "_aarav.9_",
    "level": 1,
    "xp": 68,
@@ -1028,7 +1039,7 @@
    "rating": 933
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "samzokah",
    "level": 1,
    "xp": 60,
@@ -1039,7 +1050,7 @@
    "rating": 947
   },
   {
-   "rank": 45,
+   "rank": 46,
    "username": "jaja04015",
    "level": 1,
    "xp": 52,
@@ -1050,7 +1061,18 @@
    "rating": 921
   },
   {
-   "rank": 46,
+   "rank": 47,
+   "username": "nariyah008",
+   "level": 1,
+   "xp": 0,
+   "ryo": 140,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 48,
    "username": "kaminari099",
    "level": 1,
    "xp": 25,
@@ -1061,7 +1083,7 @@
    "rating": 977
   },
   {
-   "rank": 47,
+   "rank": 49,
    "username": "0bito7878",
    "level": 1,
    "xp": 51,
@@ -1072,18 +1094,7 @@
    "rating": 923
   },
   {
-   "rank": 48,
-   "username": "lamoustache_22",
-   "level": 1,
-   "xp": 0,
-   "ryo": 130,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
-  },
-  {
-   "rank": 49,
+   "rank": 50,
    "username": "chickendacoopest",
    "level": 1,
    "xp": 0,
@@ -1092,17 +1103,6 @@
    "wins": 0,
    "losses": 0,
    "rating": 1000
-  },
-  {
-   "rank": 50,
-   "username": "alicel2",
-   "level": 1,
-   "xp": 38,
-   "ryo": 108,
-   "clan": null,
-   "wins": 0,
-   "losses": 6,
-   "rating": 951
   }
  ],
  "pvp": [
