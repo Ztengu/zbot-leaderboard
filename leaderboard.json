@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T10:19:47.270Z",
+ "updatedAt": "2026-10-26T11:19:48.721Z",
  "total": 90,
  "players": [
   {
@@ -999,7 +999,7 @@
    "username": "lamoustache_22",
    "level": 1,
    "xp": 0,
-   "ryo": 190,
+   "ryo": 200,
    "clan": null,
    "wins": 0,
    "losses": 0,
@@ -1029,6 +1029,17 @@
   },
   {
    "rank": 44,
+   "username": "nariyah008",
+   "level": 1,
+   "xp": 0,
+   "ryo": 180,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 45,
    "username": "_aarav.9_",
    "level": 1,
    "xp": 68,
@@ -1039,7 +1050,7 @@
    "rating": 933
   },
   {
-   "rank": 45,
+   "rank": 46,
    "username": "samzokah",
    "level": 1,
    "xp": 60,
@@ -1050,7 +1061,7 @@
    "rating": 947
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "jaja04015",
    "level": 1,
    "xp": 52,
@@ -1059,17 +1070,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 921
-  },
-  {
-   "rank": 47,
-   "username": "nariyah008",
-   "level": 1,
-   "xp": 0,
-   "ryo": 140,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 48,
