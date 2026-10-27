@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-27T09:46:28.947Z",
- "total": 92,
+ "updatedAt": "2026-10-27T10:45:29.702Z",
+ "total": 93,
  "players": [
   {
    "rank": 1,
@@ -1095,14 +1095,14 @@
   },
   {
    "rank": 50,
-   "username": "chickendacoopest",
+   "username": "ylise567",
    "level": 1,
-   "xp": 0,
-   "ryo": 110,
+   "xp": 6,
+   "ryo": 116,
    "clan": null,
    "wins": 0,
-   "losses": 0,
-   "rating": 1000
+   "losses": 1,
+   "rating": 997
   }
  ],
  "pvp": [
