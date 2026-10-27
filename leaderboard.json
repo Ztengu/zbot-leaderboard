@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T05:33:16.509Z",
+ "updatedAt": "2026-10-27T07:32:17.830Z",
  "total": 92,
  "players": [
   {
@@ -1007,6 +1007,17 @@
   },
   {
    "rank": 42,
+   "username": "nariyah008",
+   "level": 1,
+   "xp": 0,
+   "ryo": 200,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 43,
    "username": "jaredpr724",
    "level": 1,
    "xp": 51,
@@ -1017,7 +1028,7 @@
    "rating": 973
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "angel050105",
    "level": 1,
    "xp": 59,
@@ -1026,17 +1037,6 @@
    "wins": 0,
    "losses": 9,
    "rating": 951
-  },
-  {
-   "rank": 44,
-   "username": "nariyah008",
-   "level": 1,
-   "xp": 0,
-   "ryo": 180,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 45,
