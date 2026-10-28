@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T12:12:33.837Z",
+ "updatedAt": "2026-10-28T22:12:33.820Z",
  "total": 93,
  "players": [
   {
@@ -1134,6 +1134,18 @@
   },
   {
    "rank": 45,
+   "username": "ylise567",
+   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
+   "level": 1,
+   "xp": 6,
+   "ryo": 136,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 997
+  },
+  {
+   "rank": 46,
    "username": "kaminari099",
    "avatar": "https://cdn.discordapp.com/avatars/1460734940684484832/11b06024338e89227bbc88f2637d1b2c.png?size=128",
    "level": 1,
@@ -1145,7 +1157,7 @@
    "rating": 977
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "0bito7878",
    "avatar": "https://cdn.discordapp.com/avatars/1481171106516697194/66c0981e671e15edc9a38823e754a8e3.png?size=128",
    "level": 1,
@@ -1155,18 +1167,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 923
-  },
-  {
-   "rank": 47,
-   "username": "ylise567",
-   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
-   "level": 1,
-   "xp": 6,
-   "ryo": 126,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 997
   },
   {
    "rank": 48,
