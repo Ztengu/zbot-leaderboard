@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T17:03:51.403Z",
+ "updatedAt": "2026-10-29T18:03:51.430Z",
  "total": 94,
  "players": [
   {
@@ -942,6 +942,18 @@
   },
   {
    "rank": 29,
+   "username": "lamoustache_22",
+   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/9d00f14f877503f2417fedddb57a688a.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 340,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 30,
    "username": "picu0277",
    "avatar": "https://cdn.discordapp.com/avatars/1533338644985679886/48cd2a8662d1730fbe3344e0a8d359e0.png?size=128",
    "level": 1,
@@ -953,7 +965,7 @@
    "rating": 923
   },
   {
-   "rank": 30,
+   "rank": 31,
    "username": "nariyah008",
    "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
    "level": 1,
@@ -965,7 +977,7 @@
    "rating": 1000
   },
   {
-   "rank": 31,
+   "rank": 32,
    "username": "coyi0085",
    "avatar": "https://cdn.discordapp.com/avatars/1533370487646846998/dd508a633cb87e2c80df047d2eeb3ec3.png?size=128",
    "level": 1,
@@ -975,18 +987,6 @@
    "wins": 0,
    "losses": 12,
    "rating": 910
-  },
-  {
-   "rank": 32,
-   "username": "lamoustache_22",
-   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/9d00f14f877503f2417fedddb57a688a.png?size=128",
-   "level": 1,
-   "xp": 0,
-   "ryo": 320,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 33,
