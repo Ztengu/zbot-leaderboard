@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T18:03:51.430Z",
+ "updatedAt": "2026-10-29T21:03:51.553Z",
  "total": 94,
  "players": [
   {
@@ -1098,6 +1098,18 @@
   },
   {
    "rank": 42,
+   "username": "ylise567",
+   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
+   "level": 1,
+   "xp": 6,
+   "ryo": 176,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 997
+  },
+  {
+   "rank": 43,
    "username": "_aarav.9_",
    "avatar": "https://cdn.discordapp.com/avatars/1178264750698807327/b2c10eacf8da79659b77576e042d66bc.png?size=128",
    "level": 1,
@@ -1107,18 +1119,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 933
-  },
-  {
-   "rank": 43,
-   "username": "ylise567",
-   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
-   "level": 1,
-   "xp": 6,
-   "ryo": 166,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 997
   },
   {
    "rank": 44,
