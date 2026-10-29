@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T07:03:51.417Z",
+ "updatedAt": "2026-10-29T08:03:51.480Z",
  "total": 94,
  "players": [
   {
@@ -7,8 +7,8 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 105922,
-   "ryo": 12868298,
+   "xp": 106922,
+   "ryo": 12873348,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -609,8 +609,8 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 105922,
-   "ryo": 12868298,
+   "xp": 106922,
+   "ryo": 12873348,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -1110,6 +1110,18 @@
   },
   {
    "rank": 43,
+   "username": "ylise567",
+   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
+   "level": 1,
+   "xp": 6,
+   "ryo": 166,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 997
+  },
+  {
+   "rank": 44,
    "username": "samzokah",
    "avatar": "https://cdn.discordapp.com/avatars/682880706002944003/bba9a4a1e406a4b636081afd74ba4f34.png?size=128",
    "level": 1,
@@ -1121,7 +1133,7 @@
    "rating": 947
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "jaja04015",
    "avatar": "https://cdn.discordapp.com/avatars/1534005938653102223/3b08a4c922b9d0b2a21453c875bb9311.png?size=128",
    "level": 1,
@@ -1131,18 +1143,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 921
-  },
-  {
-   "rank": 45,
-   "username": "ylise567",
-   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
-   "level": 1,
-   "xp": 6,
-   "ryo": 136,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 997
   },
   {
    "rank": 46,
@@ -1211,8 +1211,8 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 105922,
-   "ryo": 12868298,
+   "xp": 106922,
+   "ryo": 12873348,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
