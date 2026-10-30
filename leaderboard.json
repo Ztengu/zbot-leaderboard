@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T03:03:51.491Z",
+ "updatedAt": "2026-10-30T04:03:51.480Z",
  "total": 94,
  "players": [
   {
@@ -990,6 +990,18 @@
   },
   {
    "rank": 33,
+   "username": "rnlartix74_ytb_03308",
+   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/29320d5858e22321db63de7b15a83d80.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 310,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 34,
    "username": "rengoku083246",
    "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
    "level": 1,
@@ -1001,7 +1013,7 @@
    "rating": 949
   },
   {
-   "rank": 34,
+   "rank": 35,
    "username": ".nextar",
    "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
    "level": 1,
@@ -1011,18 +1023,6 @@
    "wins": 0,
    "losses": 2,
    "rating": 985
-  },
-  {
-   "rank": 35,
-   "username": "rnlartix74_ytb_03308",
-   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/29320d5858e22321db63de7b15a83d80.png?size=128",
-   "level": 1,
-   "xp": 0,
-   "ryo": 290,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 36,
