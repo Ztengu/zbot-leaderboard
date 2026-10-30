@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T09:06:57.849Z",
+ "updatedAt": "2026-10-30T11:06:57.901Z",
  "total": 95,
  "players": [
   {
@@ -946,7 +946,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/2fccc14dd07e3d08cfce15a6076387df.png?size=128",
    "level": 1,
    "xp": 0,
-   "ryo": 340,
+   "ryo": 350,
    "clan": null,
    "wins": 0,
    "losses": 0,
@@ -954,6 +954,18 @@
   },
   {
    "rank": 30,
+   "username": "nariyah008",
+   "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 340,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 31,
    "username": "picu0277",
    "avatar": "https://cdn.discordapp.com/avatars/1533338644985679886/48cd2a8662d1730fbe3344e0a8d359e0.png?size=128",
    "level": 1,
@@ -963,18 +975,6 @@
    "wins": 0,
    "losses": 13,
    "rating": 923
-  },
-  {
-   "rank": 31,
-   "username": "nariyah008",
-   "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
-   "level": 1,
-   "xp": 0,
-   "ryo": 330,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 32,
