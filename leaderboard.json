@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T15:44:42.940Z",
+ "updatedAt": "2026-10-31T22:44:42.898Z",
  "total": 96,
  "players": [
   {
@@ -92,7 +92,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1481030783312330855/7daeb33833db9d98a53dfc0f301f4078.png?size=128",
    "level": 3,
    "xp": 55,
-   "ryo": 2973,
+   "ryo": 3013,
    "clan": null,
    "wins": 0,
    "losses": 4,
@@ -750,6 +750,18 @@
   },
   {
    "rank": 13,
+   "username": "catio7",
+   "avatar": "https://cdn.discordapp.com/avatars/1481030783312330855/7daeb33833db9d98a53dfc0f301f4078.png?size=128",
+   "level": 3,
+   "xp": 55,
+   "ryo": 3013,
+   "clan": null,
+   "wins": 0,
+   "losses": 4,
+   "rating": 969
+  },
+  {
+   "rank": 14,
    "username": "geekatie",
    "avatar": "https://cdn.discordapp.com/avatars/1458602490068078655/c4b91475bb816fb11e146ae5fe6fa12e.png?size=128",
    "level": 1,
@@ -759,18 +771,6 @@
    "wins": 0,
    "losses": 5,
    "rating": 939
-  },
-  {
-   "rank": 14,
-   "username": "catio7",
-   "avatar": "https://cdn.discordapp.com/avatars/1481030783312330855/7daeb33833db9d98a53dfc0f301f4078.png?size=128",
-   "level": 3,
-   "xp": 55,
-   "ryo": 2973,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 969
   },
   {
    "rank": 15,
