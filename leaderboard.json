@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T12:45:44.851Z",
+ "updatedAt": "2026-10-31T15:44:42.940Z",
  "total": 96,
  "players": [
   {
@@ -930,6 +930,18 @@
   },
   {
    "rank": 28,
+   "username": "nariyah008",
+   "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 390,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 29,
    "username": "yc_84",
    "avatar": "https://cdn.discordapp.com/avatars/862537041400299530/65090c40b9aac09c7b3400598203b3e2.png?size=128",
    "level": 1,
@@ -941,7 +953,7 @@
    "rating": 946
   },
   {
-   "rank": 29,
+   "rank": 30,
    "username": "lamoustache_22",
    "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/487f9c7121fe6aa01ba41d27c59973e4.png?size=128",
    "level": 1,
@@ -953,19 +965,19 @@
    "rating": 1000
   },
   {
-   "rank": 30,
-   "username": "nariyah008",
-   "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
+   "rank": 31,
+   "username": "rnlartix74_ytb_03308",
+   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
    "level": 1,
    "xp": 0,
-   "ryo": 340,
+   "ryo": 350,
    "clan": null,
    "wins": 0,
    "losses": 0,
    "rating": 1000
   },
   {
-   "rank": 31,
+   "rank": 32,
    "username": "picu0277",
    "avatar": "https://cdn.discordapp.com/avatars/1533338644985679886/48cd2a8662d1730fbe3344e0a8d359e0.png?size=128",
    "level": 1,
@@ -977,7 +989,7 @@
    "rating": 923
   },
   {
-   "rank": 32,
+   "rank": 33,
    "username": "coyi0085",
    "avatar": "https://cdn.discordapp.com/avatars/1533370487646846998/dd508a633cb87e2c80df047d2eeb3ec3.png?size=128",
    "level": 1,
@@ -989,19 +1001,19 @@
    "rating": 910
   },
   {
-   "rank": 33,
-   "username": "rnlartix74_ytb_03308",
-   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
+   "rank": 34,
+   "username": ".nextar",
+   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
    "level": 1,
-   "xp": 0,
-   "ryo": 310,
+   "xp": 12,
+   "ryo": 312,
    "clan": null,
    "wins": 0,
-   "losses": 0,
-   "rating": 1000
+   "losses": 2,
+   "rating": 985
   },
   {
-   "rank": 34,
+   "rank": 35,
    "username": "rengoku083246",
    "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
    "level": 1,
@@ -1011,18 +1023,6 @@
    "wins": 0,
    "losses": 10,
    "rating": 949
-  },
-  {
-   "rank": 35,
-   "username": ".nextar",
-   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
-   "level": 1,
-   "xp": 12,
-   "ryo": 302,
-   "clan": null,
-   "wins": 0,
-   "losses": 2,
-   "rating": 985
   },
   {
    "rank": 36,
