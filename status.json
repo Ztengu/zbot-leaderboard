@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-10-31T06:35:55.963Z",
+ "updatedAt": "2026-10-31T06:40:50.959Z",
  "online": true,
  "heartbeatMin": 5,
- "ping": null,
+ "ping": 33,
  "members": 206,
  "serverName": "The Tank Crew ✇",
  "servers": 15
