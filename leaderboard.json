@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T00:24:06.568Z",
+ "updatedAt": "2026-11-03T02:24:06.547Z",
  "total": 97,
  "players": [
   {
@@ -990,6 +990,18 @@
   },
   {
    "rank": 33,
+   "username": ".nextar",
+   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
+   "level": 1,
+   "xp": 12,
+   "ryo": 322,
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 985
+  },
+  {
+   "rank": 34,
    "username": "coyi0085",
    "avatar": "https://cdn.discordapp.com/avatars/1533370487646846998/dd508a633cb87e2c80df047d2eeb3ec3.png?size=128",
    "level": 1,
@@ -999,18 +1011,6 @@
    "wins": 0,
    "losses": 12,
    "rating": 910
-  },
-  {
-   "rank": 34,
-   "username": ".nextar",
-   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
-   "level": 1,
-   "xp": 12,
-   "ryo": 312,
-   "clan": null,
-   "wins": 0,
-   "losses": 2,
-   "rating": 985
   },
   {
    "rank": 35,
