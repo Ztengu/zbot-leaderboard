@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T02:24:06.547Z",
+ "updatedAt": "2026-11-03T04:24:06.665Z",
  "total": 97,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108039,
-   "ryo": 12842498,
+   "ryo": 12843658,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -19,12 +19,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 22,
-   "xp": 699,
-   "ryo": 129543,
+   "xp": 833,
+   "ryo": 130143,
    "clan": "Exiled Heavy Knight",
-   "wins": 115,
+   "wins": 116,
    "losses": 4,
-   "rating": 1426
+   "rating": 1428
   },
   {
    "rank": 3,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108039,
-   "ryo": 12842498,
+   "ryo": 12843658,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 22,
-   "xp": 699,
-   "ryo": 129543,
+   "xp": 833,
+   "ryo": 130143,
    "clan": "Exiled Heavy Knight",
-   "wins": 115,
+   "wins": 116,
    "losses": 4,
-   "rating": 1426
+   "rating": 1428
   },
   {
    "rank": 4,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108039,
-   "ryo": 12842498,
+   "ryo": 12843658,
    "clan": "The Tank Crew",
    "wins": 165,
    "losses": 0,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 22,
-   "xp": 699,
-   "ryo": 129543,
+   "xp": 833,
+   "ryo": 130143,
    "clan": "Exiled Heavy Knight",
-   "wins": 115,
+   "wins": 116,
    "losses": 4,
-   "rating": 1426
+   "rating": 1428
   },
   {
    "rank": 3,
