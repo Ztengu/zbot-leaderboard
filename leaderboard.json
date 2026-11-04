@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T20:01:45.250Z",
+ "updatedAt": "2026-11-04T21:01:45.206Z",
  "total": 97,
  "players": [
   {
@@ -882,6 +882,18 @@
   },
   {
    "rank": 24,
+   "username": "nariyah008",
+   "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 460,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 25,
    "username": "delia_xx",
    "avatar": "https://cdn.discordapp.com/avatars/1369577399053844512/a_64ad1fa33657945ef84c6db7acaa088f.png?size=128",
    "level": 1,
@@ -893,7 +905,7 @@
    "rating": 958
   },
   {
-   "rank": 25,
+   "rank": 26,
    "username": "nothing0434",
    "avatar": "https://cdn.discordapp.com/avatars/956826995340222536/bfc7bb2dab7f5f357ec2641f440850f1.png?size=128",
    "level": 1,
@@ -905,7 +917,7 @@
    "rating": 968
   },
   {
-   "rank": 26,
+   "rank": 27,
    "username": "azik_zvx",
    "avatar": "https://cdn.discordapp.com/avatars/766880894153392159/92031b68ebcca95bcc60152260ec37b0.png?size=128",
    "level": 1,
@@ -917,7 +929,19 @@
    "rating": 965
   },
   {
-   "rank": 27,
+   "rank": 28,
+   "username": "rnlartix74_ytb_03308",
+   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 420,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 29,
    "username": "tlu2",
    "avatar": "https://cdn.discordapp.com/avatars/398833395062538250/b0a0dd792e51b4714f74ecbb8078947f.png?size=128",
    "level": 1,
@@ -929,19 +953,7 @@
    "rating": 947
   },
   {
-   "rank": 28,
-   "username": "nariyah008",
-   "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
-   "level": 1,
-   "xp": 0,
-   "ryo": 400,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
-  },
-  {
-   "rank": 29,
+   "rank": 30,
    "username": "yc_84",
    "avatar": "https://cdn.discordapp.com/avatars/862537041400299530/65090c40b9aac09c7b3400598203b3e2.png?size=128",
    "level": 1,
@@ -953,24 +965,12 @@
    "rating": 946
   },
   {
-   "rank": 30,
+   "rank": 31,
    "username": "lamoustache_22",
    "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/487f9c7121fe6aa01ba41d27c59973e4.png?size=128",
    "level": 1,
    "xp": 0,
    "ryo": 370,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
-  },
-  {
-   "rank": 31,
-   "username": "rnlartix74_ytb_03308",
-   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
-   "level": 1,
-   "xp": 0,
-   "ryo": 360,
    "clan": null,
    "wins": 0,
    "losses": 0,
