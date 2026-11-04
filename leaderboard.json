@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T09:01:46.214Z",
+ "updatedAt": "2026-11-04T18:01:45.261Z",
  "total": 97,
  "players": [
   {
@@ -934,7 +934,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
    "level": 1,
    "xp": 0,
-   "ryo": 390,
+   "ryo": 400,
    "clan": null,
    "wins": 0,
    "losses": 0,
