@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T08:01:45.203Z",
+ "updatedAt": "2026-11-04T09:01:46.214Z",
  "total": 97,
  "players": [
   {
@@ -18,13 +18,13 @@
    "rank": 2,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
-   "level": 22,
-   "xp": 833,
-   "ryo": 130143,
+   "level": 23,
+   "xp": 1290,
+   "ryo": 144678,
    "clan": "Exiled Heavy Knight",
-   "wins": 116,
+   "wins": 117,
    "losses": 4,
-   "rating": 1428
+   "rating": 1429
   },
   {
    "rank": 3,
@@ -160,6 +160,18 @@
   },
   {
    "rank": 14,
+   "username": "prime_sweet__",
+   "avatar": "https://cdn.discordapp.com/avatars/1352883729676238860/b344fff531e5f1613d6fb82f5b97f18f.png?size=128",
+   "level": 1,
+   "xp": 76,
+   "ryo": 37135,
+   "clan": null,
+   "wins": 0,
+   "losses": 12,
+   "rating": 913
+  },
+  {
+   "rank": 15,
    "username": "dschubbaa",
    "avatar": "https://cdn.discordapp.com/avatars/1029989107025330186/f791cfa8b3e4d43cb59962f162efda8e.png?size=128",
    "level": 1,
@@ -171,7 +183,7 @@
    "rating": 923
   },
   {
-   "rank": 15,
+   "rank": 16,
    "username": "__ezio__",
    "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
    "level": 1,
@@ -181,18 +193,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 918
-  },
-  {
-   "rank": 16,
-   "username": "prime_sweet__",
-   "avatar": "https://cdn.discordapp.com/avatars/1352883729676238860/b344fff531e5f1613d6fb82f5b97f18f.png?size=128",
-   "level": 1,
-   "xp": 70,
-   "ryo": 37119,
-   "clan": null,
-   "wins": 0,
-   "losses": 11,
-   "rating": 914
   },
   {
    "rank": 17,
@@ -632,13 +632,13 @@
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
-   "level": 22,
-   "xp": 833,
-   "ryo": 130143,
+   "level": 23,
+   "xp": 1290,
+   "ryo": 144678,
    "clan": "Exiled Heavy Knight",
-   "wins": 116,
+   "wins": 117,
    "losses": 4,
-   "rating": 1428
+   "rating": 1429
   },
   {
    "rank": 4,
@@ -657,12 +657,12 @@
    "username": "prime_sweet__",
    "avatar": "https://cdn.discordapp.com/avatars/1352883729676238860/b344fff531e5f1613d6fb82f5b97f18f.png?size=128",
    "level": 1,
-   "xp": 70,
-   "ryo": 37119,
+   "xp": 76,
+   "ryo": 37135,
    "clan": null,
    "wins": 0,
-   "losses": 11,
-   "rating": 914
+   "losses": 12,
+   "rating": 913
   },
   {
    "rank": 6,
@@ -1222,13 +1222,13 @@
    "rank": 2,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
-   "level": 22,
-   "xp": 833,
-   "ryo": 130143,
+   "level": 23,
+   "xp": 1290,
+   "ryo": 144678,
    "clan": "Exiled Heavy Knight",
-   "wins": 116,
+   "wins": 117,
    "losses": 4,
-   "rating": 1428
+   "rating": 1429
   },
   {
    "rank": 3,
