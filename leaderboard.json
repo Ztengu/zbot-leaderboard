@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T18:15:50.617Z",
+ "updatedAt": "2026-11-05T20:15:50.652Z",
  "total": 99,
  "players": [
   {
@@ -116,7 +116,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
    "level": 2,
    "xp": 0,
-   "ryo": 710,
+   "ryo": 720,
    "clan": null,
    "wins": 0,
    "losses": 0,
@@ -874,7 +874,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/61ed3f312359eb159913b0fe8e1776bb.png?size=128",
    "level": 2,
    "xp": 0,
-   "ryo": 710,
+   "ryo": 720,
    "clan": null,
    "wins": 0,
    "losses": 0,
@@ -954,6 +954,18 @@
   },
   {
    "rank": 30,
+   "username": "lamoustache_22",
+   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/487f9c7121fe6aa01ba41d27c59973e4.png?size=128",
+   "level": 1,
+   "xp": 0,
+   "ryo": 380,
+   "clan": null,
+   "wins": 0,
+   "losses": 0,
+   "rating": 1000
+  },
+  {
+   "rank": 31,
    "username": "yc_84",
    "avatar": "https://cdn.discordapp.com/avatars/862537041400299530/65090c40b9aac09c7b3400598203b3e2.png?size=128",
    "level": 1,
@@ -963,18 +975,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 946
-  },
-  {
-   "rank": 31,
-   "username": "lamoustache_22",
-   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/487f9c7121fe6aa01ba41d27c59973e4.png?size=128",
-   "level": 1,
-   "xp": 0,
-   "ryo": 370,
-   "clan": null,
-   "wins": 0,
-   "losses": 0,
-   "rating": 1000
   },
   {
    "rank": 32,
