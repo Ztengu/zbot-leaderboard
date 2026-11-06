@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T09:43:53.732Z",
+ "updatedAt": "2026-11-06T10:42:52.038Z",
  "total": 99,
  "players": [
   {
@@ -19,8 +19,8 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 1558,
-   "ryo": 117118,
+   "xp": 2058,
+   "ryo": 120448,
    "clan": "Exiled Heavy Knight",
    "wins": 119,
    "losses": 4,
@@ -31,12 +31,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 21,
-   "xp": 3105,
-   "ryo": 531671,
+   "xp": 3228,
+   "ryo": 532251,
    "clan": "Shark Enforcers Alpha",
-   "wins": 63,
+   "wins": 64,
    "losses": 9,
-   "rating": 1302
+   "rating": 1304
   },
   {
    "rank": 4,
@@ -44,7 +44,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 19,
    "xp": 630,
-   "ryo": 15588,
+   "ryo": 20588,
    "clan": "Heaven Kingdom Domination",
    "wins": 30,
    "losses": 7,
@@ -172,6 +172,18 @@
   },
   {
    "rank": 15,
+   "username": "prime_sweet__",
+   "avatar": "https://cdn.discordapp.com/avatars/1352883729676238860/b344fff531e5f1613d6fb82f5b97f18f.png?size=128",
+   "level": 1,
+   "xp": 82,
+   "ryo": 37151,
+   "clan": null,
+   "wins": 0,
+   "losses": 13,
+   "rating": 910
+  },
+  {
+   "rank": 16,
    "username": "coyi0085",
    "avatar": "https://cdn.discordapp.com/avatars/1533370487646846998/dd508a633cb87e2c80df047d2eeb3ec3.png?size=128",
    "level": 1,
@@ -181,18 +193,6 @@
    "wins": 0,
    "losses": 12,
    "rating": 910
-  },
-  {
-   "rank": 16,
-   "username": "prime_sweet__",
-   "avatar": "https://cdn.discordapp.com/avatars/1352883729676238860/b344fff531e5f1613d6fb82f5b97f18f.png?size=128",
-   "level": 1,
-   "xp": 76,
-   "ryo": 37135,
-   "clan": null,
-   "wins": 0,
-   "losses": 12,
-   "rating": 913
   },
   {
    "rank": 17,
@@ -621,20 +621,20 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 21,
-   "xp": 3105,
-   "ryo": 531671,
+   "xp": 3228,
+   "ryo": 532251,
    "clan": "Shark Enforcers Alpha",
-   "wins": 63,
+   "wins": 64,
    "losses": 9,
-   "rating": 1302
+   "rating": 1304
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 1558,
-   "ryo": 117118,
+   "xp": 2058,
+   "ryo": 120448,
    "clan": "Exiled Heavy Knight",
    "wins": 119,
    "losses": 4,
@@ -657,12 +657,12 @@
    "username": "prime_sweet__",
    "avatar": "https://cdn.discordapp.com/avatars/1352883729676238860/b344fff531e5f1613d6fb82f5b97f18f.png?size=128",
    "level": 1,
-   "xp": 76,
-   "ryo": 37135,
+   "xp": 82,
+   "ryo": 37151,
    "clan": null,
    "wins": 0,
-   "losses": 12,
-   "rating": 913
+   "losses": 13,
+   "rating": 910
   },
   {
    "rank": 6,
@@ -678,6 +678,18 @@
   },
   {
    "rank": 7,
+   "username": "trfx__",
+   "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
+   "level": 19,
+   "xp": 630,
+   "ryo": 20588,
+   "clan": "Heaven Kingdom Domination",
+   "wins": 30,
+   "losses": 7,
+   "rating": 1212
+  },
+  {
+   "rank": 8,
    "username": "dschubbaa",
    "avatar": "https://cdn.discordapp.com/avatars/1029989107025330186/f791cfa8b3e4d43cb59962f162efda8e.png?size=128",
    "level": 1,
@@ -687,18 +699,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 923
-  },
-  {
-   "rank": 8,
-   "username": "trfx__",
-   "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
-   "level": 19,
-   "xp": 630,
-   "ryo": 15588,
-   "clan": "Heaven Kingdom Domination",
-   "wins": 30,
-   "losses": 7,
-   "rating": 1212
   },
   {
    "rank": 9,
@@ -1223,8 +1223,8 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 1558,
-   "ryo": 117118,
+   "xp": 2058,
+   "ryo": 120448,
    "clan": "Exiled Heavy Knight",
    "wins": 119,
    "losses": 4,
@@ -1235,12 +1235,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 21,
-   "xp": 3105,
-   "ryo": 531671,
+   "xp": 3228,
+   "ryo": 532251,
    "clan": "Shark Enforcers Alpha",
-   "wins": 63,
+   "wins": 64,
    "losses": 9,
-   "rating": 1302
+   "rating": 1304
   },
   {
    "rank": 4,
@@ -1248,7 +1248,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 19,
    "xp": 630,
-   "ryo": 15588,
+   "ryo": 20588,
    "clan": "Heaven Kingdom Domination",
    "wins": 30,
    "losses": 7,
