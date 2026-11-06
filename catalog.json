@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T00:16:56.972Z",
+ "updatedAt": "2026-11-06T02:06:58.807Z",
  "cards": [
   {
    "id": "suika",
@@ -28,7 +28,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1074,
+   "powerRank": 12,
+   "rarityTotal": 45
   },
   {
    "id": "kakashi_dms",
@@ -57,7 +70,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "kakashi",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hatake",
+   "nature": [
+    "Lightning"
+   ],
+   "rank": "Hokage",
+   "power": 1772,
+   "powerRank": 7,
+   "rarityTotal": 9
   },
   {
    "id": "madara_jubidara",
@@ -80,13 +108,28 @@
    "form": "Ten-Tails Jinchūriki",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "madara",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 2140,
+   "powerRank": 2,
+   "rarityTotal": 9
   },
   {
    "id": "minato_edo",
@@ -109,13 +152,31 @@
    "form": "Edo Tensei Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "minato",
+   "formOrder": 2,
+   "evolvesTo": "minato_kcm",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 30000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 1744,
+   "powerRank": 9,
+   "rarityTotal": 9
   },
   {
    "id": "nagato",
@@ -144,7 +205,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Amegakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 1800,
+   "powerRank": 6,
+   "rarityTotal": 9
   },
   {
    "id": "naruto_baryon",
@@ -167,13 +241,28 @@
    "form": "Baryon Mode",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "naruto",
+   "formOrder": 6,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 2440,
+   "powerRank": 1,
+   "rarityTotal": 9
   },
   {
    "id": "naruto_kurama",
@@ -196,13 +285,31 @@
    "form": "Kurama Mode",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "naruto",
+   "formOrder": 5,
+   "evolvesTo": "naruto_baryon",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 80000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 1846,
+   "powerRank": 4,
+   "rarityTotal": 9
   },
   {
    "id": "obito_perfect_susanoo",
@@ -225,13 +332,28 @@
    "form": "Perfect Susanoo",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "akatsuki",
+   "formOrder": 5,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1902,
+   "powerRank": 3,
+   "rarityTotal": 9
   },
   {
    "id": "sasuke_the_last",
@@ -254,13 +376,29 @@
    "form": "The Last Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "sasuke",
+   "formOrder": 5,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire",
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 1836,
+   "powerRank": 5,
+   "rarityTotal": 9
   },
   {
    "id": "tobirama_senju",
@@ -289,7 +427,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Senju",
+   "nature": [
+    "Water"
+   ],
+   "rank": "Hokage",
+   "power": 1760,
+   "powerRank": 8,
+   "rarityTotal": 9
   },
   {
    "id": "black_zetsu",
@@ -318,7 +471,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1270,
+   "powerRank": 19,
+   "rarityTotal": 22
   },
   {
    "id": "code",
@@ -347,7 +513,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1330,
+   "powerRank": 15,
+   "rarityTotal": 22
   },
   {
    "id": "gaara_shukaku",
@@ -370,13 +549,26 @@
    "form": "Partial Shukaku Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "gaara",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Kazekage",
+   "power": 1362,
+   "powerRank": 9,
+   "rarityTotal": 22
   },
   {
    "id": "hagoromo",
@@ -405,7 +597,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 1434,
+   "powerRank": 3,
+   "rarityTotal": 22
   },
   {
    "id": "hidari",
@@ -434,7 +639,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1326,
+   "powerRank": 16,
+   "rarityTotal": 22
   },
   {
    "id": "isshiki",
@@ -463,7 +681,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 1484,
+   "powerRank": 2,
+   "rarityTotal": 22
   },
   {
    "id": "itachi_edo",
@@ -486,13 +717,28 @@
    "form": "Edo Tensei Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "itachi",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1372,
+   "powerRank": 8,
+   "rarityTotal": 22
   },
   {
    "id": "jigen",
@@ -521,7 +767,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 1426,
+   "powerRank": 4,
+   "rarityTotal": 22
   },
   {
    "id": "jiraiya_sage",
@@ -544,13 +803,28 @@
    "form": "Sage Mode",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "jiraiya",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1324,
+   "powerRank": 17,
+   "rarityTotal": 22
   },
   {
    "id": "kabuto_yakushi",
@@ -579,7 +853,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1278,
+   "powerRank": 18,
+   "rarityTotal": 22
   },
   {
    "id": "kaguya",
@@ -608,7 +895,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 1552,
+   "powerRank": 1,
+   "rarityTotal": 22
   },
   {
    "id": "kawaki",
@@ -637,7 +937,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1358,
+   "powerRank": 10,
+   "rarityTotal": 22
   },
   {
    "id": "konan",
@@ -666,7 +979,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Amegakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1256,
+   "powerRank": 20,
+   "rarityTotal": 22
   },
   {
    "id": "madara",
@@ -695,7 +1021,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "madara",
+   "formOrder": 1,
+   "evolvesTo": "madara_edo",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 30000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1204,
+   "powerRank": 21,
+   "rarityTotal": 22
   },
   {
    "id": "madara_edo",
@@ -718,13 +1062,31 @@
    "form": "Edo Tensei Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "madara",
+   "formOrder": 2,
+   "evolvesTo": "madara_jubidara",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 50000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1392,
+   "powerRank": 5,
+   "rarityTotal": 22
   },
   {
    "id": "mighty_guy_8gates",
@@ -747,13 +1109,26 @@
    "form": "8 Gates Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "mighty_guy",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Jonin",
+   "power": 1344,
+   "powerRank": 11,
+   "rarityTotal": 22
   },
   {
    "id": "minato",
@@ -776,13 +1151,31 @@
    "form": "Base Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "minato",
+   "formOrder": 1,
+   "evolvesTo": "minato",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 15000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 1128,
+   "powerRank": 22,
+   "rarityTotal": 22
   },
   {
    "id": "momoshiki_transformed",
@@ -805,13 +1198,26 @@
    "form": "Transformed Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "momoshiki",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 1344,
+   "powerRank": 11,
+   "rarityTotal": 22
   },
   {
    "id": "naruto_sage",
@@ -834,13 +1240,31 @@
    "form": "Sage Mode",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "naruto",
+   "formOrder": 4,
+   "evolvesTo": "naruto_kurama",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 40000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 1378,
+   "powerRank": 7,
+   "rarityTotal": 22
   },
   {
    "id": "obito_jinchuriki",
@@ -863,13 +1287,31 @@
    "form": "Ten-Tails Jinchūriki",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "akatsuki",
+   "formOrder": 4,
+   "evolvesTo": "obito_perfect_susanoo",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 40000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1388,
+   "powerRank": 6,
+   "rarityTotal": 22
   },
   {
    "id": "pain",
@@ -898,7 +1340,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Amegakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 1342,
+   "powerRank": 13,
+   "rarityTotal": 22
   },
   {
    "id": "sasuke_akatsuki",
@@ -921,13 +1376,32 @@
    "form": "Akatsuki Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "sasuke",
+   "formOrder": 4,
+   "evolvesTo": "sasuke_the_last",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 30000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire",
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 1338,
+   "powerRank": 14,
+   "rarityTotal": 22
   },
   {
    "id": "a_raikage",
@@ -956,7 +1430,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [
+    "Lightning"
+   ],
+   "rank": "Raikage",
+   "power": 1478,
+   "powerRank": 1,
+   "rarityTotal": 45
   },
   {
    "id": "amado_sanzu",
@@ -985,7 +1474,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 956,
+   "powerRank": 39,
+   "rarityTotal": 45
   },
   {
    "id": "asura",
@@ -1014,7 +1516,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 844,
+   "powerRank": 44,
+   "rarityTotal": 45
   },
   {
    "id": "boruto_uzumaki",
@@ -1043,7 +1558,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 1038,
+   "powerRank": 22,
+   "rarityTotal": 45
   },
   {
    "id": "danzo_shimura",
@@ -1072,7 +1600,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Shimura",
+   "nature": [
+    "Wind"
+   ],
+   "rank": null,
+   "power": 1028,
+   "powerRank": 25,
+   "rarityTotal": 45
   },
   {
    "id": "deidara",
@@ -1101,7 +1644,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Iwagakure",
+   "clan": null,
+   "nature": [
+    "Earth",
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 1030,
+   "powerRank": 24,
+   "rarityTotal": 45
   },
   {
    "id": "delta",
@@ -1130,7 +1689,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1014,
+   "powerRank": 31,
+   "rarityTotal": 45
   },
   {
    "id": "fu",
@@ -1159,7 +1731,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "fu",
+   "formOrder": 1,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Takigakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1050,
+   "powerRank": 20,
+   "rarityTotal": 45
   },
   {
    "id": "gengetsu_hozuki",
@@ -1188,7 +1773,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": "Hozuki",
+   "nature": [
+    "Water"
+   ],
+   "rank": null,
+   "power": 960,
+   "powerRank": 37,
+   "rarityTotal": 45
   },
   {
    "id": "hamura",
@@ -1217,7 +1817,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 846,
+   "powerRank": 43,
+   "rarityTotal": 45
   },
   {
    "id": "han",
@@ -1246,7 +1859,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "han",
+   "formOrder": 1,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Iwagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1084,
+   "powerRank": 8,
+   "rarityTotal": 45
   },
   {
    "id": "hanzo",
@@ -1275,7 +1901,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Amegakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1016,
+   "powerRank": 30,
+   "rarityTotal": 45
   },
   {
    "id": "hashirama",
@@ -1304,7 +1943,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Senju",
+   "nature": [
+    "Wood"
+   ],
+   "rank": "Hokage",
+   "power": 1072,
+   "powerRank": 13,
+   "rarityTotal": 45
   },
   {
    "id": "hiruzen_sarutobi",
@@ -1333,7 +1987,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Sarutobi",
+   "nature": [
+    "Fire"
+   ],
+   "rank": "Hokage",
+   "power": 1088,
+   "powerRank": 7,
+   "rarityTotal": 45
   },
   {
    "id": "indra",
@@ -1362,7 +2031,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 888,
+   "powerRank": 40,
+   "rarityTotal": 45
   },
   {
    "id": "izuna_uchiha",
@@ -1391,7 +2073,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 960,
+   "powerRank": 37,
+   "rarityTotal": 45
   },
   {
    "id": "jiraiya",
@@ -1420,7 +2117,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "jiraiya",
+   "formOrder": 1,
+   "evolvesTo": "jiraiya_sage",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 8000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 976,
+   "powerRank": 34,
+   "rarityTotal": 45
   },
   {
    "id": "kakuzu",
@@ -1449,7 +2164,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Takigakure",
+   "clan": null,
+   "nature": [
+    "Fire",
+    "Wind",
+    "Lightning",
+    "Earth"
+   ],
+   "rank": null,
+   "power": 1024,
+   "powerRank": 27,
+   "rarityTotal": 45
   },
   {
    "id": "killer_b",
@@ -1478,7 +2211,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1268,
+   "powerRank": 2,
+   "rarityTotal": 45
   },
   {
    "id": "kinshiki",
@@ -1507,7 +2253,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 880,
+   "powerRank": 41,
+   "rarityTotal": 45
   },
   {
    "id": "kisame",
@@ -1536,7 +2295,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": "Hoshigaki",
+   "nature": [
+    "Water"
+   ],
+   "rank": null,
+   "power": 1072,
+   "powerRank": 13,
+   "rarityTotal": 45
   },
   {
    "id": "kushina_uzumaki",
@@ -1565,7 +2339,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 1084,
+   "powerRank": 8,
+   "rarityTotal": 45
   },
   {
    "id": "mangetsu_hozuki",
@@ -1594,7 +2381,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": "Hozuki",
+   "nature": [
+    "Water"
+   ],
+   "rank": null,
+   "power": 980,
+   "powerRank": 33,
+   "rarityTotal": 45
   },
   {
    "id": "mei_terumi",
@@ -1623,7 +2425,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [
+    "Water",
+    "Fire"
+   ],
+   "rank": "Mizukage",
+   "power": 1040,
+   "powerRank": 21,
+   "rarityTotal": 45
   },
   {
    "id": "mifune",
@@ -1652,7 +2470,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Land of Iron",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1020,
+   "powerRank": 28,
+   "rarityTotal": 45
   },
   {
    "id": "minato_kcm",
@@ -1675,13 +2506,28 @@
    "form": "KCM Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "minato",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 1166,
+   "powerRank": 3,
+   "rarityTotal": 45
   },
   {
    "id": "mito_uzumaki",
@@ -1710,7 +2556,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 1008,
+   "powerRank": 32,
+   "rarityTotal": 45
   },
   {
    "id": "mitsuki",
@@ -1739,7 +2598,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1018,
+   "powerRank": 29,
+   "rarityTotal": 45
   },
   {
    "id": "momoshiki",
@@ -1768,7 +2640,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "momoshiki",
+   "formOrder": 1,
+   "evolvesTo": "momoshiki_transformed",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 25000
+   },
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 840,
+   "powerRank": 45,
+   "rarityTotal": 45
   },
   {
    "id": "mu",
@@ -1797,7 +2685,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Iwagakure",
+   "clan": null,
+   "nature": [
+    "Dust"
+   ],
+   "rank": "Tsuchikage",
+   "power": 1052,
+   "powerRank": 19,
+   "rarityTotal": 45
   },
   {
    "id": "obito_6paths",
@@ -1820,13 +2723,31 @@
    "form": "Six Paths Chakra",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "akatsuki",
+   "formOrder": 3,
+   "evolvesTo": "obito_jinchuriki",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 15000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 1026,
+   "powerRank": 26,
+   "rarityTotal": 45
   },
   {
    "id": "onoki",
@@ -1855,7 +2776,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Iwagakure",
+   "clan": null,
+   "nature": [
+    "Earth"
+   ],
+   "rank": "Tsuchikage",
+   "power": 1076,
+   "powerRank": 11,
+   "rarityTotal": 45
   },
   {
    "id": "orochimaru_snake",
@@ -1878,13 +2814,26 @@
    "form": "Eight Branches Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "orochimaru",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 968,
+   "powerRank": 36,
+   "rarityTotal": 45
   },
   {
    "id": "roshi",
@@ -1913,7 +2862,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Iwagakure",
+   "clan": null,
+   "nature": [
+    "Lava"
+   ],
+   "rank": null,
+   "power": 1056,
+   "powerRank": 18,
+   "rarityTotal": 45
   },
   {
    "id": "sakumo_hatake",
@@ -1942,7 +2906,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hatake",
+   "nature": [],
+   "rank": null,
+   "power": 1098,
+   "powerRank": 5,
+   "rarityTotal": 45
   },
   {
    "id": "sarada_uchiha",
@@ -1971,7 +2948,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [],
+   "rank": null,
+   "power": 1038,
+   "powerRank": 22,
+   "rarityTotal": 45
   },
   {
    "id": "sasuke_cursed",
@@ -1994,13 +2984,32 @@
    "form": "Cursed Mark Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "sasuke",
+   "formOrder": 3,
+   "evolvesTo": "sasuke_akatsuki",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 20000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire",
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 970,
+   "powerRank": 35,
+   "rarityTotal": 45
   },
   {
    "id": "shisui_uchiha",
@@ -2029,7 +3038,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [],
+   "rank": null,
+   "power": 1066,
+   "powerRank": 16,
+   "rarityTotal": 45
   },
   {
    "id": "tsunade_senju",
@@ -2058,7 +3080,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Senju",
+   "nature": [],
+   "rank": "Hokage",
+   "power": 1158,
+   "powerRank": 4,
+   "rarityTotal": 45
   },
   {
    "id": "urashiki",
@@ -2087,7 +3122,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 856,
+   "powerRank": 42,
+   "rarityTotal": 45
   },
   {
    "id": "utakata",
@@ -2116,7 +3164,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [
+    "Water"
+   ],
+   "rank": null,
+   "power": 1084,
+   "powerRank": 8,
+   "rarityTotal": 45
   },
   {
    "id": "yagura_karatachi",
@@ -2145,7 +3208,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Mizukage",
+   "power": 1092,
+   "powerRank": 6,
+   "rarityTotal": 45
   },
   {
    "id": "yugito_ni",
@@ -2174,7 +3250,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 1070,
+   "powerRank": 15,
+   "rarityTotal": 45
   },
   {
    "id": "zabuza_momochi",
@@ -2203,7 +3292,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [
+    "Water"
+   ],
+   "rank": null,
+   "power": 1060,
+   "powerRank": 17,
+   "rarityTotal": 45
   },
   {
    "id": "ameyuri_ringo",
@@ -2232,7 +3336,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 654,
+   "powerRank": 22,
+   "rarityTotal": 42
   },
   {
    "id": "ao",
@@ -2261,7 +3380,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 634,
+   "powerRank": 28,
+   "rarityTotal": 42
   },
   {
    "id": "asuma_sarutobi",
@@ -2290,7 +3422,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "asuma_sarutobi",
+   "formOrder": 1,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Sarutobi",
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Jonin",
+   "power": 658,
+   "powerRank": 20,
+   "rarityTotal": 42
   },
   {
    "id": "baki",
@@ -2319,7 +3466,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [
+    "Wind"
+   ],
+   "rank": null,
+   "power": 624,
+   "powerRank": 31,
+   "rarityTotal": 42
   },
   {
    "id": "boro",
@@ -2348,7 +3510,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 800,
+   "powerRank": 1,
+   "rarityTotal": 42
   },
   {
    "id": "chiyo",
@@ -2377,7 +3552,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 598,
+   "powerRank": 35,
+   "rarityTotal": 42
   },
   {
    "id": "choza_akimichi",
@@ -2406,7 +3594,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Akimichi",
+   "nature": [],
+   "rank": null,
+   "power": 726,
+   "powerRank": 7,
+   "rarityTotal": 42
   },
   {
    "id": "darui",
@@ -2435,7 +3636,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 710,
+   "powerRank": 11,
+   "rarityTotal": 42
   },
   {
    "id": "deepa",
@@ -2464,7 +3680,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 792,
+   "powerRank": 2,
+   "rarityTotal": 42
   },
   {
    "id": "fugaku_uchiha",
@@ -2493,7 +3722,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 638,
+   "powerRank": 27,
+   "rarityTotal": 42
   },
   {
    "id": "gaara",
@@ -2522,7 +3766,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "gaara",
+   "formOrder": 2,
+   "evolvesTo": "gaara_shukaku",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 12000
+   },
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Kazekage",
+   "power": 648,
+   "powerRank": 26,
+   "rarityTotal": 42
   },
   {
    "id": "guren",
@@ -2551,7 +3811,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 598,
+   "powerRank": 35,
+   "rarityTotal": 42
   },
   {
    "id": "haku",
@@ -2580,7 +3853,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": "Yuki",
+   "nature": [
+    "Ice"
+   ],
+   "rank": null,
+   "power": 626,
+   "powerRank": 30,
+   "rarityTotal": 42
   },
   {
    "id": "hiashi_hyuga",
@@ -2609,7 +3897,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": null,
+   "power": 652,
+   "powerRank": 23,
+   "rarityTotal": 42
   },
   {
    "id": "hidan",
@@ -2638,7 +3939,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Yugakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 650,
+   "powerRank": 25,
+   "rarityTotal": 42
   },
   {
    "id": "inoichi_yamanaka",
@@ -2667,7 +3981,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Yamanaka",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 596,
+   "powerRank": 37,
+   "rarityTotal": 42
   },
   {
    "id": "itachi",
@@ -2696,7 +4023,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "itachi",
+   "formOrder": 2,
+   "evolvesTo": "itachi_edo",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 20000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 770,
+   "powerRank": 3,
+   "rarityTotal": 42
   },
   {
    "id": "jugo",
@@ -2725,7 +4070,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 724,
+   "powerRank": 8,
+   "rarityTotal": 42
   },
   {
    "id": "kankuro",
@@ -2754,7 +4112,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 612,
+   "powerRank": 34,
+   "rarityTotal": 42
   },
   {
    "id": "kidomaru",
@@ -2783,7 +4154,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "kidomaru",
+   "formOrder": 1,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Otogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 668,
+   "powerRank": 19,
+   "rarityTotal": 42
   },
   {
    "id": "kimimaru",
@@ -2812,7 +4196,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Otogakure",
+   "clan": "Kaguya",
+   "nature": [],
+   "rank": null,
+   "power": 752,
+   "powerRank": 4,
+   "rarityTotal": 42
   },
   {
    "id": "konohamaru_sarutobi",
@@ -2841,7 +4238,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Sarutobi",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 694,
+   "powerRank": 13,
+   "rarityTotal": 42
   },
   {
    "id": "yuhi_kurenai",
@@ -2870,7 +4280,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Yuhi",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 526,
+   "powerRank": 42,
+   "rarityTotal": 42
   },
   {
    "id": "naruto_4tails",
@@ -2893,13 +4316,31 @@
    "form": "4-Tails Cloak",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "naruto",
+   "formOrder": 3,
+   "evolvesTo": "naruto_sage",
+   "evolveCost": {
+    "quantity": 2,
+    "gold": 15000
+   },
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 552,
+   "powerRank": 41,
+   "rarityTotal": 42
   },
   {
    "id": "neji_hyuga",
@@ -2928,7 +4369,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "neji_hyuga",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 714,
+   "powerRank": 10,
+   "rarityTotal": 42
   },
   {
    "id": "obito",
@@ -2957,7 +4411,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "akatsuki",
+   "formOrder": 2,
+   "evolvesTo": "obito_6paths",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 5000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 670,
+   "powerRank": 18,
+   "rarityTotal": 42
   },
   {
    "id": "orochimaru",
@@ -2986,7 +4458,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "orochimaru",
+   "formOrder": 1,
+   "evolvesTo": "orochimaru_snake",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 15000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 628,
+   "powerRank": 29,
+   "rarityTotal": 42
   },
   {
    "id": "pakura",
@@ -3015,7 +4503,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [
+    "Fire",
+    "Wind"
+   ],
+   "rank": null,
+   "power": 752,
+   "powerRank": 4,
+   "rarityTotal": 42
   },
   {
    "id": "raiga_kurosuki",
@@ -3044,7 +4548,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": null,
+   "nature": [
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 698,
+   "powerRank": 12,
+   "rarityTotal": 42
   },
   {
    "id": "rock_5gates",
@@ -3067,13 +4586,26 @@
    "form": "5 Gates Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "rock_lee",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Jonin",
+   "power": 556,
+   "powerRank": 40,
+   "rarityTotal": 42
   },
   {
    "id": "sai",
@@ -3102,7 +4634,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 652,
+   "powerRank": 23,
+   "rarityTotal": 42
   },
   {
    "id": "sakon_ukon",
@@ -3131,7 +4676,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Otogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 678,
+   "powerRank": 16,
+   "rarityTotal": 42
   },
   {
    "id": "sakura_byakugo",
@@ -3154,13 +4712,28 @@
    "form": "Byakugō Form",
    "obtainable": true,
    "source": "built-in",
-   "obtain": null,
+   "obtain": "Evolve only",
    "eventOnly": false,
    "eventName": null,
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "sakura",
+   "formOrder": 3,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": true,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Earth"
+   ],
+   "rank": null,
+   "power": 658,
+   "powerRank": 20,
+   "rarityTotal": 42
   },
   {
    "id": "sasori",
@@ -3189,7 +4762,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 694,
+   "powerRank": 13,
+   "rarityTotal": 42
   },
   {
    "id": "sasuke",
@@ -3218,7 +4804,26 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "sasuke",
+   "formOrder": 2,
+   "evolvesTo": "sasuke_cursed",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 10000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire",
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 682,
+   "powerRank": 15,
+   "rarityTotal": 42
   },
   {
    "id": "shikaku_nara",
@@ -3247,7 +4852,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Nara",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 568,
+   "powerRank": 39,
+   "rarityTotal": 42
   },
   {
    "id": "suigetsu_hozuki",
@@ -3276,7 +4894,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kirigakure",
+   "clan": "Hozuki",
+   "nature": [
+    "Water"
+   ],
+   "rank": null,
+   "power": 732,
+   "powerRank": 6,
+   "rarityTotal": 42
   },
   {
    "id": "tayuya",
@@ -3305,7 +4938,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Otogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 616,
+   "powerRank": 33,
+   "rarityTotal": 42
   },
   {
    "id": "temari",
@@ -3334,7 +4980,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [
+    "Wind"
+   ],
+   "rank": null,
+   "power": 672,
+   "powerRank": 17,
+   "rarityTotal": 42
   },
   {
    "id": "toneri",
@@ -3363,7 +5024,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": "Otsutsuki",
+   "nature": [],
+   "rank": null,
+   "power": 570,
+   "powerRank": 38,
+   "rarityTotal": 42
   },
   {
    "id": "yamato",
@@ -3392,7 +5066,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Wood"
+   ],
+   "rank": "Jonin",
+   "power": 720,
+   "powerRank": 9,
+   "rarityTotal": 42
   },
   {
    "id": "zetsu",
@@ -3421,7 +5110,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 622,
+   "powerRank": 32,
+   "rarityTotal": 42
   },
   {
    "id": "agari_kaisen",
@@ -3450,7 +5152,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 362,
+   "powerRank": 41,
+   "rarityTotal": 42
   },
   {
    "id": "anko_mitarashi",
@@ -3479,7 +5194,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Special Jonin",
+   "power": 374,
+   "powerRank": 35,
+   "rarityTotal": 42
   },
   {
    "id": "butsuma_senju",
@@ -3508,7 +5236,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Senju",
+   "nature": [],
+   "rank": null,
+   "power": 430,
+   "powerRank": 13,
+   "rarityTotal": 42
   },
   {
    "id": "chocho_akimichi",
@@ -3537,7 +5278,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Akimichi",
+   "nature": [],
+   "rank": null,
+   "power": 406,
+   "powerRank": 22,
+   "rarityTotal": 42
   },
   {
    "id": "choji_akimichi",
@@ -3566,7 +5320,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "choji_akimichi",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Akimichi",
+   "nature": [],
+   "rank": null,
+   "power": 430,
+   "powerRank": 13,
+   "rarityTotal": 42
   },
   {
    "id": "gaara_kid",
@@ -3595,7 +5362,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "gaara",
+   "formOrder": 1,
+   "evolvesTo": "gaara",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 6000
+   },
+   "evolveOnly": false,
+   "village": "Sunagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 438,
+   "powerRank": 11,
+   "rarityTotal": 42
   },
   {
    "id": "gari",
@@ -3624,7 +5407,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 378,
+   "powerRank": 32,
+   "rarityTotal": 42
   },
   {
    "id": "genma_shiranui",
@@ -3653,7 +5449,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Special Jonin",
+   "power": 374,
+   "powerRank": 35,
+   "rarityTotal": 42
   },
   {
    "id": "hanabi_hyuga",
@@ -3682,7 +5491,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": null,
+   "power": 424,
+   "powerRank": 19,
+   "rarityTotal": 42
   },
   {
    "id": "himawari_uzumaki",
@@ -3711,7 +5533,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 392,
+   "powerRank": 27,
+   "rarityTotal": 42
   },
   {
    "id": "hinata",
@@ -3740,7 +5575,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "hinata",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": null,
+   "power": 376,
+   "powerRank": 33,
+   "rarityTotal": 42
   },
   {
    "id": "hizashi_hyuga",
@@ -3769,7 +5617,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": null,
+   "power": 484,
+   "powerRank": 3,
+   "rarityTotal": 42
   },
   {
    "id": "ibiki_morino",
@@ -3798,7 +5659,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Jonin",
+   "power": 440,
+   "powerRank": 9,
+   "rarityTotal": 42
   },
   {
    "id": "ino_yamanaka",
@@ -3827,7 +5701,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "ino_yamanaka",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Yamanaka",
+   "nature": [],
+   "rank": null,
+   "power": 364,
+   "powerRank": 40,
+   "rarityTotal": 42
   },
   {
    "id": "inojin_yamanaka",
@@ -3856,7 +5743,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Yamanaka",
+   "nature": [],
+   "rank": null,
+   "power": 406,
+   "powerRank": 22,
+   "rarityTotal": 42
   },
   {
    "id": "itachi_kid",
@@ -3885,7 +5785,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "itachi",
+   "formOrder": 1,
+   "evolvesTo": "itachi",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 6000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 494,
+   "powerRank": 2,
+   "rarityTotal": 42
   },
   {
    "id": "jirobo",
@@ -3914,7 +5832,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "jirobo",
+   "formOrder": 1,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Otogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 520,
+   "powerRank": 1,
+   "rarityTotal": 42
   },
   {
    "id": "kakashi",
@@ -3943,7 +5874,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "kakashi",
+   "formOrder": 2,
+   "evolvesTo": "kakashi_dms",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 15000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hatake",
+   "nature": [
+    "Lightning"
+   ],
+   "rank": "Hokage",
+   "power": 376,
+   "powerRank": 33,
+   "rarityTotal": 42
   },
   {
    "id": "karin",
@@ -3972,7 +5921,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kusagakure",
+   "clan": "Uzumaki",
+   "nature": [],
+   "rank": null,
+   "power": 370,
+   "powerRank": 37,
+   "rarityTotal": 42
   },
   {
    "id": "karui",
@@ -4001,7 +5963,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 430,
+   "powerRank": 13,
+   "rarityTotal": 42
   },
   {
    "id": "kiba_inuzuka",
@@ -4030,7 +6005,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "kiba_inuzuka",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Inuzuka",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 436,
+   "powerRank": 12,
+   "rarityTotal": 42
   },
   {
    "id": "lee_metal",
@@ -4059,7 +6047,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 428,
+   "powerRank": 17,
+   "rarityTotal": 42
   },
   {
    "id": "mighty_guy",
@@ -4088,7 +6089,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "mighty_guy",
+   "formOrder": 2,
+   "evolvesTo": "mighty_guy_seven_gates",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 10000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Jonin",
+   "power": 428,
+   "powerRank": 17,
+   "rarityTotal": 42
   },
   {
    "id": "mikoto_uchiha",
@@ -4117,7 +6134,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [],
+   "rank": null,
+   "power": 368,
+   "powerRank": 38,
+   "rarityTotal": 42
   },
   {
    "id": "mirai_sarutobi",
@@ -4146,7 +6176,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Sarutobi",
+   "nature": [],
+   "rank": null,
+   "power": 410,
+   "powerRank": 21,
+   "rarityTotal": 42
   },
   {
    "id": "moegi_kazamatsuri",
@@ -4175,7 +6218,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 368,
+   "powerRank": 38,
+   "rarityTotal": 42
   },
   {
    "id": "naruto",
@@ -4204,7 +6260,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "naruto",
+   "formOrder": 2,
+   "evolvesTo": "naruto_4tails",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 5000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [
+    "Wind"
+   ],
+   "rank": "Hokage",
+   "power": 420,
+   "powerRank": 20,
+   "rarityTotal": 42
   },
   {
    "id": "neji_kid",
@@ -4233,7 +6307,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "neji_hyuga",
+   "formOrder": 1,
+   "evolvesTo": "neji_hyuga",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 6000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": null,
+   "power": 458,
+   "powerRank": 5,
+   "rarityTotal": 42
   },
   {
    "id": "obito_kid",
@@ -4262,7 +6352,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "akatsuki",
+   "formOrder": 1,
+   "evolvesTo": "obito",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 6000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire"
+   ],
+   "rank": null,
+   "power": 402,
+   "powerRank": 24,
+   "rarityTotal": 42
   },
   {
    "id": "omoi",
@@ -4291,7 +6399,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 430,
+   "powerRank": 13,
+   "rarityTotal": 42
   },
   {
    "id": "rin_nohara",
@@ -4320,7 +6443,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 356,
+   "powerRank": 42,
+   "rarityTotal": 42
   },
   {
    "id": "rock_lee",
@@ -4349,7 +6485,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "rock_lee",
+   "formOrder": 2,
+   "evolvesTo": "rock_5gates",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 5000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Jonin",
+   "power": 380,
+   "powerRank": 31,
+   "rarityTotal": 42
   },
   {
    "id": "sakura",
@@ -4378,7 +6530,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "sakura",
+   "formOrder": 2,
+   "evolvesTo": "sakura_byakugo",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 8000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Earth"
+   ],
+   "rank": null,
+   "power": 388,
+   "powerRank": 28,
+   "rarityTotal": 42
   },
   {
    "id": "samui",
@@ -4407,7 +6577,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 450,
+   "powerRank": 6,
+   "rarityTotal": 42
   },
   {
    "id": "sasuke_kid",
@@ -4436,7 +6621,26 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "sasuke",
+   "formOrder": 1,
+   "evolvesTo": "sasuke",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 6000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uchiha",
+   "nature": [
+    "Fire",
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 468,
+   "powerRank": 4,
+   "rarityTotal": 42
   },
   {
    "id": "shikadai_nara",
@@ -4465,7 +6669,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Nara",
+   "nature": [],
+   "rank": null,
+   "power": 400,
+   "powerRank": 25,
+   "rarityTotal": 42
   },
   {
    "id": "shikamaru",
@@ -4494,7 +6711,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "shikamaru",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Nara",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 382,
+   "powerRank": 30,
+   "rarityTotal": 42
   },
   {
    "id": "shino_aburame",
@@ -4523,7 +6753,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "shino_aburame",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Aburame",
+   "nature": [],
+   "rank": "Jonin",
+   "power": 440,
+   "powerRank": 9,
+   "rarityTotal": 42
   },
   {
    "id": "shizune",
@@ -4552,7 +6795,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 396,
+   "powerRank": 26,
+   "rarityTotal": 42
   },
   {
    "id": "sumire_kakei",
@@ -4581,7 +6837,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 388,
+   "powerRank": 28,
+   "rarityTotal": 42
   },
   {
    "id": "tenten",
@@ -4610,7 +6879,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": "tenten",
+   "formOrder": 2,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 450,
+   "powerRank": 6,
+   "rarityTotal": 42
   },
   {
    "id": "torune_aburame",
@@ -4639,7 +6921,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 446,
+   "powerRank": 8,
+   "rarityTotal": 42
   },
   {
    "id": "akatsuchi",
@@ -4668,7 +6963,22 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Iwagakure",
+   "clan": null,
+   "nature": [
+    "Earth"
+   ],
+   "rank": null,
+   "power": 284,
+   "powerRank": 2,
+   "rarityTotal": 7
   },
   {
    "id": "atsui",
@@ -4697,7 +7007,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 256,
+   "powerRank": 4,
+   "rarityTotal": 7
   },
   {
    "id": "dosu_kinuta",
@@ -4726,7 +7049,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Otogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 288,
+   "powerRank": 1,
+   "rarityTotal": 7
   },
   {
    "id": "ebisu",
@@ -4755,7 +7091,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Special Jonin",
+   "power": 252,
+   "powerRank": 5,
+   "rarityTotal": 7
   },
   {
    "id": "iruka_umino",
@@ -4784,7 +7133,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": "Chunin",
+   "power": 260,
+   "powerRank": 3,
+   "rarityTotal": 7
   },
   {
    "id": "nawaki",
@@ -4813,7 +7175,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Senju",
+   "nature": [],
+   "rank": null,
+   "power": 220,
+   "powerRank": 7,
+   "rarityTotal": 7
   },
   {
    "id": "ranmaru",
@@ -4842,7 +7217,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": null,
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 228,
+   "powerRank": 6,
+   "rarityTotal": 7
   },
   {
    "id": "abiru",
@@ -4871,7 +7259,20 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": false,
+   "family": null,
+   "formOrder": null,
+   "evolvesTo": null,
+   "evolveCost": null,
+   "evolveOnly": false,
+   "village": "Kumogakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 112,
+   "powerRank": 10,
+   "rarityTotal": 13
   },
   {
    "id": "choji_kid",
@@ -4900,7 +7301,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "choji_akimichi",
+   "formOrder": 1,
+   "evolvesTo": "choji_akimichi",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Akimichi",
+   "nature": [],
+   "rank": null,
+   "power": 124,
+   "powerRank": 4,
+   "rarityTotal": 13
   },
   {
    "id": "hinata_kid",
@@ -4929,7 +7346,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "hinata",
+   "formOrder": 1,
+   "evolvesTo": "hinata",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hyuga",
+   "nature": [],
+   "rank": null,
+   "power": 118,
+   "powerRank": 7,
+   "rarityTotal": 13
   },
   {
    "id": "ino_kid",
@@ -4958,7 +7391,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "ino_yamanaka",
+   "formOrder": 1,
+   "evolvesTo": "ino_yamanaka",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Yamanaka",
+   "nature": [],
+   "rank": null,
+   "power": 118,
+   "powerRank": 7,
+   "rarityTotal": 13
   },
   {
    "id": "kakashi_kid",
@@ -4987,7 +7436,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "kakashi",
+   "formOrder": 1,
+   "evolvesTo": "kakashi",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Hatake",
+   "nature": [
+    "Lightning"
+   ],
+   "rank": null,
+   "power": 132,
+   "powerRank": 2,
+   "rarityTotal": 13
   },
   {
    "id": "kiba_kid",
@@ -5016,7 +7483,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "kiba_inuzuka",
+   "formOrder": 1,
+   "evolvesTo": "kiba_inuzuka",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Inuzuka",
+   "nature": [],
+   "rank": null,
+   "power": 124,
+   "powerRank": 4,
+   "rarityTotal": 13
   },
   {
    "id": "guy_kid",
@@ -5045,7 +7528,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "mighty_guy",
+   "formOrder": 1,
+   "evolvesTo": "mighty_guy",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 128,
+   "powerRank": 3,
+   "rarityTotal": 13
   },
   {
    "id": "naruto_kid",
@@ -5074,7 +7573,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "naruto",
+   "formOrder": 1,
+   "evolvesTo": "naruto",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Uzumaki",
+   "nature": [
+    "Wind"
+   ],
+   "rank": null,
+   "power": 140,
+   "powerRank": 1,
+   "rarityTotal": 13
   },
   {
    "id": "rock_lee_kid",
@@ -5103,7 +7620,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "rock_lee",
+   "formOrder": 1,
+   "evolvesTo": "rock_lee",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 112,
+   "powerRank": 10,
+   "rarityTotal": 13
   },
   {
    "id": "sakura_kid",
@@ -5132,7 +7665,25 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "sakura",
+   "formOrder": 1,
+   "evolvesTo": "sakura",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [
+    "Earth"
+   ],
+   "rank": null,
+   "power": 118,
+   "powerRank": 7,
+   "rarityTotal": 13
   },
   {
    "id": "shikamaru_kid",
@@ -5161,7 +7712,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "shikamaru",
+   "formOrder": 1,
+   "evolvesTo": "shikamaru",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Nara",
+   "nature": [],
+   "rank": null,
+   "power": 104,
+   "powerRank": 13,
+   "rarityTotal": 13
   },
   {
    "id": "shino_kid",
@@ -5190,7 +7757,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "shino_aburame",
+   "formOrder": 1,
+   "evolvesTo": "shino_aburame",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": "Aburame",
+   "nature": [],
+   "rank": null,
+   "power": 120,
+   "powerRank": 6,
+   "rarityTotal": 13
   },
   {
    "id": "tenten_kid",
@@ -5219,7 +7802,23 @@
    "eventStartAt": null,
    "eventEndAt": null,
    "requirements": null,
-   "material": null
+   "material": null,
+   "isKid": true,
+   "family": "tenten",
+   "formOrder": 1,
+   "evolvesTo": "tenten",
+   "evolveCost": {
+    "quantity": 3,
+    "gold": 3000
+   },
+   "evolveOnly": false,
+   "village": "Konohagakure",
+   "clan": null,
+   "nature": [],
+   "rank": null,
+   "power": 110,
+   "powerRank": 12,
+   "rarityTotal": 13
   }
  ],
  "items": [
