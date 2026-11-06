@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T08:06:28.228Z",
+ "updatedAt": "2026-11-06T09:06:28.132Z",
  "total": 99,
  "players": [
   {
@@ -19,24 +19,24 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 1426,
-   "ryo": 146538,
+   "xp": 1558,
+   "ryo": 117118,
    "clan": "Exiled Heavy Knight",
-   "wins": 118,
+   "wins": 119,
    "losses": 4,
-   "rating": 1430
+   "rating": 1431
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 21,
-   "xp": 2968,
-   "ryo": 561091,
+   "xp": 3105,
+   "ryo": 531671,
    "clan": "Shark Enforcers Alpha",
-   "wins": 62,
+   "wins": 63,
    "losses": 9,
-   "rating": 1299
+   "rating": 1302
   },
   {
    "rank": 4,
@@ -208,6 +208,18 @@
   },
   {
    "rank": 18,
+   "username": "rengoku083246",
+   "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
+   "level": 1,
+   "xp": 71,
+   "ryo": 320,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 947
+  },
+  {
+   "rank": 19,
    "username": "__ezio__",
    "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
    "level": 1,
@@ -219,7 +231,7 @@
    "rating": 918
   },
   {
-   "rank": 19,
+   "rank": 20,
    "username": "_aarav.9_",
    "avatar": "https://cdn.discordapp.com/avatars/1178264750698807327/b2c10eacf8da79659b77576e042d66bc.png?size=128",
    "level": 1,
@@ -229,18 +241,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 933
-  },
-  {
-   "rank": 20,
-   "username": "rengoku083246",
-   "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
-   "level": 1,
-   "xp": 65,
-   "ryo": 304,
-   "clan": null,
-   "wins": 0,
-   "losses": 10,
-   "rating": 949
   },
   {
    "rank": 21,
@@ -621,24 +621,24 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 21,
-   "xp": 2968,
-   "ryo": 561091,
+   "xp": 3105,
+   "ryo": 531671,
    "clan": "Shark Enforcers Alpha",
-   "wins": 62,
+   "wins": 63,
    "losses": 9,
-   "rating": 1299
+   "rating": 1302
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 1426,
-   "ryo": 146538,
+   "xp": 1558,
+   "ryo": 117118,
    "clan": "Exiled Heavy Knight",
-   "wins": 118,
+   "wins": 119,
    "losses": 4,
-   "rating": 1430
+   "rating": 1431
   },
   {
    "rank": 4,
@@ -1002,6 +1002,18 @@
   },
   {
    "rank": 34,
+   "username": "rengoku083246",
+   "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
+   "level": 1,
+   "xp": 71,
+   "ryo": 320,
+   "clan": null,
+   "wins": 0,
+   "losses": 11,
+   "rating": 947
+  },
+  {
+   "rank": 35,
    "username": "coyi0085",
    "avatar": "https://cdn.discordapp.com/avatars/1533370487646846998/dd508a633cb87e2c80df047d2eeb3ec3.png?size=128",
    "level": 1,
@@ -1011,18 +1023,6 @@
    "wins": 0,
    "losses": 12,
    "rating": 910
-  },
-  {
-   "rank": 35,
-   "username": "rengoku083246",
-   "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
-   "level": 1,
-   "xp": 65,
-   "ryo": 304,
-   "clan": null,
-   "wins": 0,
-   "losses": 10,
-   "rating": 949
   },
   {
    "rank": 36,
@@ -1223,24 +1223,24 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 1426,
-   "ryo": 146538,
+   "xp": 1558,
+   "ryo": 117118,
    "clan": "Exiled Heavy Knight",
-   "wins": 118,
+   "wins": 119,
    "losses": 4,
-   "rating": 1430
+   "rating": 1431
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 21,
-   "xp": 2968,
-   "ryo": 561091,
+   "xp": 3105,
+   "ryo": 531671,
    "clan": "Shark Enforcers Alpha",
-   "wins": 62,
+   "wins": 63,
    "losses": 9,
-   "rating": 1299
+   "rating": 1302
   },
   {
    "rank": 4,
