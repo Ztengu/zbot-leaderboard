@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T15:24:15.118Z",
+ "updatedAt": "2026-11-07T16:24:15.208Z",
  "total": 99,
  "players": [
   {
@@ -978,6 +978,18 @@
   },
   {
    "rank": 32,
+   "username": ".nextar",
+   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
+   "level": 1,
+   "xp": 12,
+   "ryo": 332,
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 985
+  },
+  {
+   "rank": 33,
    "username": "picu0277",
    "avatar": "https://cdn.discordapp.com/avatars/1533338644985679886/48cd2a8662d1730fbe3344e0a8d359e0.png?size=128",
    "level": 1,
@@ -987,18 +999,6 @@
    "wins": 0,
    "losses": 13,
    "rating": 923
-  },
-  {
-   "rank": 33,
-   "username": ".nextar",
-   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
-   "level": 1,
-   "xp": 12,
-   "ryo": 322,
-   "clan": null,
-   "wins": 0,
-   "losses": 2,
-   "rating": 985
   },
   {
    "rank": 34,
