@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T08:24:15.197Z",
+ "updatedAt": "2026-11-07T09:24:15.162Z",
  "total": 99,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108825,
-   "ryo": 12854854,
+   "ryo": 12854874,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -19,12 +19,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 2058,
-   "ryo": 120448,
+   "xp": 3849,
+   "ryo": 131863,
    "clan": "Exiled Heavy Knight",
-   "wins": 119,
+   "wins": 120,
    "losses": 4,
-   "rating": 1431
+   "rating": 1432
   },
   {
    "rank": 3,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108825,
-   "ryo": 12854854,
+   "ryo": 12854874,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 2058,
-   "ryo": 120448,
+   "xp": 3849,
+   "ryo": 131863,
    "clan": "Exiled Heavy Knight",
-   "wins": 119,
+   "wins": 120,
    "losses": 4,
-   "rating": 1431
+   "rating": 1432
   },
   {
    "rank": 4,
@@ -1029,12 +1029,12 @@
    "username": "jmsterr",
    "avatar": "https://cdn.discordapp.com/avatars/1394663126510600334/4a0018297fa5b99ea5f61cc2e8f6c6ca.png?size=128",
    "level": 1,
-   "xp": 6,
-   "ryo": 266,
+   "xp": 12,
+   "ryo": 282,
    "clan": null,
    "wins": 0,
-   "losses": 1,
-   "rating": 994
+   "losses": 2,
+   "rating": 991
   },
   {
    "rank": 37,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108825,
-   "ryo": 12854854,
+   "ryo": 12854874,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 2058,
-   "ryo": 120448,
+   "xp": 3849,
+   "ryo": 131863,
    "clan": "Exiled Heavy Knight",
-   "wins": 119,
+   "wins": 120,
    "losses": 4,
-   "rating": 1431
+   "rating": 1432
   },
   {
    "rank": 3,
