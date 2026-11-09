@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T23:59:57.649Z",
+ "updatedAt": "2026-11-09T00:58:51.572Z",
  "total": 100,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108825,
-   "ryo": 12861434,
+   "ryo": 12852038,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -19,12 +19,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 3992,
-   "ryo": 135193,
+   "xp": 4208,
+   "ryo": 145359,
    "clan": "Exiled Heavy Knight",
-   "wins": 121,
+   "wins": 122,
    "losses": 4,
-   "rating": 1434
+   "rating": 1436
   },
   {
    "rank": 3,
@@ -43,12 +43,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 19,
-   "xp": 694,
-   "ryo": 22088,
+   "xp": 756,
+   "ryo": 22167,
    "clan": "Heaven Kingdom Domination",
-   "wins": 30,
+   "wins": 31,
    "losses": 7,
-   "rating": 1212
+   "rating": 1217
   },
   {
    "rank": 5,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108825,
-   "ryo": 12861434,
+   "ryo": 12852038,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 3992,
-   "ryo": 135193,
+   "xp": 4208,
+   "ryo": 145359,
    "clan": "Exiled Heavy Knight",
-   "wins": 121,
+   "wins": 122,
    "losses": 4,
-   "rating": 1434
+   "rating": 1436
   },
   {
    "rank": 4,
@@ -681,12 +681,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 19,
-   "xp": 694,
-   "ryo": 22088,
+   "xp": 756,
+   "ryo": 22167,
    "clan": "Heaven Kingdom Domination",
-   "wins": 30,
+   "wins": 31,
    "losses": 7,
-   "rating": 1212
+   "rating": 1217
   },
   {
    "rank": 8,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 108825,
-   "ryo": 12861434,
+   "ryo": 12852038,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 23,
-   "xp": 3992,
-   "ryo": 135193,
+   "xp": 4208,
+   "ryo": 145359,
    "clan": "Exiled Heavy Knight",
-   "wins": 121,
+   "wins": 122,
    "losses": 4,
-   "rating": 1434
+   "rating": 1436
   },
   {
    "rank": 3,
@@ -1247,12 +1247,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 19,
-   "xp": 694,
-   "ryo": 22088,
+   "xp": 756,
+   "ryo": 22167,
    "clan": "Heaven Kingdom Domination",
-   "wins": 30,
+   "wins": 31,
    "losses": 7,
-   "rating": 1212
+   "rating": 1217
   },
   {
    "rank": 5,
