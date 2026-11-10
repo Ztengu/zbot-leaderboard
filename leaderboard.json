@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T19:24:56.723Z",
+ "updatedAt": "2026-11-10T22:24:56.764Z",
  "total": 100,
  "players": [
   {
@@ -942,6 +942,18 @@
   },
   {
    "rank": 29,
+   "username": "lamoustache_22",
+   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/35c5e55d5c486928de177453249a2dd1.png?size=128",
+   "level": 1,
+   "xp": 6,
+   "ryo": 416,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 991
+  },
+  {
+   "rank": 30,
    "username": "tlu2",
    "avatar": "https://cdn.discordapp.com/avatars/398833395062538250/b0a0dd792e51b4714f74ecbb8078947f.png?size=128",
    "level": 1,
@@ -951,18 +963,6 @@
    "wins": 0,
    "losses": 9,
    "rating": 947
-  },
-  {
-   "rank": 30,
-   "username": "lamoustache_22",
-   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/35c5e55d5c486928de177453249a2dd1.png?size=128",
-   "level": 1,
-   "xp": 6,
-   "ryo": 396,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 991
   },
   {
    "rank": 31,
