@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-10T13:24:57.033Z",
- "total": 101,
+ "updatedAt": "2026-11-10T14:24:57.038Z",
+ "total": 100,
  "players": [
   {
    "rank": 1,
@@ -31,12 +31,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 23,
-   "xp": 545,
-   "ryo": 533343,
+   "xp": 668,
+   "ryo": 533923,
    "clan": "Shark Enforcers Alpha",
-   "wins": 71,
+   "wins": 72,
    "losses": 9,
-   "rating": 1322
+   "rating": 1325
   },
   {
    "rank": 4,
@@ -621,12 +621,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 23,
-   "xp": 545,
-   "ryo": 533343,
+   "xp": 668,
+   "ryo": 533923,
    "clan": "Shark Enforcers Alpha",
-   "wins": 71,
+   "wins": 72,
    "losses": 9,
-   "rating": 1322
+   "rating": 1325
   },
   {
    "rank": 3,
@@ -1074,6 +1074,18 @@
   },
   {
    "rank": 40,
+   "username": "ylise567",
+   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
+   "level": 1,
+   "xp": 12,
+   "ryo": 192,
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 992
+  },
+  {
+   "rank": 41,
    "username": "jaredpr724",
    "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
    "level": 1,
@@ -1085,7 +1097,7 @@
    "rating": 973
   },
   {
-   "rank": 41,
+   "rank": 42,
    "username": "angel050105",
    "avatar": "https://cdn.discordapp.com/avatars/1534017263131164694/5e37a847f91c547ecf334893d710ac7d.png?size=128",
    "level": 1,
@@ -1095,18 +1107,6 @@
    "wins": 0,
    "losses": 9,
    "rating": 951
-  },
-  {
-   "rank": 42,
-   "username": "ylise567",
-   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
-   "level": 1,
-   "xp": 6,
-   "ryo": 176,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 997
   },
   {
    "rank": 43,
@@ -1235,12 +1235,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 23,
-   "xp": 545,
-   "ryo": 533343,
+   "xp": 668,
+   "ryo": 533923,
    "clan": "Shark Enforcers Alpha",
-   "wins": 71,
+   "wins": 72,
    "losses": 9,
-   "rating": 1322
+   "rating": 1325
   },
   {
    "rank": 4,
