@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T11:24:57.010Z",
+ "updatedAt": "2026-11-10T13:24:57.033Z",
  "total": 101,
  "players": [
   {
@@ -30,13 +30,13 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
-   "level": 22,
-   "xp": 4500,
-   "ryo": 559150,
+   "level": 23,
+   "xp": 545,
+   "ryo": 533343,
    "clan": "Shark Enforcers Alpha",
-   "wins": 69,
+   "wins": 71,
    "losses": 9,
-   "rating": 1316
+   "rating": 1322
   },
   {
    "rank": 4,
@@ -448,6 +448,18 @@
   },
   {
    "rank": 38,
+   "username": "shaw09752",
+   "avatar": "https://cdn.discordapp.com/avatars/1537984706845351956/8edd8cc2cb5185c62f3da0cc89d5153f.png?size=128",
+   "level": 1,
+   "xp": 35,
+   "ryo": 6032,
+   "clan": null,
+   "wins": 0,
+   "losses": 2,
+   "rating": 991
+  },
+  {
+   "rank": 39,
    "username": "tobi_1324",
    "avatar": "https://cdn.discordapp.com/avatars/984425816903540768/180261c7d25cbbecef5aa644e3d27f58.png?size=128",
    "level": 1,
@@ -459,7 +471,7 @@
    "rating": 977
   },
   {
-   "rank": 39,
+   "rank": 40,
    "username": "nothing0434",
    "avatar": "https://cdn.discordapp.com/avatars/956826995340222536/bfc7bb2dab7f5f357ec2641f440850f1.png?size=128",
    "level": 1,
@@ -471,7 +483,7 @@
    "rating": 968
   },
   {
-   "rank": 40,
+   "rank": 41,
    "username": "kirat_2587",
    "avatar": "https://cdn.discordapp.com/avatars/1207391286663975092/70e5a81db4c5d90fb63d3949f6059511.png?size=128",
    "level": 1,
@@ -483,7 +495,7 @@
    "rating": 957
   },
   {
-   "rank": 41,
+   "rank": 42,
    "username": "l1.ldn",
    "avatar": "https://cdn.discordapp.com/avatars/610083884746670089/eaf5dc797d63697a80f75f0c79840485.png?size=128",
    "level": 1,
@@ -495,7 +507,7 @@
    "rating": 952
   },
   {
-   "rank": 42,
+   "rank": 43,
    "username": "vvslucki",
    "avatar": "https://cdn.discordapp.com/avatars/919319720245755944/6de0a706e36be9459e4ef015b0433315.png?size=128",
    "level": 1,
@@ -507,7 +519,7 @@
    "rating": 972
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "cynthialfa_17640",
    "avatar": "https://cdn.discordapp.com/avatars/1533175781386223678/63a8205628cba5c3c8a9913e352f727c.png?size=128",
    "level": 1,
@@ -519,7 +531,7 @@
    "rating": 950
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "rasta01258",
    "avatar": "https://cdn.discordapp.com/avatars/1534209148064104488/52c4617b58ccceec55743bd1979fc389.png?size=128",
    "level": 1,
@@ -531,7 +543,7 @@
    "rating": 963
   },
   {
-   "rank": 45,
+   "rank": 46,
    "username": "lchinoses",
    "avatar": "https://cdn.discordapp.com/avatars/585698605462192149/9bcf0cfbd25ed09f94ac6efe898e3fa9.png?size=128",
    "level": 1,
@@ -543,7 +555,7 @@
    "rating": 960
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "anastasiawembert",
    "avatar": "https://cdn.discordapp.com/avatars/1538481120277172254/264940b0d510d3964616035b41b4dbd9.png?size=128",
    "level": 1,
@@ -553,18 +565,6 @@
    "wins": 0,
    "losses": 1,
    "rating": 986
-  },
-  {
-   "rank": 47,
-   "username": "shaw09752",
-   "avatar": "https://cdn.discordapp.com/avatars/1537984706845351956/8edd8cc2cb5185c62f3da0cc89d5153f.png?size=128",
-   "level": 1,
-   "xp": 29,
-   "ryo": 6016,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 996
   },
   {
    "rank": 48,
@@ -620,13 +620,13 @@
    "rank": 2,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
-   "level": 22,
-   "xp": 4500,
-   "ryo": 559150,
+   "level": 23,
+   "xp": 545,
+   "ryo": 533343,
    "clan": "Shark Enforcers Alpha",
-   "wins": 69,
+   "wins": 71,
    "losses": 9,
-   "rating": 1316
+   "rating": 1322
   },
   {
    "rank": 3,
@@ -741,12 +741,12 @@
    "username": "shaw09752",
    "avatar": "https://cdn.discordapp.com/avatars/1537984706845351956/8edd8cc2cb5185c62f3da0cc89d5153f.png?size=128",
    "level": 1,
-   "xp": 29,
-   "ryo": 6016,
+   "xp": 35,
+   "ryo": 6032,
    "clan": null,
    "wins": 0,
-   "losses": 1,
-   "rating": 996
+   "losses": 2,
+   "rating": 991
   },
   {
    "rank": 13,
@@ -813,12 +813,12 @@
    "username": "fallen.deity",
    "avatar": "https://cdn.discordapp.com/avatars/1294016338620186807/e664447b55afe51176396f663cfc5308.png?size=128",
    "level": 1,
-   "xp": 19,
-   "ryo": 1729,
+   "xp": 25,
+   "ryo": 1745,
    "clan": null,
    "wins": 0,
-   "losses": 3,
-   "rating": 982
+   "losses": 4,
+   "rating": 977
   },
   {
    "rank": 19,
@@ -1234,13 +1234,13 @@
    "rank": 3,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
-   "level": 22,
-   "xp": 4500,
-   "ryo": 559150,
+   "level": 23,
+   "xp": 545,
+   "ryo": 533343,
    "clan": "Shark Enforcers Alpha",
-   "wins": 69,
+   "wins": 71,
    "losses": 9,
-   "rating": 1316
+   "rating": 1322
   },
   {
    "rank": 4,
