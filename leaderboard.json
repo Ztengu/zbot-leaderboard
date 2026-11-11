@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T21:34:30.590Z",
+ "updatedAt": "2026-11-11T23:34:30.576Z",
  "total": 100,
  "players": [
   {
@@ -19,12 +19,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 24,
-   "xp": 23,
-   "ryo": 157429,
+   "xp": 157,
+   "ryo": 159510,
    "clan": "Exiled Heavy Knight",
-   "wins": 125,
+   "wins": 126,
    "losses": 4,
-   "rating": 1439
+   "rating": 1440
   },
   {
    "rank": 3,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 24,
-   "xp": 23,
-   "ryo": 157429,
+   "xp": 157,
+   "ryo": 159510,
    "clan": "Exiled Heavy Knight",
-   "wins": 125,
+   "wins": 126,
    "losses": 4,
-   "rating": 1439
+   "rating": 1440
   },
   {
    "rank": 4,
@@ -825,12 +825,12 @@
    "username": "baseddr.",
    "avatar": "https://cdn.discordapp.com/avatars/1042982216373903490/267c50a8e9c2eda4a21cda7f287a41e7.png?size=128",
    "level": 1,
-   "xp": 19,
-   "ryo": 1110,
+   "xp": 25,
+   "ryo": 1126,
    "clan": null,
    "wins": 0,
-   "losses": 3,
-   "rating": 988
+   "losses": 4,
+   "rating": 985
   },
   {
    "rank": 20,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 24,
-   "xp": 23,
-   "ryo": 157429,
+   "xp": 157,
+   "ryo": 159510,
    "clan": "Exiled Heavy Knight",
-   "wins": 125,
+   "wins": 126,
    "losses": 4,
-   "rating": 1439
+   "rating": 1440
   },
   {
    "rank": 3,
