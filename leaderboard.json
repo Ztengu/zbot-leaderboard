@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:34:30.549Z",
+ "updatedAt": "2026-11-13T00:34:30.556Z",
  "total": 100,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 110045,
-   "ryo": 11858130,
+   "ryo": 11848851,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -31,12 +31,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 23,
-   "xp": 2239,
-   "ryo": 542135,
+   "xp": 4070,
+   "ryo": 556931,
    "clan": "Shark Enforcers Alpha",
-   "wins": 75,
+   "wins": 77,
    "losses": 9,
-   "rating": 1332
+   "rating": 1337
   },
   {
    "rank": 4,
@@ -340,6 +340,18 @@
   },
   {
    "rank": 29,
+   "username": "jaredpr724",
+   "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
+   "level": 1,
+   "xp": 57,
+   "ryo": 204,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 969
+  },
+  {
+   "rank": 30,
    "username": "azik_zvx",
    "avatar": "https://cdn.discordapp.com/avatars/766880894153392159/92031b68ebcca95bcc60152260ec37b0.png?size=128",
    "level": 1,
@@ -351,7 +363,7 @@
    "rating": 965
   },
   {
-   "rank": 30,
+   "rank": 31,
    "username": "geekatie",
    "avatar": "https://cdn.discordapp.com/avatars/1458602490068078655/c4b91475bb816fb11e146ae5fe6fa12e.png?size=128",
    "level": 1,
@@ -363,7 +375,7 @@
    "rating": 939
   },
   {
-   "rank": 31,
+   "rank": 32,
    "username": "yc_84",
    "avatar": "https://cdn.discordapp.com/avatars/862537041400299530/65090c40b9aac09c7b3400598203b3e2.png?size=128",
    "level": 1,
@@ -373,18 +385,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 946
-  },
-  {
-   "rank": 32,
-   "username": "jaredpr724",
-   "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
-   "level": 1,
-   "xp": 51,
-   "ryo": 188,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 973
   },
   {
    "rank": 33,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 110045,
-   "ryo": 11858130,
+   "ryo": 11848851,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -621,12 +621,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 23,
-   "xp": 2239,
-   "ryo": 542135,
+   "xp": 4070,
+   "ryo": 556931,
    "clan": "Shark Enforcers Alpha",
-   "wins": 75,
+   "wins": 77,
    "losses": 9,
-   "rating": 1332
+   "rating": 1337
   },
   {
    "rank": 3,
@@ -1062,6 +1062,18 @@
   },
   {
    "rank": 39,
+   "username": "jaredpr724",
+   "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
+   "level": 1,
+   "xp": 57,
+   "ryo": 204,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 969
+  },
+  {
+   "rank": 40,
    "username": "__ezio__",
    "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
    "level": 1,
@@ -1073,7 +1085,7 @@
    "rating": 918
   },
   {
-   "rank": 40,
+   "rank": 41,
    "username": "ylise567",
    "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
    "level": 1,
@@ -1083,18 +1095,6 @@
    "wins": 0,
    "losses": 2,
    "rating": 992
-  },
-  {
-   "rank": 41,
-   "username": "jaredpr724",
-   "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
-   "level": 1,
-   "xp": 51,
-   "ryo": 188,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 973
   },
   {
    "rank": 42,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 110045,
-   "ryo": 11858130,
+   "ryo": 11848851,
    "clan": "The Tank Crew",
    "wins": 166,
    "losses": 0,
@@ -1235,12 +1235,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 23,
-   "xp": 2239,
-   "ryo": 542135,
+   "xp": 4070,
+   "ryo": 556931,
    "clan": "Shark Enforcers Alpha",
-   "wins": 75,
+   "wins": 77,
    "losses": 9,
-   "rating": 1332
+   "rating": 1337
   },
   {
    "rank": 4,
