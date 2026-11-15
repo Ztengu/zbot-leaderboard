@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T16:26:47.448Z",
+ "updatedAt": "2026-11-15T21:26:47.397Z",
  "total": 101,
  "players": [
   {
@@ -140,7 +140,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
    "level": 2,
    "xp": 0,
-   "ryo": 670,
+   "ryo": 700,
    "clan": null,
    "wins": 0,
    "losses": 0,
@@ -898,7 +898,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
    "level": 2,
    "xp": 0,
-   "ryo": 670,
+   "ryo": 700,
    "clan": null,
    "wins": 0,
    "losses": 0,
