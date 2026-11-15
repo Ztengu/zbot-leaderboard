@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T12:26:53.748Z",
+ "updatedAt": "2026-11-15T13:26:47.425Z",
  "total": 101,
  "players": [
   {
@@ -19,24 +19,24 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 25,
-   "xp": 6002,
-   "ryo": 606989,
+   "xp": 6035,
+   "ryo": 607045,
    "clan": "Shark Enforcers Alpha",
-   "wins": 83,
+   "wins": 84,
    "losses": 9,
-   "rating": 1349
+   "rating": 1362
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 24,
-   "xp": 5144,
-   "ryo": 186829,
+   "xp": 5437,
+   "ryo": 188880,
    "clan": "Exiled Heavy Knight",
    "wins": 132,
-   "losses": 4,
-   "rating": 1446
+   "losses": 5,
+   "rating": 1433
   },
   {
    "rank": 4,
@@ -92,7 +92,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1361328743599312916/7fdf3e123e0a536750ced7882a0d2f0b.png?size=128",
    "level": 4,
    "xp": 89,
-   "ryo": 2765,
+   "ryo": 2775,
    "clan": "The Tank Crew",
    "wins": 1,
    "losses": 12,
@@ -621,24 +621,24 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 25,
-   "xp": 6002,
-   "ryo": 606989,
+   "xp": 6035,
+   "ryo": 607045,
    "clan": "Shark Enforcers Alpha",
-   "wins": 83,
+   "wins": 84,
    "losses": 9,
-   "rating": 1349
+   "rating": 1362
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 24,
-   "xp": 5144,
-   "ryo": 186829,
+   "xp": 5437,
+   "ryo": 188880,
    "clan": "Exiled Heavy Knight",
    "wins": 132,
-   "losses": 4,
-   "rating": 1446
+   "losses": 5,
+   "rating": 1433
   },
   {
    "rank": 4,
@@ -778,7 +778,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1361328743599312916/7fdf3e123e0a536750ced7882a0d2f0b.png?size=128",
    "level": 4,
    "xp": 89,
-   "ryo": 2765,
+   "ryo": 2775,
    "clan": "The Tank Crew",
    "wins": 1,
    "losses": 12,
@@ -1223,24 +1223,24 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 24,
-   "xp": 5144,
-   "ryo": 186829,
+   "xp": 5437,
+   "ryo": 188880,
    "clan": "Exiled Heavy Knight",
    "wins": 132,
-   "losses": 4,
-   "rating": 1446
+   "losses": 5,
+   "rating": 1433
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 25,
-   "xp": 6002,
-   "ryo": 606989,
+   "xp": 6035,
+   "ryo": 607045,
    "clan": "Shark Enforcers Alpha",
-   "wins": 83,
+   "wins": 84,
    "losses": 9,
-   "rating": 1349
+   "rating": 1362
   },
   {
    "rank": 4,
@@ -1284,7 +1284,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1361328743599312916/7fdf3e123e0a536750ced7882a0d2f0b.png?size=128",
    "level": 4,
    "xp": 89,
-   "ryo": 2765,
+   "ryo": 2775,
    "clan": "The Tank Crew",
    "wins": 1,
    "losses": 12,
