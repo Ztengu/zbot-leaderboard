@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T10:16:54.426Z",
+ "updatedAt": "2026-11-16T11:08:28.124Z",
  "total": 101,
  "players": [
   {
@@ -31,12 +31,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 3343,
-   "ryo": 201277,
+   "xp": 3569,
+   "ryo": 202858,
    "clan": "Exiled Heavy Knight",
-   "wins": 133,
+   "wins": 134,
    "losses": 6,
-   "rating": 1423
+   "rating": 1424
   },
   {
    "rank": 4,
@@ -556,6 +556,18 @@
   },
   {
    "rank": 47,
+   "username": "its_a_me_amelia",
+   "avatar": "https://cdn.discordapp.com/avatars/1483753427518492817/17a84519733acb352eb69f4b054c2793.png?size=128",
+   "level": 1,
+   "xp": 31,
+   "ryo": 92,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 980
+  },
+  {
+   "rank": 48,
    "username": "lchinoses",
    "avatar": "https://cdn.discordapp.com/avatars/585698605462192149/9bcf0cfbd25ed09f94ac6efe898e3fa9.png?size=128",
    "level": 1,
@@ -567,7 +579,7 @@
    "rating": 960
   },
   {
-   "rank": 48,
+   "rank": 49,
    "username": "timmy064497",
    "avatar": "https://cdn.discordapp.com/avatars/1533396735009886299/cc48857d077314026fe34ccadf8633e9.png?size=128",
    "level": 1,
@@ -579,7 +591,7 @@
    "rating": 969
   },
   {
-   "rank": 49,
+   "rank": 50,
    "username": "lilfish_7",
    "avatar": "https://cdn.discordapp.com/avatars/1164989785367138426/c32d2740cc6d63cd0bd5224247f0d5e0.png?size=128",
    "level": 1,
@@ -589,18 +601,6 @@
    "wins": 0,
    "losses": 4,
    "rating": 976
-  },
-  {
-   "rank": 50,
-   "username": "madforshikiryougui3469",
-   "avatar": "https://cdn.discordapp.com/avatars/1379332429046616206/7384d61abc48220bd61c3cdd9ca761ae.png?size=128",
-   "level": 1,
-   "xp": 25,
-   "ryo": 66,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 977
   }
  ],
  "richest": [
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 3343,
-   "ryo": 201277,
+   "xp": 3569,
+   "ryo": 202858,
    "clan": "Exiled Heavy Knight",
-   "wins": 133,
+   "wins": 134,
    "losses": 6,
-   "rating": 1423
+   "rating": 1424
   },
   {
    "rank": 4,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 3343,
-   "ryo": 201277,
+   "xp": 3569,
+   "ryo": 202858,
    "clan": "Exiled Heavy Knight",
-   "wins": 133,
+   "wins": 134,
    "losses": 6,
-   "rating": 1423
+   "rating": 1424
   },
   {
    "rank": 3,
