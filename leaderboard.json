@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T12:07:26.286Z",
+ "updatedAt": "2026-11-16T14:07:26.242Z",
  "total": 101,
  "players": [
   {
@@ -31,12 +31,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 3756,
-   "ryo": 203939,
+   "xp": 3893,
+   "ryo": 204520,
    "clan": "Exiled Heavy Knight",
-   "wins": 135,
+   "wins": 136,
    "losses": 6,
-   "rating": 1426
+   "rating": 1428
   },
   {
    "rank": 4,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 3756,
-   "ryo": 203939,
+   "xp": 3893,
+   "ryo": 204520,
    "clan": "Exiled Heavy Knight",
-   "wins": 135,
+   "wins": 136,
    "losses": 6,
-   "rating": 1426
+   "rating": 1428
   },
   {
    "rank": 4,
@@ -1074,6 +1074,18 @@
   },
   {
    "rank": 40,
+   "username": "ylise567",
+   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
+   "level": 1,
+   "xp": 18,
+   "ryo": 208,
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 989
+  },
+  {
+   "rank": 41,
    "username": "__ezio__",
    "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
    "level": 1,
@@ -1083,18 +1095,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 918
-  },
-  {
-   "rank": 41,
-   "username": "ylise567",
-   "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
-   "level": 1,
-   "xp": 12,
-   "ryo": 192,
-   "clan": null,
-   "wins": 0,
-   "losses": 2,
-   "rating": 992
   },
   {
    "rank": 42,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 3756,
-   "ryo": 203939,
+   "xp": 3893,
+   "ryo": 204520,
    "clan": "Exiled Heavy Knight",
-   "wins": 135,
+   "wins": 136,
    "losses": 6,
-   "rating": 1426
+   "rating": 1428
   },
   {
    "rank": 3,
