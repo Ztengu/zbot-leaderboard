@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T13:00:32.189Z",
+ "updatedAt": "2026-11-17T23:00:32.269Z",
  "total": 101,
  "players": [
   {
@@ -930,6 +930,18 @@
   },
   {
    "rank": 28,
+   "username": "oh.333d",
+   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/cf512b12599d1b2604fd5c77c0621280.png?size=128",
+   "level": 1,
+   "xp": 6,
+   "ryo": 436,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 991
+  },
+  {
+   "rank": 29,
    "username": "nothing0434",
    "avatar": "https://cdn.discordapp.com/avatars/956826995340222536/bfc7bb2dab7f5f357ec2641f440850f1.png?size=128",
    "level": 1,
@@ -941,7 +953,7 @@
    "rating": 968
   },
   {
-   "rank": 29,
+   "rank": 30,
    "username": "azik_zvx",
    "avatar": "https://cdn.discordapp.com/avatars/766880894153392159/92031b68ebcca95bcc60152260ec37b0.png?size=128",
    "level": 1,
@@ -951,18 +963,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 965
-  },
-  {
-   "rank": 30,
-   "username": "oh.333d",
-   "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/cf512b12599d1b2604fd5c77c0621280.png?size=128",
-   "level": 1,
-   "xp": 6,
-   "ryo": 426,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 991
   },
   {
    "rank": 31,
