@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T01:56:55.276Z",
+ "updatedAt": "2026-11-18T02:55:53.136Z",
  "total": 101,
  "players": [
   {
@@ -7,12 +7,12 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 115395,
-   "ryo": 11869518,
+   "xp": 116101,
+   "ryo": 11877984,
    "clan": "The Tank Crew",
-   "wins": 166,
+   "wins": 167,
    "losses": 0,
-   "rating": 1444
+   "rating": 1445
   },
   {
    "rank": 2,
@@ -448,6 +448,18 @@
   },
   {
    "rank": 38,
+   "username": "cynthialfa_17640",
+   "avatar": "https://cdn.discordapp.com/avatars/1533175781386223678/63a8205628cba5c3c8a9913e352f727c.png?size=128",
+   "level": 1,
+   "xp": 38,
+   "ryo": 118,
+   "clan": null,
+   "wins": 0,
+   "losses": 6,
+   "rating": 948
+  },
+  {
+   "rank": 39,
    "username": "alam0de_",
    "avatar": "https://cdn.discordapp.com/avatars/1391835041235079180/815c832e71ca93e1bb755fe672dbbdbf.png?size=128",
    "level": 1,
@@ -459,7 +471,7 @@
    "rating": 953
   },
   {
-   "rank": 39,
+   "rank": 40,
    "username": "shaw09752",
    "avatar": "https://cdn.discordapp.com/avatars/1537984706845351956/8edd8cc2cb5185c62f3da0cc89d5153f.png?size=128",
    "level": 1,
@@ -471,7 +483,7 @@
    "rating": 991
   },
   {
-   "rank": 40,
+   "rank": 41,
    "username": "tobi_1324",
    "avatar": "https://cdn.discordapp.com/avatars/984425816903540768/180261c7d25cbbecef5aa644e3d27f58.png?size=128",
    "level": 1,
@@ -483,7 +495,7 @@
    "rating": 977
   },
   {
-   "rank": 41,
+   "rank": 42,
    "username": "nothing0434",
    "avatar": "https://cdn.discordapp.com/avatars/956826995340222536/bfc7bb2dab7f5f357ec2641f440850f1.png?size=128",
    "level": 1,
@@ -495,7 +507,7 @@
    "rating": 968
   },
   {
-   "rank": 42,
+   "rank": 43,
    "username": "kirat_2587",
    "avatar": "https://cdn.discordapp.com/avatars/1207391286663975092/70e5a81db4c5d90fb63d3949f6059511.png?size=128",
    "level": 1,
@@ -507,7 +519,7 @@
    "rating": 957
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "l1.ldn",
    "avatar": "https://cdn.discordapp.com/avatars/610083884746670089/eaf5dc797d63697a80f75f0c79840485.png?size=128",
    "level": 1,
@@ -519,7 +531,7 @@
    "rating": 952
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "vvslucki",
    "avatar": "https://cdn.discordapp.com/avatars/919319720245755944/6de0a706e36be9459e4ef015b0433315.png?size=128",
    "level": 1,
@@ -529,18 +541,6 @@
    "wins": 0,
    "losses": 5,
    "rating": 972
-  },
-  {
-   "rank": 45,
-   "username": "cynthialfa_17640",
-   "avatar": "https://cdn.discordapp.com/avatars/1533175781386223678/63a8205628cba5c3c8a9913e352f727c.png?size=128",
-   "level": 1,
-   "xp": 31,
-   "ryo": 100,
-   "clan": null,
-   "wins": 0,
-   "losses": 5,
-   "rating": 950
   },
   {
    "rank": 46,
@@ -609,12 +609,12 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 115395,
-   "ryo": 11869518,
+   "xp": 116101,
+   "ryo": 11877984,
    "clan": "The Tank Crew",
-   "wins": 166,
+   "wins": 167,
    "losses": 0,
-   "rating": 1444
+   "rating": 1445
   },
   {
    "rank": 2,
@@ -1194,15 +1194,15 @@
   },
   {
    "rank": 50,
-   "username": "raddison",
-   "avatar": "https://cdn.discordapp.com/avatars/326509750823026688/69c47a930b609f3c5dab14622b46ab4f.png?size=128",
+   "username": "cynthialfa_17640",
+   "avatar": "https://cdn.discordapp.com/avatars/1533175781386223678/63a8205628cba5c3c8a9913e352f727c.png?size=128",
    "level": 1,
-   "xp": 40,
-   "ryo": 103,
+   "xp": 38,
+   "ryo": 118,
    "clan": null,
    "wins": 0,
    "losses": 6,
-   "rating": 959
+   "rating": 948
   }
  ],
  "pvp": [
@@ -1211,12 +1211,12 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 115395,
-   "ryo": 11869518,
+   "xp": 116101,
+   "ryo": 11877984,
    "clan": "The Tank Crew",
-   "wins": 166,
+   "wins": 167,
    "losses": 0,
-   "rating": 1444
+   "rating": 1445
   },
   {
    "rank": 2,
