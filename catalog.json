@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-19T01:59:46.909Z",
+ "updatedAt": "2026-11-19T02:58:46.363Z",
  "cards": [
   {
    "id": "ada",
    "name": "エイダ, Eida",
    "description": "Card event, a former member of Kara and a citizen of Konohagakure.",
    "rarity": "event",
-   "category": "event",
+   "category": "custom",
    "image": "https://i.imgur.com/OkWjObi.png",
    "emoji": null,
    "stats": {
@@ -20,21 +20,14 @@
    "special": null,
    "jutsu": "Eida's Omnipotence (charm ability)",
    "form": "エイダ, Eida",
-   "obtainable": true,
+   "obtainable": false,
    "source": "custom",
    "obtain": null,
    "eventOnly": false,
-   "eventName": "Card Event",
-   "eventStartAt": "2026-11-20T00:00:00.000Z",
-   "eventEndAt": "2026-12-06T00:00:00.000Z",
-   "requirements": {
-    "missions": 90,
-    "quests": 3,
-    "hunts": 0,
-    "trains": 0,
-    "rep": 0,
-    "pvp": 0
-   },
+   "eventName": null,
+   "eventStartAt": null,
+   "eventEndAt": null,
+   "requirements": null,
    "material": null,
    "isKid": false,
    "family": null,
@@ -10779,5 +10772,41 @@
    "eventEndAt": null
   }
  ],
- "events": []
+ "events": [
+  {
+   "id": "first01",
+   "name": "Firstevent",
+   "description": "First event for everyone, let's go to get more just Zredeem FIRSTEVENT",
+   "image": "https://media.discordapp.net/attachments/1235101083127255040/1391427613041492099/IMG_20250706_213534.jpg",
+   "startAt": "2026-11-20T00:00:00.000Z",
+   "endAt": "2026-12-06T00:00:00.000Z",
+   "requirements": {
+    "missions": 50,
+    "quests": 0,
+    "hunts": 15,
+    "trains": 0,
+    "rep": 3,
+    "pvp": 5
+   },
+   "material": null,
+   "rewards": [
+    {
+     "type": "card",
+     "id": "ada",
+     "quantity": 1,
+     "name": "エイダ, Eida",
+     "image": "https://i.imgur.com/OkWjObi.png",
+     "rarity": "event"
+    },
+    {
+     "type": "item",
+     "id": "rennegan",
+     "quantity": 1,
+     "name": "Rennegan",
+     "image": "https://cdn.discordapp.com/emojis/1532567000407085066.png?size=128",
+     "rarity": "event"
+    }
+   ]
+  }
+ ]
 }
