@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T07:58:43.094Z",
+ "updatedAt": "2026-11-19T10:58:43.110Z",
  "total": 101,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 118101,
-   "ryo": 11888124,
+   "ryo": 11888154,
    "clan": "The Tank Crew",
    "wins": 167,
    "losses": 0,
@@ -31,12 +31,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 5044,
-   "ryo": 217850,
+   "xp": 5232,
+   "ryo": 220276,
    "clan": "Exiled Heavy Knight",
-   "wins": 141,
+   "wins": 142,
    "losses": 6,
-   "rating": 1434
+   "rating": 1435
   },
   {
    "rank": 4,
@@ -340,6 +340,18 @@
   },
   {
    "rank": 29,
+   "username": "geekatie",
+   "avatar": "https://cdn.discordapp.com/avatars/1458602490068078655/c4b91475bb816fb11e146ae5fe6fa12e.png?size=128",
+   "level": 1,
+   "xp": 58,
+   "ryo": 3027,
+   "clan": null,
+   "wins": 0,
+   "losses": 6,
+   "rating": 937
+  },
+  {
+   "rank": 30,
    "username": "0bito7878",
    "avatar": "https://cdn.discordapp.com/avatars/1481171106516697194/66c0981e671e15edc9a38823e754a8e3.png?size=128",
    "level": 1,
@@ -351,7 +363,7 @@
    "rating": 919
   },
   {
-   "rank": 30,
+   "rank": 31,
    "username": "azik_zvx",
    "avatar": "https://cdn.discordapp.com/avatars/766880894153392159/92031b68ebcca95bcc60152260ec37b0.png?size=128",
    "level": 1,
@@ -361,18 +373,6 @@
    "wins": 0,
    "losses": 8,
    "rating": 965
-  },
-  {
-   "rank": 31,
-   "username": "geekatie",
-   "avatar": "https://cdn.discordapp.com/avatars/1458602490068078655/c4b91475bb816fb11e146ae5fe6fa12e.png?size=128",
-   "level": 1,
-   "xp": 52,
-   "ryo": 3011,
-   "clan": null,
-   "wins": 0,
-   "losses": 5,
-   "rating": 939
   },
   {
    "rank": 32,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 118101,
-   "ryo": 11888124,
+   "ryo": 11888154,
    "clan": "The Tank Crew",
    "wins": 167,
    "losses": 0,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 5044,
-   "ryo": 217850,
+   "xp": 5232,
+   "ryo": 220276,
    "clan": "Exiled Heavy Knight",
-   "wins": 141,
+   "wins": 142,
    "losses": 6,
-   "rating": 1434
+   "rating": 1435
   },
   {
    "rank": 4,
@@ -765,12 +765,12 @@
    "username": "geekatie",
    "avatar": "https://cdn.discordapp.com/avatars/1458602490068078655/c4b91475bb816fb11e146ae5fe6fa12e.png?size=128",
    "level": 1,
-   "xp": 52,
-   "ryo": 3011,
+   "xp": 58,
+   "ryo": 3027,
    "clan": null,
    "wins": 0,
-   "losses": 5,
-   "rating": 939
+   "losses": 6,
+   "rating": 937
   },
   {
    "rank": 15,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 118101,
-   "ryo": 11888124,
+   "ryo": 11888154,
    "clan": "The Tank Crew",
    "wins": 167,
    "losses": 0,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 5044,
-   "ryo": 217850,
+   "xp": 5232,
+   "ryo": 220276,
    "clan": "Exiled Heavy Knight",
-   "wins": 141,
+   "wins": 142,
    "losses": 6,
-   "rating": 1434
+   "rating": 1435
   },
   {
    "rank": 3,
