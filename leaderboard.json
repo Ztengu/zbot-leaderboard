@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T02:58:43.117Z",
+ "updatedAt": "2026-11-19T07:58:43.094Z",
  "total": 101,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 118101,
-   "ryo": 11888104,
+   "ryo": 11888124,
    "clan": "The Tank Crew",
    "wins": 167,
    "losses": 0,
@@ -19,12 +19,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 25,
-   "xp": 6591,
-   "ryo": 619732,
+   "xp": 6738,
+   "ryo": 620320,
    "clan": "Shark Enforcers Alpha",
-   "wins": 86,
+   "wins": 87,
    "losses": 9,
-   "rating": 1376
+   "rating": 1377
   },
   {
    "rank": 3,
@@ -208,6 +208,18 @@
   },
   {
    "rank": 18,
+   "username": "__ezio__",
+   "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
+   "level": 1,
+   "xp": 77,
+   "ryo": 217,
+   "clan": null,
+   "wins": 0,
+   "losses": 12,
+   "rating": 916
+  },
+  {
+   "rank": 19,
    "username": "dschubbaa",
    "avatar": "https://cdn.discordapp.com/avatars/1029989107025330186/f791cfa8b3e4d43cb59962f162efda8e.png?size=128",
    "level": 1,
@@ -219,7 +231,7 @@
    "rating": 923
   },
   {
-   "rank": 19,
+   "rank": 20,
    "username": "rengoku083246",
    "avatar": "https://cdn.discordapp.com/avatars/1533052297775550607/0f49d873c8f5c135bd6f639ce4182f0d.png?size=128",
    "level": 1,
@@ -229,18 +241,6 @@
    "wins": 0,
    "losses": 11,
    "rating": 947
-  },
-  {
-   "rank": 20,
-   "username": "__ezio__",
-   "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
-   "level": 1,
-   "xp": 71,
-   "ryo": 201,
-   "clan": null,
-   "wins": 0,
-   "losses": 11,
-   "rating": 918
   },
   {
    "rank": 21,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 118101,
-   "ryo": 11888104,
+   "ryo": 11888124,
    "clan": "The Tank Crew",
    "wins": 167,
    "losses": 0,
@@ -621,12 +621,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 25,
-   "xp": 6591,
-   "ryo": 619732,
+   "xp": 6738,
+   "ryo": 620320,
    "clan": "Shark Enforcers Alpha",
-   "wins": 86,
+   "wins": 87,
    "losses": 9,
-   "rating": 1376
+   "rating": 1377
   },
   {
    "rank": 3,
@@ -1074,6 +1074,18 @@
   },
   {
    "rank": 40,
+   "username": "__ezio__",
+   "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
+   "level": 1,
+   "xp": 77,
+   "ryo": 217,
+   "clan": null,
+   "wins": 0,
+   "losses": 12,
+   "rating": 916
+  },
+  {
+   "rank": 41,
    "username": "ylise567",
    "avatar": "https://cdn.discordapp.com/avatars/1560702717398097939/4d2bac9d41251e3b7cfe5484afa981d3.png?size=128",
    "level": 1,
@@ -1083,18 +1095,6 @@
    "wins": 0,
    "losses": 3,
    "rating": 989
-  },
-  {
-   "rank": 41,
-   "username": "__ezio__",
-   "avatar": "https://cdn.discordapp.com/avatars/1533267347299635444/830a9459a58133b05c47ba959a2438b3.png?size=128",
-   "level": 1,
-   "xp": 71,
-   "ryo": 201,
-   "clan": null,
-   "wins": 0,
-   "losses": 11,
-   "rating": 918
   },
   {
    "rank": 42,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 118101,
-   "ryo": 11888104,
+   "ryo": 11888124,
    "clan": "The Tank Crew",
    "wins": 167,
    "losses": 0,
@@ -1235,12 +1235,12 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 25,
-   "xp": 6591,
-   "ryo": 619732,
+   "xp": 6738,
+   "ryo": 620320,
    "clan": "Shark Enforcers Alpha",
-   "wins": 86,
+   "wins": 87,
    "losses": 9,
-   "rating": 1376
+   "rating": 1377
   },
   {
    "rank": 4,
