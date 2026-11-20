@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T02:18:40.649Z",
+ "updatedAt": "2026-11-20T03:17:40.195Z",
  "cards": [
   {
    "id": "ada",
@@ -10784,7 +10784,7 @@
     "missions": 50,
     "quests": 0,
     "hunts": 15,
-    "trains": 0,
+    "trains": 20,
     "rep": 3,
     "pvp": 5
    },
