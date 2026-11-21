@@ -1,14 +1,14 @@
 {
- "updatedAt": "2026-11-21T01:56:36.897Z",
- "total": 104,
+ "updatedAt": "2026-11-21T02:28:54.541Z",
+ "total": 105,
  "players": [
   {
    "rank": 1,
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 119349,
-   "ryo": 11894520,
+   "xp": 119399,
+   "ryo": 11885443,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -31,12 +31,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 5923,
-   "ryo": 276129,
+   "xp": 7206,
+   "ryo": 290507,
    "clan": "Exiled Heavy Knight",
-   "wins": 145,
+   "wins": 146,
    "losses": 6,
-   "rating": 1438
+   "rating": 1439
   },
   {
    "rank": 4,
@@ -609,8 +609,8 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 119349,
-   "ryo": 11894520,
+   "xp": 119399,
+   "ryo": 11885443,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -633,12 +633,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 5923,
-   "ryo": 276129,
+   "xp": 7206,
+   "ryo": 290507,
    "clan": "Exiled Heavy Knight",
-   "wins": 145,
+   "wins": 146,
    "losses": 6,
-   "rating": 1438
+   "rating": 1439
   },
   {
    "rank": 4,
@@ -1211,8 +1211,8 @@
    "username": "ztengu",
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
-   "xp": 119349,
-   "ryo": 11894520,
+   "xp": 119399,
+   "ryo": 11885443,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -1223,12 +1223,12 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 25,
-   "xp": 5923,
-   "ryo": 276129,
+   "xp": 7206,
+   "ryo": 290507,
    "clan": "Exiled Heavy Knight",
-   "wins": 145,
+   "wins": 146,
    "losses": 6,
-   "rating": 1438
+   "rating": 1439
   },
   {
    "rank": 3,
