@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T03:35:56.191Z",
+ "updatedAt": "2026-11-22T04:35:56.150Z",
  "total": 106,
  "players": [
   {
@@ -19,24 +19,24 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 26,
-   "xp": 1964,
-   "ryo": 690885,
+   "xp": 2862,
+   "ryo": 696655,
    "clan": "Shark Enforcers Alpha",
-   "wins": 94,
+   "wins": 96,
    "losses": 11,
-   "rating": 1375
+   "rating": 1379
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 26,
-   "xp": 794,
-   "ryo": 281614,
+   "xp": 1272,
+   "ryo": 285293,
    "clan": "Exiled Heavy Knight",
-   "wins": 150,
+   "wins": 151,
    "losses": 6,
-   "rating": 1450
+   "rating": 1451
   },
   {
    "rank": 4,
@@ -532,6 +532,18 @@
   },
   {
    "rank": 45,
+   "username": "timmy064497",
+   "avatar": "https://cdn.discordapp.com/avatars/1533396735009886299/cc48857d077314026fe34ccadf8633e9.png?size=128",
+   "level": 1,
+   "xp": 33,
+   "ryo": 105,
+   "clan": null,
+   "wins": 0,
+   "losses": 5,
+   "rating": 966
+  },
+  {
+   "rank": 46,
    "username": "kirat_2587",
    "avatar": "https://cdn.discordapp.com/avatars/1207391286663975092/70e5a81db4c5d90fb63d3949f6059511.png?size=128",
    "level": 1,
@@ -543,7 +555,7 @@
    "rating": 957
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "l1.ldn",
    "avatar": "https://cdn.discordapp.com/avatars/610083884746670089/eaf5dc797d63697a80f75f0c79840485.png?size=128",
    "level": 1,
@@ -555,7 +567,7 @@
    "rating": 952
   },
   {
-   "rank": 47,
+   "rank": 48,
    "username": "vvslucki",
    "avatar": "https://cdn.discordapp.com/avatars/919319720245755944/6de0a706e36be9459e4ef015b0433315.png?size=128",
    "level": 1,
@@ -567,7 +579,7 @@
    "rating": 972
   },
   {
-   "rank": 48,
+   "rank": 49,
    "username": "lchinoses",
    "avatar": "https://cdn.discordapp.com/avatars/585698605462192149/9bcf0cfbd25ed09f94ac6efe898e3fa9.png?size=128",
    "level": 1,
@@ -577,18 +589,6 @@
    "wins": 0,
    "losses": 5,
    "rating": 960
-  },
-  {
-   "rank": 49,
-   "username": "timmy064497",
-   "avatar": "https://cdn.discordapp.com/avatars/1533396735009886299/cc48857d077314026fe34ccadf8633e9.png?size=128",
-   "level": 1,
-   "xp": 27,
-   "ryo": 89,
-   "clan": null,
-   "wins": 0,
-   "losses": 4,
-   "rating": 969
   },
   {
    "rank": 50,
@@ -621,24 +621,24 @@
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 26,
-   "xp": 1964,
-   "ryo": 690885,
+   "xp": 2862,
+   "ryo": 696655,
    "clan": "Shark Enforcers Alpha",
-   "wins": 94,
+   "wins": 96,
    "losses": 11,
-   "rating": 1375
+   "rating": 1379
   },
   {
    "rank": 3,
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 26,
-   "xp": 794,
-   "ryo": 281614,
+   "xp": 1272,
+   "ryo": 285293,
    "clan": "Exiled Heavy Knight",
-   "wins": 150,
+   "wins": 151,
    "losses": 6,
-   "rating": 1450
+   "rating": 1451
   },
   {
    "rank": 4,
@@ -1223,24 +1223,24 @@
    "username": "ruchelevis",
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 26,
-   "xp": 794,
-   "ryo": 281614,
+   "xp": 1272,
+   "ryo": 285293,
    "clan": "Exiled Heavy Knight",
-   "wins": 150,
+   "wins": 151,
    "losses": 6,
-   "rating": 1450
+   "rating": 1451
   },
   {
    "rank": 3,
    "username": "sharkonxyz_",
    "avatar": "https://cdn.discordapp.com/avatars/1358253421970587840/1b4c3f946df54f4b61e50c5d4a97b10a.png?size=128",
    "level": 26,
-   "xp": 1964,
-   "ryo": 690885,
+   "xp": 2862,
+   "ryo": 696655,
    "clan": "Shark Enforcers Alpha",
-   "wins": 94,
+   "wins": 96,
    "losses": 11,
-   "rating": 1375
+   "rating": 1379
   },
   {
    "rank": 4,
