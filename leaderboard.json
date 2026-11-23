@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T23:36:00.094Z",
+ "updatedAt": "2026-11-23T00:36:00.080Z",
  "total": 108,
  "players": [
   {
@@ -42,13 +42,13 @@
    "rank": 4,
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
-   "level": 20,
-   "xp": 3092,
-   "ryo": 49421,
+   "level": 21,
+   "xp": 475,
+   "ryo": 103676,
    "clan": "Heaven Kingdom Domination",
-   "wins": 34,
+   "wins": 35,
    "losses": 7,
-   "rating": 1229
+   "rating": 1233
   },
   {
    "rank": 5,
@@ -642,6 +642,18 @@
   },
   {
    "rank": 4,
+   "username": "trfx__",
+   "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
+   "level": 21,
+   "xp": 475,
+   "ryo": 103676,
+   "clan": "Heaven Kingdom Domination",
+   "wins": 35,
+   "losses": 7,
+   "rating": 1233
+  },
+  {
+   "rank": 5,
    "username": "yamatonin",
    "avatar": "https://cdn.discordapp.com/avatars/1361328743599312916/7fdf3e123e0a536750ced7882a0d2f0b.png?size=128",
    "level": 4,
@@ -651,18 +663,6 @@
    "wins": 1,
    "losses": 12,
    "rating": 941
-  },
-  {
-   "rank": 5,
-   "username": "trfx__",
-   "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
-   "level": 20,
-   "xp": 3092,
-   "ryo": 49421,
-   "clan": "Heaven Kingdom Domination",
-   "wins": 34,
-   "losses": 7,
-   "rating": 1229
   },
   {
    "rank": 6,
@@ -1246,13 +1246,13 @@
    "rank": 4,
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
-   "level": 20,
-   "xp": 3092,
-   "ryo": 49421,
+   "level": 21,
+   "xp": 475,
+   "ryo": 103676,
    "clan": "Heaven Kingdom Domination",
-   "wins": 34,
+   "wins": 35,
    "losses": 7,
-   "rating": 1229
+   "rating": 1233
   },
   {
    "rank": 5,
