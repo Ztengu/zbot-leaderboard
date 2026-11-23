@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T03:58:05.503Z",
+ "updatedAt": "2026-11-23T04:58:05.441Z",
  "total": 109,
  "players": [
   {
@@ -930,6 +930,18 @@
   },
   {
    "rank": 28,
+   "username": ".nextar",
+   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
+   "level": 1,
+   "xp": 18,
+   "ryo": 458,
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 982
+  },
+  {
+   "rank": 29,
    "username": "oh.333d",
    "avatar": "https://cdn.discordapp.com/avatars/1231886491576172639/02b035bcaa927c5e189aa9569997e210.png?size=128",
    "level": 1,
@@ -941,7 +953,7 @@
    "rating": 987
   },
   {
-   "rank": 29,
+   "rank": 30,
    "username": "nothing0434",
    "avatar": "https://cdn.discordapp.com/avatars/956826995340222536/bfc7bb2dab7f5f357ec2641f440850f1.png?size=128",
    "level": 1,
@@ -951,18 +963,6 @@
    "wins": 0,
    "losses": 6,
    "rating": 965
-  },
-  {
-   "rank": 30,
-   "username": ".nextar",
-   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
-   "level": 1,
-   "xp": 18,
-   "ryo": 448,
-   "clan": null,
-   "wins": 0,
-   "losses": 3,
-   "rating": 982
   },
   {
    "rank": 31,
