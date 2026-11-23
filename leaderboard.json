@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T12:58:05.549Z",
- "total": 109,
+ "updatedAt": "2026-11-23T21:58:05.550Z",
+ "total": 110,
  "players": [
   {
    "rank": 1,
@@ -128,7 +128,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
    "level": 2,
    "xp": 6,
-   "ryo": 746,
+   "ryo": 756,
    "clan": null,
    "wins": 0,
    "losses": 1,
@@ -882,6 +882,18 @@
   },
   {
    "rank": 24,
+   "username": "rnlartix74_ytb_03308",
+   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
+   "level": 2,
+   "xp": 6,
+   "ryo": 756,
+   "clan": null,
+   "wins": 0,
+   "losses": 1,
+   "rating": 996
+  },
+  {
+   "rank": 25,
    "username": "nariyah008",
    "avatar": "https://cdn.discordapp.com/avatars/1551201005369298969/8cc3370119228ca9cf29d5f04282a23a.png?size=128",
    "level": 2,
@@ -891,18 +903,6 @@
    "wins": 0,
    "losses": 0,
    "rating": 1000
-  },
-  {
-   "rank": 25,
-   "username": "rnlartix74_ytb_03308",
-   "avatar": "https://cdn.discordapp.com/avatars/1456780321029881878/46647ac63fc6a15de2f0fe6b78baf1f4.png?size=128",
-   "level": 2,
-   "xp": 6,
-   "ryo": 746,
-   "clan": null,
-   "wins": 0,
-   "losses": 1,
-   "rating": 996
   },
   {
    "rank": 26,
