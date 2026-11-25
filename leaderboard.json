@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T02:58:05.634Z",
+ "updatedAt": "2026-11-25T03:58:05.594Z",
  "total": 112,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 126449,
-   "ryo": 11914855,
+   "ryo": 11914885,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -43,12 +43,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2000,
-   "ryo": 107799,
+   "xp": 2134,
+   "ryo": 108387,
    "clan": "Heaven Kingdom Domination",
-   "wins": 36,
+   "wins": 37,
    "losses": 8,
-   "rating": 1231
+   "rating": 1235
   },
   {
    "rank": 5,
@@ -79,12 +79,12 @@
    "username": "jaredpr724",
    "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
    "level": 5,
-   "xp": 53,
-   "ryo": 2230,
+   "xp": 59,
+   "ryo": 2246,
    "clan": null,
    "wins": 0,
-   "losses": 6,
-   "rating": 967
+   "losses": 7,
+   "rating": 960
   },
   {
    "rank": 8,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 126449,
-   "ryo": 11914855,
+   "ryo": 11914885,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -645,12 +645,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2000,
-   "ryo": 107799,
+   "xp": 2134,
+   "ryo": 108387,
    "clan": "Heaven Kingdom Domination",
-   "wins": 36,
+   "wins": 37,
    "losses": 8,
-   "rating": 1231
+   "rating": 1235
   },
   {
    "rank": 5,
@@ -801,12 +801,12 @@
    "username": "jaredpr724",
    "avatar": "https://cdn.discordapp.com/avatars/664702392951898112/4d6f6ad4603add77848879132e63cea8.png?size=128",
    "level": 5,
-   "xp": 53,
-   "ryo": 2230,
+   "xp": 59,
+   "ryo": 2246,
    "clan": null,
    "wins": 0,
-   "losses": 6,
-   "rating": 967
+   "losses": 7,
+   "rating": 960
   },
   {
    "rank": 18,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 126449,
-   "ryo": 11914855,
+   "ryo": 11914885,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -1247,12 +1247,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2000,
-   "ryo": 107799,
+   "xp": 2134,
+   "ryo": 108387,
    "clan": "Heaven Kingdom Domination",
-   "wins": 36,
+   "wins": 37,
    "losses": 8,
-   "rating": 1231
+   "rating": 1235
   },
   {
    "rank": 5,
