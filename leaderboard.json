@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T10:00:44.704Z",
+ "updatedAt": "2026-11-26T12:00:44.775Z",
  "total": 112,
  "players": [
   {
@@ -43,12 +43,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2734,
-   "ryo": 112551,
+   "xp": 2968,
+   "ryo": 115226,
    "clan": "Heaven Kingdom Domination",
-   "wins": 38,
+   "wins": 39,
    "losses": 8,
-   "rating": 1239
+   "rating": 1242
   },
   {
    "rank": 5,
@@ -472,6 +472,18 @@
   },
   {
    "rank": 40,
+   "username": "l1.ldn",
+   "avatar": "https://cdn.discordapp.com/avatars/610083884746670089/eaf5dc797d63697a80f75f0c79840485.png?size=128",
+   "level": 1,
+   "xp": 38,
+   "ryo": 248,
+   "clan": null,
+   "wins": 0,
+   "losses": 6,
+   "rating": 946
+  },
+  {
+   "rank": 41,
    "username": "cynthialfa_17640",
    "avatar": "https://cdn.discordapp.com/avatars/1533175781386223678/63a8205628cba5c3c8a9913e352f727c.png?size=128",
    "level": 1,
@@ -483,7 +495,7 @@
    "rating": 948
   },
   {
-   "rank": 41,
+   "rank": 42,
    "username": "alam0de_",
    "avatar": "https://cdn.discordapp.com/avatars/1391835041235079180/815c832e71ca93e1bb755fe672dbbdbf.png?size=128",
    "level": 1,
@@ -495,7 +507,7 @@
    "rating": 953
   },
   {
-   "rank": 42,
+   "rank": 43,
    "username": "rasta01258",
    "avatar": "https://cdn.discordapp.com/avatars/1534209148064104488/52c4617b58ccceec55743bd1979fc389.png?size=128",
    "level": 1,
@@ -507,7 +519,7 @@
    "rating": 960
   },
   {
-   "rank": 43,
+   "rank": 44,
    "username": "its_a_me_amelia",
    "avatar": "https://cdn.discordapp.com/avatars/1483753427518492817/17a84519733acb352eb69f4b054c2793.png?size=128",
    "level": 1,
@@ -519,7 +531,7 @@
    "rating": 976
   },
   {
-   "rank": 44,
+   "rank": 45,
    "username": "shaw09752",
    "avatar": "https://cdn.discordapp.com/avatars/1537984706845351956/8edd8cc2cb5185c62f3da0cc89d5153f.png?size=128",
    "level": 1,
@@ -531,7 +543,7 @@
    "rating": 991
   },
   {
-   "rank": 45,
+   "rank": 46,
    "username": "timmy064497",
    "avatar": "https://cdn.discordapp.com/avatars/1533396735009886299/cc48857d077314026fe34ccadf8633e9.png?size=128",
    "level": 1,
@@ -543,7 +555,7 @@
    "rating": 966
   },
   {
-   "rank": 46,
+   "rank": 47,
    "username": "kirat_2587",
    "avatar": "https://cdn.discordapp.com/avatars/1207391286663975092/70e5a81db4c5d90fb63d3949f6059511.png?size=128",
    "level": 1,
@@ -553,18 +565,6 @@
    "wins": 0,
    "losses": 5,
    "rating": 957
-  },
-  {
-   "rank": 47,
-   "username": "l1.ldn",
-   "avatar": "https://cdn.discordapp.com/avatars/610083884746670089/eaf5dc797d63697a80f75f0c79840485.png?size=128",
-   "level": 1,
-   "xp": 32,
-   "ryo": 232,
-   "clan": null,
-   "wins": 0,
-   "losses": 5,
-   "rating": 952
   },
   {
    "rank": 48,
@@ -645,12 +645,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2734,
-   "ryo": 112551,
+   "xp": 2968,
+   "ryo": 115226,
    "clan": "Heaven Kingdom Domination",
-   "wins": 38,
+   "wins": 39,
    "losses": 8,
-   "rating": 1239
+   "rating": 1242
   },
   {
    "rank": 5,
@@ -1065,12 +1065,12 @@
    "username": "l1.ldn",
    "avatar": "https://cdn.discordapp.com/avatars/610083884746670089/eaf5dc797d63697a80f75f0c79840485.png?size=128",
    "level": 1,
-   "xp": 32,
-   "ryo": 232,
+   "xp": 38,
+   "ryo": 248,
    "clan": null,
    "wins": 0,
-   "losses": 5,
-   "rating": 952
+   "losses": 6,
+   "rating": 946
   },
   {
    "rank": 40,
@@ -1247,12 +1247,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2734,
-   "ryo": 112551,
+   "xp": 2968,
+   "ryo": 115226,
    "clan": "Heaven Kingdom Domination",
-   "wins": 38,
+   "wins": 39,
    "losses": 8,
-   "rating": 1239
+   "rating": 1242
   },
   {
    "rank": 5,
