@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T00:52:38.886Z",
+ "updatedAt": "2026-11-26T01:52:38.924Z",
  "total": 112,
  "players": [
   {
@@ -918,6 +918,18 @@
   },
   {
    "rank": 27,
+   "username": ".nextar",
+   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
+   "level": 1,
+   "xp": 18,
+   "ryo": 478,
+   "clan": null,
+   "wins": 0,
+   "losses": 3,
+   "rating": 982
+  },
+  {
+   "rank": 28,
    "username": "delia_xx",
    "avatar": "https://cdn.discordapp.com/avatars/1369577399053844512/a_64ad1fa33657945ef84c6db7acaa088f.png?size=128",
    "level": 1,
@@ -927,18 +939,6 @@
    "wins": 0,
    "losses": 10,
    "rating": 956
-  },
-  {
-   "rank": 28,
-   "username": ".nextar",
-   "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/f0bf41d826d2db249c0ffeec82ac9df9.png?size=128",
-   "level": 1,
-   "xp": 18,
-   "ryo": 468,
-   "clan": null,
-   "wins": 0,
-   "losses": 3,
-   "rating": 982
   },
   {
    "rank": 29,
