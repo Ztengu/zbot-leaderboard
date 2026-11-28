@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T10:49:17.129Z",
+ "updatedAt": "2026-11-28T12:49:17.155Z",
  "total": 116,
  "players": [
   {
@@ -32,7 +32,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 26,
    "xp": 2747,
-   "ryo": 307253,
+   "ryo": 309423,
    "clan": "Exiled Heavy Knight",
    "wins": 157,
    "losses": 6,
@@ -43,12 +43,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 3363,
-   "ryo": 118186,
+   "xp": 3605,
+   "ryo": 119811,
    "clan": "Heaven Kingdom Domination",
-   "wins": 41,
+   "wins": 42,
    "losses": 8,
-   "rating": 1249
+   "rating": 1253
   },
   {
    "rank": 5,
@@ -634,7 +634,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 26,
    "xp": 2747,
-   "ryo": 307253,
+   "ryo": 309423,
    "clan": "Exiled Heavy Knight",
    "wins": 157,
    "losses": 6,
@@ -645,12 +645,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 3363,
-   "ryo": 118186,
+   "xp": 3605,
+   "ryo": 119811,
    "clan": "Heaven Kingdom Domination",
-   "wins": 41,
+   "wins": 42,
    "losses": 8,
-   "rating": 1249
+   "rating": 1253
   },
   {
    "rank": 5,
@@ -813,12 +813,12 @@
    "username": "iblamesin.",
    "avatar": "https://cdn.discordapp.com/avatars/927891338844856351/9c437b32fb173f5e8698a3c639ea9188.png?size=128",
    "level": 1,
-   "xp": 0,
-   "ryo": 1960,
+   "xp": 6,
+   "ryo": 1976,
    "clan": null,
    "wins": 0,
-   "losses": 0,
-   "rating": 1000
+   "losses": 1,
+   "rating": 992
   },
   {
    "rank": 19,
@@ -922,7 +922,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1033554553594974279/1b9b764ed4d5e2559e019a59c84e492e.png?size=128",
    "level": 1,
    "xp": 18,
-   "ryo": 478,
+   "ryo": 488,
    "clan": null,
    "wins": 0,
    "losses": 3,
@@ -1224,7 +1224,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1552875805271400491/649cc9ecf95e38bb95b12e1b888e7f43.png?size=128",
    "level": 26,
    "xp": 2747,
-   "ryo": 307253,
+   "ryo": 309423,
    "clan": "Exiled Heavy Knight",
    "wins": 157,
    "losses": 6,
@@ -1247,12 +1247,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 3363,
-   "ryo": 118186,
+   "xp": 3605,
+   "ryo": 119811,
    "clan": "Heaven Kingdom Domination",
-   "wins": 41,
+   "wins": 42,
    "losses": 8,
-   "rating": 1249
+   "rating": 1253
   },
   {
    "rank": 5,
