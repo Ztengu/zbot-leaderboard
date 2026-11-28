@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T05:00:44.795Z",
+ "updatedAt": "2026-11-28T06:00:44.748Z",
  "total": 115,
  "players": [
   {
@@ -8,7 +8,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 130449,
-   "ryo": 11935135,
+   "ryo": 11935145,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -43,12 +43,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2968,
-   "ryo": 115226,
+   "xp": 3187,
+   "ryo": 117076,
    "clan": "Heaven Kingdom Domination",
-   "wins": 39,
+   "wins": 40,
    "losses": 8,
-   "rating": 1242
+   "rating": 1247
   },
   {
    "rank": 5,
@@ -67,12 +67,12 @@
    "username": "yamada9",
    "avatar": "https://cdn.discordapp.com/avatars/1543478459958042715/278ec8c8a9baa3e8e3bfbb9f313a5622.png?size=128",
    "level": 7,
-   "xp": 21,
-   "ryo": 30941,
+   "xp": 27,
+   "ryo": 30957,
    "clan": "Exiled Heavy Knight",
    "wins": 4,
-   "losses": 3,
-   "rating": 1055
+   "losses": 4,
+   "rating": 1045
   },
   {
    "rank": 7,
@@ -610,7 +610,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 130449,
-   "ryo": 11935135,
+   "ryo": 11935145,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -645,12 +645,12 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2968,
-   "ryo": 115226,
+   "xp": 3187,
+   "ryo": 117076,
    "clan": "Heaven Kingdom Domination",
-   "wins": 39,
+   "wins": 40,
    "losses": 8,
-   "rating": 1242
+   "rating": 1247
   },
   {
    "rank": 5,
@@ -693,12 +693,12 @@
    "username": "yamada9",
    "avatar": "https://cdn.discordapp.com/avatars/1543478459958042715/278ec8c8a9baa3e8e3bfbb9f313a5622.png?size=128",
    "level": 7,
-   "xp": 21,
-   "ryo": 30941,
+   "xp": 27,
+   "ryo": 30957,
    "clan": "Exiled Heavy Knight",
    "wins": 4,
-   "losses": 3,
-   "rating": 1055
+   "losses": 4,
+   "rating": 1045
   },
   {
    "rank": 9,
@@ -1212,7 +1212,7 @@
    "avatar": "https://cdn.discordapp.com/avatars/1174296765609029642/4db2d31b3697c7eff6fa12f459ada56b.png?size=128",
    "level": 45,
    "xp": 130449,
-   "ryo": 11935135,
+   "ryo": 11935145,
    "clan": "The Tank Crew",
    "wins": 168,
    "losses": 0,
@@ -1247,24 +1247,24 @@
    "username": "trfx__",
    "avatar": "https://cdn.discordapp.com/avatars/1481032198932008980/b196dd48426088f7001f2c8a65898a8b.png?size=128",
    "level": 21,
-   "xp": 2968,
-   "ryo": 115226,
+   "xp": 3187,
+   "ryo": 117076,
    "clan": "Heaven Kingdom Domination",
-   "wins": 39,
+   "wins": 40,
    "losses": 8,
-   "rating": 1242
+   "rating": 1247
   },
   {
    "rank": 5,
    "username": "yamada9",
    "avatar": "https://cdn.discordapp.com/avatars/1543478459958042715/278ec8c8a9baa3e8e3bfbb9f313a5622.png?size=128",
    "level": 7,
-   "xp": 21,
-   "ryo": 30941,
+   "xp": 27,
+   "ryo": 30957,
    "clan": "Exiled Heavy Knight",
    "wins": 4,
-   "losses": 3,
-   "rating": 1055
+   "losses": 4,
+   "rating": 1045
   },
   {
    "rank": 6,
